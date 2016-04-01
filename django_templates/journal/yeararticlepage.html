@@ -1,0 +1,37 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% load url from future %}
+
+{% block banner %}
+<hgroup>
+	<h1>Articles on Year {{year}} </h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div>
+	{% for manu in manuscripts %}
+	<div class="articlelist"><p><b>Title: </b><a href="{{manu.get_absolute_url}}">{{ manu.title }}</a></p>
+	<p><b>Abstract: </b>{{ manu.abstract | safe }}</p>
+	<p style="text-align:left;color:grey"><b>Date Published: </b>{{manu.create_time}} <span style="float:right"><b>E locator:</b> {{manu.e_locator}} </span></p>
+	</div>
+	{% endfor %}
+	<br/>
+	<br/>
+	<div class="pagination">
+    <span class="step-links">
+        {% if manuscripts.has_previous %}
+            <a href="?page={{ manuscripts.previous_page_number }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ manuscripts.number }} of {{ manuscripts.paginator.num_pages }}.
+        </span>
+
+        {% if manuscripts.has_next %}
+            <a href="?page={{ manuscripts.next_page_number }}">next</a>
+        {% endif %}
+    </span>
+</div>
+	</div>
+</article>
+{% endblock %}

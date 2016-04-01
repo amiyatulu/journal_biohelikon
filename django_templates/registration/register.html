@@ -1,0 +1,124 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<script src='https://www.google.com/recaptcha/api.js'></script>
+{% endblock %}
+
+{% block loginblock %}
+{% endblock %}
+{% block header %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'tracking:home' %}">Biohelikon Tracking</a>
+        <ul class="social-icons">
+          
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            
+            <li>
+              <a href="{% url 'tracking:register' %}"><i class="fa fa-bars fa-lg"> </i>&nbsp;&nbsp;Register</a>
+            </li>
+          {% include "tracking/commonlinks.html" %}
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Create your Biohelikon Account</h1>
+       </hgroup>
+       <article role="main" class="clearfix">
+       <div class="signup-space">
+           <div class="signup-box">
+               <form action="{{request.path}}" method="post">
+     {% csrf_token %} 
+<label>
+<strong>{{form.username.label_tag}}</strong>
+{{form.username}}
+<span class="errorlist">
+{{form.username.errors.as_text}}
+</span><br/>
+</label>
+<label>
+<strong>{{form.email.label_tag}}</strong>
+{{form.email}}
+<span class="errorlist">
+{{form.email.errors.as_text}}
+</span><br/>
+</label>
+<label>
+<strong>
+{{form.first_name.label_tag}}</strong>
+{{form.first_name}}
+<span class="errorlist">
+{{form.first_name.errors.as_text}}
+</span><br/>
+</label>
+<label>
+<strong>
+{{form.last_name.label_tag}}</strong>
+{{form.last_name}}
+<span class="errorlist">
+{{form.last_name.errors.as_text}}
+</span><br/>
+</label>
+<label>
+<strong>
+{{form.password.label_tag}}</strong>
+{{form.password}}
+<span class="errorlist">
+{{form.password.errors.as_text}}
+</span><br/>
+</label>
+<label>
+<strong>
+{{form.password2.label_tag}}</strong>
+{{form.password2}}
+<span class="errorlist">
+{{form.password2.errors.as_text}}
+</span><br/>
+</label>
+<label class="class_textarea">
+<strong>
+{{form.address.label_tag}}</strong>
+{{form.address}}
+<span class="errorlist">
+{{form.address.errors.as_text}}
+</span><br/>
+</label>
+<label class="class_textarea">
+<strong>
+{{form.research_interest_keywords.label_tag}}</strong>
+{{form.research_interest_keywords}}
+<span class="errorlist">
+{{form.research_interest_keywords.errors.as_text}}
+</span><br/>
+</label><br/>
+<br/>
+<label>
+<span class="errorlist">
+{{form.captcha}}
+{{form.captcha.errors.as_text}}
+</span><br/>
+
+</label> 
+      <input type="submit" name="myregister" id="submitbutton" value="Create an account">
+  </form>
+  </div>
+           </div>
+           <aside role="complementary">
+               <a href="#demo-url"><img src="http://lorempixel.com/420/290/nature/" alt="Lorem ipsum dolor..."></a>
+           </aside>
+       </article>
+{% endblock %}
+
+
+
+
+{% block container %}
+  
+{% endblock %}

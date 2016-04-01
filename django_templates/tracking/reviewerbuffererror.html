@@ -1,0 +1,24 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block banner %}
+<hgroup>
+           <h1>Reviewer Buffer</h1>
+       </hgroup>
+    <article role="main" class="clearfix">
+<div class="class_textarea">
+{% for error in err %}
+{{ error }}<br>
+{% endfor %}
+
+{% if mail %}
+
+<p>Following mails are not accepted due to unique constraint or due to error</p>
+{% for m in mail %}
+{{ m }}<br/>
+{% endfor %}
+{% else %}
+<p>Invitation to all the reviewer are successfully sent.</p> 
+{% endif %}
+</div>
+</article>
+{% endblock %}

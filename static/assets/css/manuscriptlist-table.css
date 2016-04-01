@@ -1,0 +1,11 @@
+.manuscriptlist table {
+   width: 100%;
+   border: 1px solid #e3e3e3;
+   margin: 1em 25px;
+   text-align: left; }
+.manuscriptlist th {
+   font-weight: bold;
+   background-color: #e3e3e3;
+   border-bottom: 1px solid #e3e3e3; }
+.manuscriptlist td,th {
+   padding: 4px 5px; }

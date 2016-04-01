@@ -1,0 +1,76 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<script src="{{ STATIC_URL }}assets/js/libs/jquery-1.10.2.min.js"></script>
+  <script>window.jQuery || document.write('<script src="{{ STATIC_URL }}assets/js/libs/jquery-1.10.2.min.js"><\/script>')</script>
+  <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/manuscriptlist-table.css">
+
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Submitted Manuscript Details</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+<table class="manuscriptlist">
+<thead>
+ <tr>
+     <th>Manuscript Title</th>
+     <th>Review Comments</th>
+     <th>Status</th>
+     <th><span title="Number of accepted reviewers">Accepted</span>/<span title="Number of reviews">Reviews</span></th>
+</thead>
+
+{% for manuscript in manuscripts %}
+<tr>
+   <td>
+  <a href="{% url 'tracking:manuscriptdetails' mid=manuscript.id %}">{{ manuscript.title }}</a> <br/>
+  </td>
+  <td>
+  <a href="{% url 'tracking:commentpage' mid=manuscript.id %}">View</a>
+  </td>
+  <td>
+  {{ manuscript.manuscriptstatus.get_status_display }}
+  </td>
+  <td>
+  {{manuscript.reviewer_set.count}}/{{manuscript.review_set.count}}
+  </td>
+</tr>
+{% endfor %}
+
+</table>
+<div class="pagination">
+<span class="step-links">
+  {% if manuscripts.has_previous %}
+  <a href="?page={{ manuscripts.previous_page_number}}">Previous</a>
+  
+  {% endif %}
+  
+  {% if not manuscripts.has_previous and manuscripts.has_next %}
+  <span class="current">
+      Page {{manuscripts.number}} of {{manuscripts.paginator.num_pages }}
+      
+  </span>
+  {% endif %}
+   {% if mauscripts.has_next %}
+            <a href="?page={{ contacts.next_page_number }}">Next</a>
+        {% endif %}
+</span>
+
+</div>
+</div>
+<aside role="sidelinks">
+              <nav id="onside">
+              <ul>
+              <li>
+              <a href="{% url 'tracking:submission' %}">New Submission</a>
+              </li>
+             
+              </ul>
+              </nav>
+           </aside>
+</article>
+{% endblock %}

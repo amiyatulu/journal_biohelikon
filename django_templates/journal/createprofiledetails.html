@@ -1,0 +1,17 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% block banner %}
+<hgroup>
+	<h1>Profile</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post class_bigtextarea">
+<form action="{{request.path}}" method="post" enctype="multipart/form-data">{% csrf_token %}
+
+{{ form.as_p }}
+<input type="submit" id="submitbutton" value="Submit" />
+</form>
+</div>
+</article>
+{% endblock %}

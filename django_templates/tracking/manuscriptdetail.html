@@ -1,0 +1,96 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/liststyle.css">
+
+{% endblock %}
+{% block header %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'tracking:home' %}">Biohelikon Tracking</a>
+        <ul class="social-icons">
+          {% include "tracking/socialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            
+            
+            <li>
+              <a href="{{ request.path }}"><i class="fa fa-list-alt fa-lg"> </i>&nbsp;&nbsp;Manuscript Details</a>
+            </li>
+            
+            {% include "tracking/commonlinks.html" %}
+            
+           
+          </ul>
+        </nav>
+      </div>
+  </header>
+  {% endblock %}
+ {% block banner %}
+<hgroup>
+           <h1>Manuscript Details</h1>
+           <h2>Manuscript Id: {{ manuscript.id}}</h2>
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+  
+  
+<dl>
+<dt> <b>Manuscript Title</b> </dt>
+<dd>{{ manuscript.title}} </dd>
+<dt><b>Authors</b></dt>
+<dd>{{ manuscript.authors}} </dd>
+<dt><b>Author's Affiliation</b></dt>
+<dd>{{ manuscript.authors_affiliation|linebreaks }} </dd>
+<dt><b>Corresponding Author Name</b></dt>
+<dd>{{ manuscript.corresponding_author_name }}</dd>
+<dt><b>Corresponding Author Email</b></dt>
+<dd>{{ manuscript.corresponding_author_email}} </dd>
+<dt> <b>Corresponding Author Address</b> </dt>
+<dd>{{ manuscript.corresponding_author_address|linebreaks}} </dd>
+<dt><b>City</b></dt>
+<dd>{{ manuscript.city}} </dd>
+<dt><b>Country</b></dt>
+<dd>{{ manuscript.country}}</dd>
+<dt><b>Abstract / Introduction</b></dt>
+<dd>{{ manuscript.abstract|linebreaks }} </dd>
+<dt><b>Create Time</b></dt>
+<dd>{{ manuscript.create_time }} UTC </dd>
+<dt><b>Update Time</b></dt>
+<dd>{{ manuscript.update_time }} UTC</dd>
+<dt><b>Uploads</b></dt>
+<dd>
+{% for upload in uploads %}
+<ul>
+<li>
+<a href="{{ MEDIA_URL }}{{upload.files}}">{{ upload.filename }}</a> {{ upload.create_time }} UTC<br/>
+</li>
+</ul>
+{% endfor %}
+<dd>
+</dl>
+</div>
+<aside role="sidelinks">
+              <nav id="onside">
+              <ul>
+              <li>
+              <a href="{% url 'tracking:submission' %}">New Submission</a>
+              </li>
+              <li>
+              <a href="{% url 'tracking:manuscriptupdate' mid=manuscript.id %}">Update Current Manuscript</a>
+              </li>
+              <li>
+              <a href="{% url 'tracking:uploadfile' mid=manuscript.id %}">Upload More Files to Current Manuscript</a>
+              </li>
+              <li>
+              <a href="{% url 'tracking:commentpage' mid=manuscript.id %}">Review Page</a>
+              </li>
+              </ul>
+              </nav>
+           </aside>
+</article>
+
+{% endblock %}

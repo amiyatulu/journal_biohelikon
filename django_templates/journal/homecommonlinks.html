@@ -1,0 +1,17 @@
+{% load url from future %}			
+			<li>
+              <a href="{% url 'journal:journalhome' %}"><i class="fa fa-home fa-lg"> </i>&nbsp;&nbsp;Home</a>
+            </li>
+            <li>
+              <a href="{% url 'faqspage' %}"><i class="fa fa-question-circle fa-lg"> </i>&nbsp;&nbsp;Faqs</a>
+            </li>
+           
+            <li>
+              <a href="{% url 'journal:journalarticle' linkid=linkid %}"><i class="fa fa-file fa-lg"> </i>&nbsp;&nbsp;Articles</a>
+            </li>
+            
+            <li>
+              <a href="{% url 'journal:journalebmembers' linkid=linkid %}"><i class="fa fa-user fa-lg"> </i>&nbsp;&nbsp;Editorial Board</a>
+            </li>
+            
+           

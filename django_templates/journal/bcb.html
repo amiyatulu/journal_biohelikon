@@ -1,0 +1,36 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %}  
+{% block header %} 
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'journal:journalhome' %}">Biohelikon</a>
+        <ul class="social-icons">
+        {% include "journal/journalsocialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            {% include "journal/bcbhomecommonlinks.html" %}
+            
+            
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Computational Biology</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post journalhome">
+	<h3>Aims &amp; Scope</h3><p>Computational Biology is an interdisciplinary research area that deals with all kinds of computational data in the field of biology.</p>
+    <h3>Salient Features</h3><p>Your article will be usually processed with in 45 days of submission with assignment of reviewer after two days of submission.</p>
+    <h3>Why Open Access?</h3><p>Open access gives a worldwide audience larger than that of any subscription-based journal and thus increases the visibility and impact of published works. It also enhances indexing, retrieval power and eliminates the need for permissions to reproduce and distribute content.</p>
+	</div>
+    <aside role="sidelinks">
+    <img src="{{ STATIC_URL }}assets/images/dna.jpg">
+    </aside>
+</article>
+
+{% endblock %}

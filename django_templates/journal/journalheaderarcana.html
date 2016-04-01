@@ -1,0 +1,16 @@
+{% load url from future %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'journal:journalhome' %}">Biohelikon</a>
+        <ul class="social-icons">
+        {% include "tracking/socialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            {% include "journal/journalhomecommonlinks.html" %}
+            
+            
+          </ul>
+        </nav>
+      </div>
+  </header>

@@ -1,0 +1,68 @@
+
+{% load url from future %}
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+ <title>Biohelikon</title>
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+{% endblock %}
+
+</head>
+<!--[if lt IE 7]> <body class="ie6 oldies"> <![endif]-->
+<!--[if IE 7]>    <body class="ie7 oldies"> <![endif]-->
+<!--[if IE 8]>    <body class="ie8 oldies"> <![endif]-->
+<!--[if gt IE 8]><!--><body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!--<![endif]-->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+{% block loginblock %}
+{% include "tracking/loginblock.html" %}
+{% endblock %}
+
+{% block header %}
+{% include "tracking/headerarcana.html" %}
+{% endblock %}
+
+<section role="banner">
+{% block banner %}
+{% include "tracking/bannerarcana.html" %}
+{% endblock %}
+</section> <!-- // banner ends -->
+
+<section class="container">
+{% block container %}
+{% include "tracking/containerarcana.html" %}
+{% endblock %}
+</section>
+
+{% block footer %}
+{% include "tracking/footerarcana.html" %}
+{% endblock %}
+
+{%block script2 %}
+{% include "tracking/script2arcana.html" %}
+{% endblock %}
+<script>
+
+$( document ).ready(function() {
+	var activeurl = window.location.pathname;
+	$('nav.clearfix a[href="'+activeurl+'"]').addClass('activePage');   
+});
+
+</script>
+<script type="text/javascript">
+window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+
+</html>

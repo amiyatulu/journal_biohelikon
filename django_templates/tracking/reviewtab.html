@@ -1,0 +1,78 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+  <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/manuscriptlist-table.css">
+
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Manuscript Under Review</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+<table class="manuscriptlist">
+<thead>
+ <tr>
+     <th>Manuscript Title</th>
+     <th>Review Comments</th>
+     <th>Status</th>
+     <th><span title="Number of accepted reviewers">Accepted</span>/<span title="Number of reviews">Reviews</span></th>
+</thead>
+
+{% for rev in reviews %}
+<tr>
+   <td>
+ {{ rev.manuscript.title }}
+  </td>
+  <td>
+  <a href="{% url 'tracking:commentpage' mid=rev.manuscript.id %}">View</a>
+  </td>
+  <td>
+  {{ rev.manuscript.manuscriptstatus.get_status_display }}
+  </td>
+  <td>
+  {{rev.manuscript.reviewer_set.count}}/{{rev.manuscript.review_set.count}}
+  </td>
+</tr>
+{% endfor %}
+
+</table>
+<div class="pagination">
+<span class="step-links">
+  {% if manuscripts.has_previous %}
+  <a href="?page={{ manuscripts.previous_page_number}}">Previous</a>
+  
+  {% endif %}
+  
+  {% if not manuscripts.has_previous and manuscripts.has_next %}
+  <span class="current">
+      Page {{manuscripts.number}} of {{manuscripts.paginator.num_pages }}
+      
+  </span>
+  {% endif %}
+   {% if mauscripts.has_next %}
+            <a href="?page={{ contacts.next_page_number }}">Next</a>
+        {% endif %}
+</span>
+
+</div>
+</div>
+<aside role="sidelinks">
+              <nav id="onside">
+              <ul>
+              <li>
+<a href="{% url 'tracking:accesscode' %}"><i class="fa fa-unlock-alt"> </i>&nbsp;&nbsp;Enter Access Code</a>
+</li>
+<li>
+<a href="{% url 'tracking:searchaccesscode' %}"><i class="fa fa-search"> </i>&nbsp;&nbsp;Search Access Code</a>
+</li>
+             
+              </ul>
+              </nav>
+           </aside>
+</article>
+</article>
+{% endblock %}

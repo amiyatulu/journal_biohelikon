@@ -1,0 +1,22 @@
+{% load url from future %}
+<section role="review">
+<p><b>Title:</b><br/>Is the article title is catchy and thought-provoking? If not, please suggest any other title that you have in mind.</p> 
+{{ review.title|linebreaks }}
+<p><b>Originality:</b><br/>Is the content of article original? Please give the information of article that contains similar contents, if the article is not original.</p>
+{{ review.originality|linebreaks }}
+<p><b>Typo Errors:</b><br/>Does the article contain any typo or grammatical errors? Please provide details of the errors.</p>
+{{ review.typo_errors|linebreaks }}
+<p><b>Deepness:</b><br/>Does the article provide details regarding the topic? Please provide any suggestions of improvement of the article.</p> 
+{{ review.deepness|linebreaks }}
+<p><b>Comprehensible:</b><br/>Is the article easy to understand and precise? Please mention the parts that are difficult to understand.</p>
+{{ review.comprehensible|linebreaks }}
+<p><b>Overall Comments:</b></p> 
+{{ review.overall_comments|linebreaks}}
+<p class="reviewerdetails"><span class="time">Create Time: {{ review.create_time }} UTC <br/> Update Time: {{ review.update_time }} UTC<br/></span> -<span class="username">{{ review.user.username}}</span></p><br/><br/><br/>
+{% if review.user == request.user %}
+
+<a href="{% url 'tracking:updatereview' rid=review.id %}" class="button_style">update</a> or 
+
+<a href="{% url 'tracking:reviewupload' mid=mid %}" class="button_style">upload</a> <br/><br/><br/>
+{% endif %}
+</section>

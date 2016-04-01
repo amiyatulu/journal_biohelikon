@@ -1,0 +1,38 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% load url from future %}
+
+{% block header %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'tracking:home' %}">Biohelikon Tracking</a>
+        <ul class="social-icons">
+          
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            
+            <li>
+              <a href="{{ request.path }}"><i class="fa fa-lock fa-lg"> </i>&nbsp;&nbsp;Access Code</a>
+            </li>
+           {% include "tracking/commonlinks.html" %}
+            
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Access Code</h1>
+           <h2>Review Manuscript Using Access Code</h2>
+       </hgroup>
+<article role="main" class="clearfix">
+{{ error }}
+<form action="{{request.path}}" method="post">{% csrf_token %}
+{{ form.as_p }}
+<input type="submit" id="submitbutton" value="Submit" />
+</form>
+</article>
+{% endblock %}

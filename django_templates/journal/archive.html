@@ -1,0 +1,23 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% load url from future %}
+
+{% block banner %}
+<hgroup>
+	<h1>Articles Archive</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="postarticle">
+<h3>Year 2015 (Volume 3)</h3>
+<p><a href="{% url 'issue' volume='3' issue='1' %}">Issue 1 </a></p>
+<p><a href="{% url 'issue' volume='3' issue='2' %}">Issue 2 </a></p>
+<h3>Year 2014 (Volume 2)</h3>
+<p><a href="{% url 'issue' volume='2' issue='1' %}">Issue 1 </a></p>
+<p><a href="{% url 'issue' volume='2' issue='2' %}">Issue 2 </a></p>
+<h3>Year 2013 (Volume 1)</h3>
+<p><a href="{% url 'issue' volume='1' issue='1' %}">Issue 1 </a></p>
+<p><a href="{% url 'issue' volume='1' issue='2' %}">Issue 2 </a></p>
+</div>
+</article>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "journal/journalextend.html" %} 
+{% load url from future %}
+
+{% block banner %}
+<hgroup>
+	<h1>Instructions for Authors</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="class_justify">
+	{{ instructions.block1 | safe }}
+	</div>
+</article>
+{% endblock %}

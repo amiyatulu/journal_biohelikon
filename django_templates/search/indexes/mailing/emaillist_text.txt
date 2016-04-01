@@ -1,0 +1,5 @@
+{{object.email}}
+{{object.name}}
+{{object.subscription}}
+{{object.affiliation}}
+{{object.lastsent}}

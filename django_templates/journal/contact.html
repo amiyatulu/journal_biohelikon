@@ -1,0 +1,37 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %} 
+{% block script %} 
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/tabmenu.css">
+{% endblock %} 
+{% block header %} 
+{% include "journal/journalheaderarcana.html" %} 
+{% endblock %} 
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Open Access</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="postarticle">
+		<div id='cssmenu'>
+			<ul>
+				<li><a href="{% url 'journal:journalhome' %}"><span>Recent
+							Articles</span></a></li>
+				<li><a href="{% url 'journal:journallist' %}"><span>Subjects</span></a></li>
+				<li><a href="{% url 'journal:submissioninstructions' %}"><span>Instructions
+							for Submission</span></a></li>
+				<li><a href="{% url 'journal:reviewerguide' %}"><span>Reviewer Guidelines</span></a></li>
+				<li class="active"><a href='#'><span>Contact</span></a></li>
+			</ul>
+		</div>
+		<div class="menuwhite">
+		Amiya Behera <br/>
+		Charampa, Bhadrak <br/>
+		Odisha <br/>
+		India- 756101 <br/>
+		Email: contact@biohelikon.org<br/>
+		</div>
+	</div>
+</article>
+{% endblock %}

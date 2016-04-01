@@ -1,0 +1,19 @@
+{% load url from future %}
+{% if user.is_authenticated %}
+
+<li>
+<a href="{% url 'tracking:accesscode' %}"><i class="fa fa-unlock-alt"> </i>&nbsp;&nbsp;Enter Access Code</a>
+</li>
+
+
+
+{% endif %}
+{% if user.is_anonymous %}
+<!--[if gt IE 8]><!-->
+<li>
+
+<a href="{% url 'tracking:login2' %}"><i class="fa fa-unlock-alt"> </i>&nbsp;&nbsp;login in new page</a>
+</li>
+
+<!--<![endif]-->
+{% endif %}

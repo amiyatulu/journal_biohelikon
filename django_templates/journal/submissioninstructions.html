@@ -1,0 +1,75 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %} 
+{% block script %} 
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/tabmenu.css">
+{% endblock %} 
+{% block header %} 
+{% include "journal/journalheaderarcana.html" %} 
+{% endblock %} 
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Open Access</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="postarticle">
+		<div id='cssmenu'>
+			<ul>
+				<li><a href="{% url 'journal:journalhome' %}"><span>Recent
+							Articles</span></a></li>
+				<li><a href="{% url 'journal:journallist' %}"><span>Subjects</span></a></li>
+				<li class='active'><a href='#'><span>Instructions
+							for Submission</span></a></li>
+				<li><a href="{% url 'journal:reviewerguide' %}"><span>Reviewer Guidelines</span></a></li>
+				<li><a href="{% url 'journal:contact' %}"><span>Contact</span></a></li>
+			</ul>
+		</div>
+		<div class="menuwhite">
+			<p>
+				Manuscript Submission process of Biohelikon includes three steps: <br />
+				<br /> <b>Step 1 (Registration): </b><br /> First of all you need to
+				create an account by signing up. This step is not required if you
+				have created an account before. Then you can login into your
+				account, by clicking on Log In button.<br />
+				<br /> <b>Step 2 (Form Submission):</b><br /> After login, click on
+				the Manuscript button, to submit your manuscript.<br /> You will be
+				given a form with following fields, which you need to fill. <br />
+			<div style="padding-left: 50px;">
+				<ul>
+					<li>Title of the article</li>
+					<li>Authors</li>
+					<li>Authors affiliation</li>
+					<li>Corresponding author name</li>
+					<li>Corresponding author Email</li>
+					<li>Corresponding author city</li>
+					<li>Corresponding author country</li>
+					<li>Abstract of the article / Introduction</li>
+				</ul>
+			</div>
+
+			<p>Then click on the Submit button to follow Step 3:<br />
+			<br /> <b>Step 3 (Uploading):</b><br /> Please upload all the files
+			including source file, images, equations and references.<br /> Please
+			mention the article type (e.g. Editorial,Research etc.) in your
+			source file. Source file can be of doc or docx format.<br />In order to make the peer review blind, please don't mention author details in the source file.<br/> Body
+			reference numbers should be kept within square brackets
+			[&nbsp;&nbsp;] and should be in increasing order.<br /> References can be of MLA, APA or Chicago format.<br/> Mention the
+			figure and table legends below each figure and table.<br /> Files can
+			be uploaded in batch. You can remove the file by clicking on the
+			delete button any time before saving your files.<br />
+			</p>
+			<br />
+			<p>
+				A manuscript id will be assigned to you. You can contact us any time
+				regarding status of the article under process.<br /> You can view
+				your manuscript in <b>Manuscript</b> tab, after signing in. You can
+				also update and upload the updated manuscript any time in response
+				to reviewer remarks. You are advised to submit your revised
+				manuscript based upon the reviewer comments within 15 days.
+			</p>
+
+		</div>
+	</div>
+</article>
+{% endblock %}

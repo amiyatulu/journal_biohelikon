@@ -1,0 +1,31 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+
+{% block loginblock %}
+{% endblock %}
+{% block banner %}
+<div class="loginform2">
+{% if form.errors %}
+<p>Your username and password didn't match. Please try again.</p>
+{% endif %}
+<h2>Login Form</h2>
+{{ state }}
+{% if next %}
+<form method="post" action="{% url 'tracking:login2'  %}?next={{next}}">
+{% else %}
+<form method="post" action="{% url 'tracking:login2'  %}">
+{% endif %}
+
+{% csrf_token %}
+
+		username/email:
+		<input type="text" name="username" value="{{ username}}" /><br />
+		password:
+		<input type="password" name="password" value="" /><br />
+
+		<input type="submit"  name= "mylogin" value="Log In" />
+
+</form>
+<p><a href="{% url 'tracking:password_reset' %}">Forgot Password</a></p>
+</div>
+{% endblock %}

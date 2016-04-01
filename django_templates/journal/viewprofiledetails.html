@@ -1,0 +1,60 @@
+{% extends extendname %} 
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/ebmember.css">
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>Profile Details</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post ebmember">
+	<dl>
+	<dt>Name</dt>
+     <dd> {{ profile.user.first_name }} {{ profile.user.last_name }}</dd>
+     <dt>Score</dt>
+     <dd> {% if profile.user.points.score %} {{ profile.user.points.score }} {% else %} 0 {% endif %} &nbsp;&nbsp;&nbsp;<a href="{% url 'tracking:activitiesdetails' uid=profile.user.id  %}">(Manuscript Reviewed)</a></dd>
+      <dt>Address </dt>
+     <dd> {{ profile.address|linebreaks}}</dd>
+     <dt>Research Interest</dt>
+     <dd> {{ profile.research_interest|linebreaks}} </dd>
+      <dt  class="mouse">Education</dt>
+      <dd class="mos">{{ profile.education|linebreaks }} </dd>
+      <dt  class="mouse">Experience </dt>
+      <dd class="mos">{{ profile.experience|linebreaks }} </dd>
+      <dt class="mouse">Publications </dt>
+      <dd class="mos">{{ profile.publications|linebreaks }} </dd>
+    </dl>
+	</div>
+	<aside role="sidelinks">
+	<div class="ebphoto">
+	{% if profile.photo %}
+	<img src="{{ MEDIA_URL }}{{profile.photo}}"/>
+	{% endif %}
+	</div>
+	</aside>
+</article>
+{% endblock %}
+
+{%block script2 %}
+{% include "tracking/script2arcana.html" %}
+<script>
+
+
+(function(){
+    
+    $('dd').filter(':nth-child(n+9)').addClass('hide');
+    $('dl').on('click','dt.mouse',function(){
+        $(this)
+            .next()
+                .slideDown(100)
+                    .siblings('dd.mos')
+                        .slideUp(100);
+    });
+    
+})();
+
+</script>
+{% endblock %}

@@ -1,0 +1,1074 @@
+jhhsu@berkeley.edu	Joanne H Hsu	Department of Molecular and Cell Biology, University of California, Berkeley (UCB), Berkeley, CA 94720, USA. 
+f.schachat@cellbio.duke.edu	Fred Schachat	Division of Physiology, Department of Cell Biology, Duke University Medical School, Box 3011, Durham, NC, 27710, USA, 
+yanl2@umdnj.edu	Lin Yan	Department of Cell Biology and Molecular Medicine, Cardiovascular Research Institute, UMDNJ-New Jersey Medical School, 185 South Orange Avenue, MSB G-609, Newark, NJ, 07103, USA, 
+racioppi@unina.it	Luigi Racioppi	Department of Medicine, Duke University, Research Drive, 245 Carl Building, 27707 Durham, NC, USA; Department of Cellular and Molecular Biology, University of Naples Federico II, Via Pansini 5, 80131 Naples, Italy. Electronic address: 
+ikfarrance@verizon.net	Iain Farrance	Center for Stem Cell Biology and Regenerative Medicine, University of Maryland School of Medicine, 655 Baltimore Street, Baltimore, 21201, MD, USA. Electronic address: 
+coussenl@ohsu.edu	Lisa M Coussens	Department of Cell and Developmental Biology, Knight Cancer Institute, Oregon Health and Science University, Portland, OR 97239-3098, USA. 
+ganna.bilousova@ucdenver.edu	Ganna Bilousova	Department of Dermatology, Charles C. Gates Center for Regenerative Medicine and Stem Cell Biology, University of Colorado Denver, Aurora, CO, USA, 
+aboiko@stanford.edu	Alexander D Boiko	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA, USA, 
+xiangz@bcm.edu	Jarrod Martinez	Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA. 
+r-vassar@northwestern.edu	William A Eimer	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, 303 East Chicago Avenue, Chicago, IL, 60611, USA. 
+babu.guda@unmc.edu	Ru Shen	Department of Genetics, Cell Biology and Anatomy, University of Nebraska Medical Center, Omaha, NE, 68198, USA. 
+fi1tesem@uco.es	S Sangiao-Alvarellos	PhD, Department of Medicine, School of Health Science, Campus de Oza s/n. 15006, University of A Coruña, A Coruña, Spain. susana.sangiao@udc.es. Or to Manuel Tena-Sempere, MD, PhD, Department of Cell Biology, Physiology and Immunology, Faculty of Medicine, Avda, Menendez Pidal s/n.14004, University of Córdoba, Córdoba, Spain. Email: 
+zarko001@umn.edu	David Zarkower	Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, Minnesota, USA. Electronic address: 
+xiajun.li@mssm.edu	Xiajun Li	Black Family Stem Cell Institute, Mount Sinai School of Medicine, New York, USA; Department of Developmental and Regenerative Biology, Mount Sinai School of Medicine, New York, USA; Department of Oncological Sciences, Mount Sinai School of Medicine, New York, USA; Graduate School of Biological Sciences, Mount Sinai School of Medicine, New York, USA. Electronic address: 
+eric.bouhassira@einstein.yu.edu	Eric E Bouhassira	Departments of Cell Biology and Medicine, Albert Einstein College of Medicine, New York, NY, USA. 
+ab8su@virginia.edu	Alexia I Bachir	Department of Cell Biology, University of Virginia, Charlottesville, Virginia, USA. Electronic address: 
+lamb.129@osu.edu	Srilakshmi Makkena	Plant Cellular and Molecular Biology Graduate Program, The Ohio State University, Columbus, OH, USA. 
+parkmi@umdnj.edu	Misun Park	Department of Cell Biology and Molecular Medicine, Cardiovascular Research Institute, New Jersey Medical School, University of Medicine and Dentistry of New Jersey, Newark, NJ 07103, USA. 
+tas2009@med.cornell.edu	Tao Sun	Department of Cell and Developmental Biology, Weill Medical College of Cornell University, 1300 York Avenue, Box 60, New York, NY, 10065, USA, 
+maxgalla@iupui.edu	Maxime A Gallant	Department of Anatomy and Cell Biology, Indiana University School of Medicine, 635 Barnhill Dr, MS-5035, Indianapolis, IN, 46202, USA. Electronic address: 
+amt10@case.edu	Alan Michael Tartakoff	Pathology Department and Cell Biology Program, Case Western Reserve University, 2103 Cornell Road, Cleveland, OH 44106, USA. Electronic address: 
+robert_reenan@brown.edu	Yiannis A Savva	Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, Rhode Island 02912, USA. 
+sherman@phys.huji.ac.il	Eilon Sherman	Laboratory of Cellular and Molecular Biology, CCR, NCI, NIH, Bethesda, MD 20892, USA. Electronic address: 
+kkn21@cam.ac.uk	Kathy K Niakan	The Howard Hughes Medical Institute, Harvard Stem Cell Institute and the Department of Stem Cell and Regenerative Biology, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA; Centre for Trophoblast Research, Department of Physiology, Development and Neuroscience, Anne McLaren Laboratory for Regenerative Medicine, University of Cambridge, West Forvie Building, Robinson Way, Cambridge CB2 0SZ, UK. Electronic address: 
+ryuval@stanford.edu	Yuval Rinkevich	Institute of Stem Cell Biology and Regenerative Medicine, Departments of Pathology and Developmental Biology, Stanford University School of Medicine, Stanford, CA 94305, USA; Hopkins Marine Station, Stanford University, Pacific Grove, CA 93950, USA. Electronic address: 
+katerina.fagansolis@gmail.com	Katerina D Fagan-Solis	Molecular and Cellular Biology Graduate Program, University of Massachusetts Amherst, Amherst, MA, USA. 
+ctleung@umn.edu	Cheuk T Leung	Department of Cell Biology, Harvard Medical School, Boston, MA, USA. 
+jay.schneider@jefferson.edu	J S Schneider	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, Philadelphia, PA 19107, USA. Electronic address: 
+aveis@northwestern.edu	Arthur Veis	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, 303 E. Chicago Avenue, Chicago, 60611, USA, 
+joanncam@illinois.edu	Jo Ann Cameron	Department of Cell and Developmental Biology, Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA, 
+brandt.schneider@ttuhsc.edu	Huzefa Dungrawala	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, 3601 4th St Rm, 5C119, Lubbock, TX, 79430, USA. 
+neil_ganem@dfci.harvard.edu	Neil J Ganem	Howard Hughes Medical Institute, Department of Pediatric Oncology, Dana-Farber Cancer Institute, Children's Hospital, Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+rebeccalbeer@gmail.com	Rebecca L Beer	Department of Molecular and Cellular Biology, University of California, Davis Davis, CA 95616, USA. Electronic address: 
+inwoo.park@unthsc.edu	In-Woo Park	Department of Cell Biology and Anatomy, Graduate School of Biomedical Sciences, University of North Texas Health Science Center, CBH-316, 3500 Camp Bowie Blvd, Fort Worth, TX, 76107, USA, 
+d-milner@life.uiuc.edu	Derek J Milner	Department of Cell and Developmental Biology, Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA, 
+j-henry4@life.illinois.edu	Jonathan J Henry	Department of Cell and Developmental Biology, University of Illinois, 601 S. Goodwin Avenue, Urbana, IL, 61801, USA, 
+kimurato@ph.ritsumei.ac.jp	Tominori Kimura	Laboratory of Microbiology and Cell Biology, Department of Pharmacy, College of Pharmaceutical Sciences, Ritsumeikan University, Kusatsu, Shiga, 525-8577, Japan, 
+don.fox@duke.edu	Donald T Fox	Department of Pharmacology and Cancer Biology, and Department of Cell Biology, Duke University, Durham, NC 27710, USA. 
+mpowers@emory.edu	Maureen A Powers	Department of Cell Biology, Emory University School of Medicine, Atlanta, GA 30322, USA. 
+kstrange@mdibl.org	Kevin Strange	Boylan Center for Cellular and Molecular Physiology, and Davis Center for Regenerative Biology and Medicine, Mount Desert Island Biological Laboratory, PO Box 35, Old Bar Harbor Road, Salisbury Cove, ME 04672, USA. 
+jorge.ruas@ki.se	Jorge L Ruas	Department of Cell Biology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA 02115, USA. 
+george.daley@childrens.harvard.edu	George Q Daley	Stem Cell Transplantation Program, Division of Pediatric Hematology/Oncology, Manton Center for Orphan Disease Research, Howard Hughes Medical Institute, Children's Hospital Boston and Dana Farber Cancer Institute, Boston, MA 02115, USA. 
+datta_k2003@yahoo.com	Kamal Datta	Department of Biochemistry and Molecular &amp; Cellular Biology, Georgetown University, 3970 Reservoir Rd, Washington, DC, NW 20057-1468, USA. 
+Kathleen.clouse@fda.hhs.gov	Tzanko S Stantchev	Laboratory of Cell Biology, Division of Monoclonal Antibodies, U,S, Food and Drug Administration, Bethesda, MD, 20892, USA. 
+cfuller@uab.edu	Cathy M Fuller	Department of Cell, Developmental and Integrative Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA. 
+sr438@drexel.edu	Siddhartha Rawat	Graduate Program in Molecular and Cellular Biology and Genetics, Drexel University College of Medicine, Philadelphia, PA 19102, USA. 
+xiad@mail.nih.gov	Di Xia	Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA. Electronic address: 
+michael.schlame@med.nyu.edu	Michael Schlame	Department of Anesthesiology and Cell Biology, New York University School of Medicine, 550 First Avenue, New York, NY 10016, USA. Electronic address: 
+Keith_Burridge@med.unc.edu	Keith Burridge	Department of Cell Biology and Physiology, University of North Carolina, Chapel Hill, NC, USA. 
+jmumm@georgiahealth.edu	Xiayang Xie	Department of Cellular Biology and Anatomy, Georgia Health Sciences University, Augusta, GA 30912, USA. 
+mamiller@uab.edu	Michael A Miller	Department of Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham School of Medicine, Birmingham, AL, USA. 
+Tannerkd@mail.nih.gov	Kandice Tanner	Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute (NIH), 37 Convent Dr, Bethesda, MD 20892, USA. 
+studerl@mskcc.org	Lorenz Studer	The Center for Stem Cell Biology, Developmental Biology Program, Sloan-Kettering Institute for Cancer Research, New York, NY, USA. 
+jucai@ufl.edu	Jun Cai	Department of Anatomy &amp; Cell Biology, University of Florida, Gainesville, FL 32610, USA. 
+swang1@tulane.edu	Shusheng Wang	Tulane University, Department of Cell &amp; Molecular Biology, New Orleans, LA 70118, USA. 
+reiter@uthscsa.edu	Russel J Reiter	Department of Cellular and Structural Biology UT Health Science Center San Antonio, Texas, USA. 
+william.snell@utsouthwestern.edu	William J Snell	Cell Biology Department, University of Texas Southwestern Medical School, Dallas, TX 75390, USA. 
+ytao@rice.edu	Yitzhi Jane Tao	Department of Biochemistry and Cell Biology, Rice University, Houston, TX 77005, USA. 
+cozzi@wisc.edu	Nicholas V Cozzi	Neuropharmacology Laboratory, 2695 Medical Sciences Center, Department of Cell and Regenerative Biology, University of Wisconsin School of Medicine and Public Health, 1300 University Avenue, Madison, WI 53706, USA; Alexander Shulgin Research Institute, 1483 Shulgin Road, Lafayette, CA 94549, USA. Electronic address: 
+jadijan1@gmail.com	Jeffrey Adijanto	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, Philadelphia, PA, USA. 
+yang@ucr.edu	Zhenbiao Yang	Center for Plant Cell Biology and Department of Botany and Plant Sciences, University of California, Riverside, CA 92521, USA. 
+halla@mskcc.org	Alan Hall	Memorial Sloan-Kettering Cancer Center, Cell Biology Program, 1275 York Avenue, New York, NY 10065, USA. 
+LeeLund7@gmail.com	Li R Zhao	Department of Neurology/ Cellular Biology and Anatomy Louisiana State University Health Sciences Center-Shreveport 1501 Kings Highway Shreveport, Louisiana 71130 USA. LZhao@lsuhsc.edu; 
+fsotgia@gmail.com	Federica Sotgia	Jefferson Stem Cell Biology and Regenerative Medicine Center; Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA USA. 
+harrripp@uic.edu	Harris Ripps	Departments of Ophthalmology and Visual Science, Anatomy and Cell Biology, Physiology and Biophysics, University of Illinois College of Medicine, Chicago, IL 60612, USA. 
+bruce.appel@ucdenver.edu	Melissa M Langworthy	Departments of Pediatrics and Cell and Developmental Biology, University of Colorado School of Medicine, MS 8108, Aurora, CO, 80045, USA. 
+zjchen@austin.utexas.edu	Sibum Sung	Section of Molecular Cell and Developmental Biology, Center for Computational Biology and Bioinformatics, and Institute for Cellular and Molecular Biology, The University of Texas at Austin, Austin, TX 78712-0159, USA. 
+mh5yu@virginia.edu	Maja Holy	Center for Cell Signaling, University of Virginia School of Medicine, Charlottesville, VA 22908, USA. 
+pardue@musc.edu	Erin P Sproul	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC 29425 USA. Electronic address: 
+chthomas@uh.edu	Christoforos Thomas	Department of Biology and Biochemistry, Center for Nuclear Receptors and Cell Signaling, University of Houston, 3605 Cullen Blvd,, Houston, TX 77204, USA. 
+Horwitz@virginia.edu	Alan Rick Horwitz	Department of Cell Biology, University of Virginia, Charlottesville, Virginia 22908, USA. 
+wange.lu@med.usc.edu	Corey Kelsom	Department of Biochemistry and Molecular Biology, Eli and Edythe Broad Center for Regenerative Medicine and Stem Cell Research, University of Southern California, 1425 San Pablo Street, Los Angeles, CA, 90033, USA. 
+flannery@berkeley.edu	John G Flannery	Neuroscience Division, Department of Molecular and Cell Biology, Helen Wills Neuroscience Institute, University of California, Berkeley, CA, USA. 
+csgasser@ucdavis.edu	Marissa K Simon	Department of Molecular and Cellular Biology, University of California, Davis, CA 95616, USA. 
+skoh@medicine.nevada.edu	Haeyeong Lee	S. D. Koh: Department of Physiology and Cell Biology, University of Nevada School of Medicine, 1664 N. Virginia St MS 0352, Reno, NV 89557, USA. 
+alfred_goldberg@hms.harvard.edu	Alfred L Goldberg	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+lgoldstein@ucsd.edu	Lawrence S B Goldstein	Department of Cellular and Molecular Medicine, University of California, San Diego School of Medicine, La Jolla, CA 92093, USA. 
+spencer.nyholm@uconn.edu	Spencer V Nyholm	Department of Molecular and Cell Biology, University of Connecticut, Storrs, Connecticut 06269, USA. 
+yanc@mail.amc.edu	Chunhong Yan	Center for Cell Biology and Cancer Research, Albany Medical College, MC-165, 47 New Scotland Avenue, Albany, NY 12208, USA. Electronic address: 
+hepstein@utmb.edu	Henry F Epstein	Department of Neuroscience and Cell Biology, The University of Texas Medical Branch at Galveston, Galveston, TX 77555, USA. 
+haifan.lin@yale.edu	Haifan Lin	Yale Stem Cell Center and Departments of Cell Biology and Genetics, Yale University School of Medicine, New Haven, CT 06520, USA. 
+frederick.grinnell@utsouthwestern.edu	Frederick Grinnell	Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX 75390-9039, USA. 
+jbidwell@iupui.edu	Joseph P Bidwell	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN 46202, USA. 
+kent.christopherson@gmail.com	Reem Karmali	1.Division of Hematology/Oncology/Cell Therapy, Rush University Medical Center, 1725 W. Harrison St., Suite 834, Chicago, IL 60612, USA. 
+byang@iastate.edu	Bing Yang	Department of Genetics, Development and Cell Biology, Iowa State University, Ames, IA, USA. 
+m-moore@ski.mskcc.org	Malcolm A S Moore	Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY, USA. 
+agnel.sfeir@med.nyu.edu	Agnel Sfeir	The Helen L and Martin S Kimmel Center for Biology and Medicine at the Skirball Institute of Biomolecular Medicine, Department of Cell Biology, NYU School of Medicine, New York, NY 10016, USA. 
+acheng@scripps.edu	Anchi Cheng	Department of Cell Biology, The National Resource for Automated Molecular Microscopy, The Scripps Research Institute, La Jolla, CA, USA. 
+rdelisle@kumc.edu	Robert C De Lisle	Anatomy and Cell Biology, University of Kansas School of Medicine, Kansas City, KS, 66160, USA. 
+wbrieher@illinois.edu	William M Brieher	Department of Cell and Developmental Biology, University of Illinois, Urbana, IL 61801, USA. Electronic address: 
+kikyo001@umn.edu	Catherine Lee	Stem Cell Institute, Department of Genetics, Cell Biology and Development, University of Minnesota, Room 2-216, MTRF, 2001 6th St, SE, Minneapolis, MN, 55455, USA. 
+jason.askvig@my.und.edu	Jason M Askvig	Department of Anatomy &amp; Cell Biology, University of North Dakota School of Medicine and Health Sciences, Grand Forks, ND 58203, USA. Electronic address: 
+amakimzh@utmb.edu	Askar M Akimzhanov	The Department of Neuroscience and Cell Biology, University of Texas Medical Branch, Galveston, TX 77555, USA. Electronic address: 
+Weiming.mao@unthsc.edu	Weiming Mao	Department of Cell Biology and Anatomy, North Texas Eye Research Institute, University of North Texas Health Science Center, CBH449, 3500 Camp Bowie Blvd, Fort Worth, TX 76107, USA. 
+ykee@usf.edu	Younghoon Kee	Department of Cell Biology, Microbiology, and Molecular Biology, University of South Florida, Tampa, Florida 33620, USA. 
+thomas.pollard@yale.edu	Thomas D Pollard	Departments of Molecular, Cellular, and Developmental Biology, Molecular Biophysics and Biochemistry, and Cell Biology, Yale University, New Haven, CT 06520-8103, USA. 
+dnr@jhmi.edu	Douglas N Robinson	Department of Cell Biology and Department of Pharmacology and Molecular Sciences, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. 
+peter_sorger@hms.harvard.edu	Peter K Sorger	Department of Systems Biology, Center for Cell Decision Processes, Harvard Medical School, Boston, MA 02115, USA. 
+gia.voeltz@colorado.edu	Gia Voeltz	Department of Molecular, Cellular &amp; Developmental Biology, University of Colorado, Boulder, Boulder, CO 80309, USA. 
+yluo@ibt.tamhsc.edu	Chaofeng Yang	Center for Cancer and Stem Cell Biology, Institute of Biosciences and Technology, Texas A&amp;M Health Science Center, 2121 W, Holcombe Blvd, Houston, TX, 77030-3303, USA. 
+krishnnk@evms.edu	Neel K Krishna	Department of Microbiology and Molecular Cell Biology, Eastern Virginia Medical School, Norfolk, VA 23507, USA. 
+fischerr2@nhlbi.nih.gov	Robert S Fischer	Cell Biology and Physiology Center, National Heart, Lung, and Blood Institute (NHBLI), US National Institutes of Health (NIH), Bethesda, Maryland, USA. 
+mbunge@miami.edu	Mary Bartlett Bunge	The Miami Project to Cure Paralysis, Department of Neurological Surgery, University of Miami Miller School of Medicine, Miami, FL, USA; Department of Cell Biology and Anatomy, University of Miami Miller School of Medicine, Miami, FL, USA. Electronic address: 
+deryugin@scripps.edu	Elena I Deryugina	Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA. 
+alexander_meissner@harvard.edu	Alexander Meissner	Department of Stem Cell and Regenerative Biology, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA. 
+serres@ucr.edu	Julia Bailey-Serres	Center for Plant Cell Biology, Department of Botany and Plant Science, University of California, Riverside, California 92521-0124, USA. 
+klei0091@umn.edu	Melissa K Gardner	Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, MN 55455, USA. Electronic address: 
+Sandra.gollnick@roswellpark.org	Sandra O Gollnick	Department of Cell Stress Biology; Director, Graduate Studies, Department of Immunology, Roswell Park Cancer Institute, Buffalo, NY 14263, USA. 
+baruabi@umdnj.edu	Bipasha Barua	Department of Neuroscience and Cell Biology, Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA. 
+schmidtr@ucla.edu	Ryan Schmidt	David Geffen School of Medicine, Department of Biological Chemistry, Jonsson Comprehensive Cancer Center, Molecular Biology Institute, Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California Los Angeles, Los Angeles, CA 90095, USA. 
+hsun@salk.edu	Huaiyu Sun	Molecular and Cell Biology Laboratory, Salk Institute for Biological Studies, La Jolla, California 92037, USA. 
+dongly@uiuc.edu	Dong Li	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. 
+yiping.shen@childrens.harvard.edu	Yiping Shen	Programs in Cell and Molecular Biology and Neuroscience, Sackler School of Graduate Biomedical Sciences, Tufts University School of Medicine, Boston, MA 02111, USA. Electronic address: 
+fb2266@columbia.edu	Fei Bao	Department of Pathology and Cell Biology, Columbia University Medical Center and New York Presbyterian Hospital, New York, NY 10032, USA. 
+mpenn2@neomed.com	Marc S Penn	Skirball Laboratory for Cardiovascular Cellular Therapeutics, Department of Integrative Medical Sciences, Northeast Ohio Medical University, Rootstown, Ohio 44272, USA. 
+supriyap@life.illinois.edu	Zhen Shen	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, 601 S, Goodwin Avenue, Urbana, IL 61801, USA. 
+molson@compbiophys.org	Mark A Olson	Department of Cell Biology and Biochemistry, USAMRIID, Frederick, Maryland 21702. 
+mash@iastate.edu	Yves Sucaet	Dept of Genetics, Development and Cell Biology, Iowa State University, Ames, IA, USA. 
+newman@nymc.edu	Stuart A Newman	Department of Cell Biology and Anatomy, New York Medical College, Valhalla, NY 10595, USA. 
+amackj@upstate.edu	Jeffrey D Amack	Department of Cell and Developmental Biology, State University of New York, Upstate Medical University, 309 Weiskotten Hall, Syracuse, NY 13210, USA. 
+AAntebi@age.mpg.de	Adam Antebi	Max Planck Institute for Biology of Ageing, Gleueler Str. 50a, D-50931 Cologne, Germany; Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases (CECAD), University of Cologne, D-50674 Cologne, Germany; Department of Molecular and Cellular Biology, Huffington Center on Aging, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA. Electronic address: 
+ptran@kumc.edu	Pamela V Tran	Department of Anatomy and Cell Biology, The Kidney Institute, University of Kansas Medical Center, Kansas City, KS, USA. 
+charles-yeaman@uiowa.edu	Ruth E Swiderski	Department of Anatomy and Cell Biology, The University of Iowa, Iowa City, 52242, IA, USA. 
+swalsh12@umd.edu	Scott T R Walsh	Department of Cell Biology and Molecular Genetics, Institute for Bioscience and Biotechnology Research, W. M. Keck Laboratory for Structural Biology, Rockville, MD, USA. 
+mrust@uchicago.edu	Michael J Rust	Department of Molecular Genetics and Cell Biology, Institute for Genomics and Systems Biology, University of Chicago, Chicago, IL 60637, USA. 
+lplotkin@iupui.edu	Lilian I Plotkin	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN, USA. 
+pamela.pollock@qut.edu.au	Sara A Byron	Cancer and Cell Biology Division, Translational Genomics Research Institute, Phoenix, AZ, USA. 
+eberger@med.wayne.edu	Elizabeth A Berger	Department of Anatomy and Cell Biology, Wayne State University School of Medicine, Detroit, Michigan 48201, USA. 
+fmokhtarianSUNY@aol.com	Foroozan Mokhtarian	Department of Cell Biology, SUNY Downstate, USA; Department of Neurology, SUNY Stony Brook, USA. 
+Hema.Kothari@uthct.edu	Hema Kothari	Department of Cellular and Molecular Biology, The University of Texas Health Science Center, Tyler, TX, USA. 
+lrserbus@ucsc.edu	Laura R Serbus	Molecular, Cell and Developmental Biology, University of California, Santa Cruz, California, USA. 
+gerald.h.thomsen@stonybrook.edu	Gina M Sorrentino	Department of Biochemistry and Cell Biology, Stony Brook University, Life Sciences Building room 450, Stony Brook, NY, 11794-5215, USA. 
+ab748@columbia.edu	Alain C Borczuk	Department of Pathology and Cell Biology, Columbia University Medical Center, 630 W. 168th St., VC14-215, New York, NY 10032, USA. 
+tbellido@iupui.edu	Teresita Bellido	Department of Anatomy and Cell Biology, Indiana University School of Medicine, USA; Department of Medicine, Division of Endocrinology, Indiana University School of Medicine, USA. Electronic address: 
+carolyns@bcm.edu	Carolyn L Smith	Department of Molecular &amp; Cellular Biology, BCM130, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA. 
+thalyana.smith-vikos@yale.edu	Thalyana Smith-Vikos	Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, CT 06520, USA. 
+afitzger@live.unthsc.edu	Ashley M Fitzgerald	Department of Cell Biology and Anatomy and the North Texas Eye Research Institute, University of North Texas Health Science Center at Fort Worth, Fort Worth, Texas 76107, USA. 
+timothy.henion@umassmed.edu	Timothy R Henion	Department of Cell Biology, University of Massachusetts Medical School, 55 Lake Avenue North, Worcester, MA 01655, USA. Electronic address: 
+phillkev@ohsu.edu	Kevin G Phillips	Department of Biomedical Engineering and Cell &amp; Developmental Biology, Oregon Health &amp; Science University, 3303 S. W. Bond Avenue, Portland, Oregon 97239, USA. 
+afranck@mail.usf.edu	Alan R Franck	Department of Cell Biology, Microbiology, and Molecular Biology, ISA 2015, University of South Florida, 4202 E. Fowler Avenue, Tampa, Florida 33620, USA. 
+ccuff@hsc.wvu.edu	Andrew F Cockburn	Microbiology, Immunology &amp; Cell Biology, School of Medicine, Robert C, Byrd Health Sciences Center, West Virginia University, P,O, Box 4622, Morgantown, WV, 26506-4622, USA. 
+cliu1234@umd.edu	Chaohong Liu	Department of Cell Biology &amp; Molecular Genetics, University of Maryland, College Park, MD 20742, USA. 
+robjensen@jhmi.edu	Robert E Jensen	Department of Cell Biology, The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA. 
+ncharon@hsc.wvu.edu	Nyles W Charon	Department of Microbiology, Immunology, and Cell Biology, West Virginia University, Health Sciences Center, Morgantown, 26506-9177, USA. 
+j-henry4@illinois.edu	Deirdre C Lyons	Department of Cell and Developmental Biology, University of Illinois, 601 South Goodwin Avenue, Urbana, IL 61801, USA. 
+mzrata01@louisville.edu	Mariusz Z Ratajczak	Stem Cell Biology Program at the James Graham Brown Cancer Center, University of Louisville, 500 S. Floyd Street, Rm. 107, Louisville, KY, 40202, USA, 
+cookson@mail.nih.gov	Mark R Cookson	Cell Biology and Gene Expression Unit, Laboratory of Neurogenetics, National Institute on Aging, 35 Convent Drive, Bethesda, MD 20892-3707, USA. 
+bbowman@ucsc.edu	Barry J Bowman	Department of Molecular, Cell, and Developmental Biology, University of California, Santa Cruz, CA, USA. 
+vlokeshw@med.miami.edu	Vinata B Lokeshwar	Division of Urology Research, Department of Urology and Cell Biology, University of Miami Miller School of Medicine, Miami, FL, USA. 
+andrea.hinas@imbim.uu.se	Andrea Hinas	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+vbriken@umd.edu	Volker Briken	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA. 
+jiang.chen@ucdenver.edu	Jiang Chen	Department of Dermatology and Charles C Gates Center for Regenerative Medicine and Stem Cell Biology, University of Colorado Anschutz Medical Campus, Aurora, Colorado 80045, USA. 
+Adrian.corbett@wright.edu	Adrian Corbett	Department of Neuroscience, Cell Biology and Physiology, Wright State University, 3640 Colonel Glenn Highway, Dayton, Ohio 45435, USA. 
+ksanders@medicine.nevada.edu	Kenton M Sanders	Department of Physiology and Cell Biology, University of Nevada School of Medicine, Anderson Medical Sciences, Reno, NV 89557, USA. 
+carrie.stransky@gmail.com	Carrie A Stransky	Department of Plastic Surgery, Hospital of the University of Pennsylvania,; and Epigenetics Program and the Department of Cell and Developmental Biology, University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA 19104, USA. 
+wade_harper@hms.harvard.edu	J Wade Harper	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+kbkaplan@ucdavis.edu	Kenneth B Kaplan	Department of Molecular and Cellular Biology, University of California, Davis, CA 95616, USA. 
+jeffrey.gimble@pbrc.edu	Jeffrey M Gimble	Stem Cell Biology Laboratory, Pennington Biomedical Research Center, Louisiana State University System, Baton Rouge, LA 70808, USA. 
+dabrahamson@kumc.edu	Dale R Abrahamson	Department of Anatomy and Cell Biology, University of Kansas Medical Center, Kansas City, KS 66160, USA. 
+weiming.mao@unthsc.edu	Weiming Mao	Department of Cell Biology and Anatomy, North Texas Eye Research Institute, University of North Texas Health Science Center, Fort Worth, Texas 76107, USA. 
+jyoung528@berkeley.edu	John J Young	Department of Molecular and Cell Biology, University of California, Berkeley, CA, USA. 
+ilblitz@uci.edu	Ira L Blitz	Department of Developmental and Cell Biology, University of California, Irvine, CA, USA. 
+cnichols@wustl.edu	C G Nichols	Department of Cell Biology and Physiology and Center for Investigation of Membrane Excitability Diseases, Washington University School of Medicine, St. Louis, MO 63110, USA. 
+rcann@hawaii.edu	Rebecca L Cann	Department of Cell and Molecular Biology, University of Hawaii at Manoa, Honolulu, HI 96822, USA. 
+kirchhausen@crystal.harvard.edu	Tom Kirchhausen	Department of Cell Biology, Harvard Medical School and Program in Cellular and Molecular Medicine at Boston Children's Hospital, Boston, Massachusetts 02115, USA. 
+vmutafova@medicine.nevada.edu	Violeta N Mutafova-Yambolieva	Department of Physiology and Cell Biology, University of Nevada School of Medicine, Reno, NV 89557-0575, USA. 
+weilhammer1@llnl.gov	Dina R Weilhammer	Immunology and Pathogenesis Division, Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA. 
+wux@nhlbi.nih.gov	Xufeng S Wu	Laboratory of Cell Biology, National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20892-8017, USA. 
+gyli@iupui.edu	Guangyan Li	Departments of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN 46202, USA. 
+traub@pitt.edu	Linton M Traub	Department of Cell Biology, University of Pittsburgh School of Medicine, Pittsburgh, PA 15261, USA. 
+glfire@berkeley.edu	Gary L Firestone	Department of Molecular and Cell Biology, 591 LSA, The University of California at Berkeley, Berkeley, California 94720-3200, USA. 
+mark.rich@wright.edu	Susan D Kraner	Department of Neuroscience, Cell Biology, and Physiology, Wright State University School of Medicine, 3640 Colonel Glenn Hwy, Dayton, OH, 45435, USA. 
+ikh@berkeley.edu	Melanie I Worley	Department of Molecular and Cell Biology, University of California, Berkeley, California 94720-3200, USA. 
+michaelis@jhmi.edu	Susan Michaelis	Department of Cell Biology, The Johns Hopkins School of Medicine, Baltimore, Maryland, USA. 
+cgawad@stanford.edu	Charles Gawad	Division of Hematology-Oncology-Stem Cell Transplantation and Cancer Biology, Department of Pediatrics, Stanford University School of Medicine, Stanford, CA, USA. 
+li.zhang@utdallas.edu	Ranita Ghosh Dastidar	Department of Molecular and Cell Biology, Center for Systems Biology, University of Texas at Dallas, Mail Stop RL11 800 W Campbell Road, Richardson, TX, 75080, USA. 
+Lisa.Sandell@Louisville.edu	Lisa L Sandell	Department of Molecular, Cellular and Craniofacial Biology, University of Louisville, Louisville, KY 40201, USA. 
+yongli.zhang@yale.edu	Yongli Zhang	Department of Cell Biology, Yale University School of Medicine, New Haven, Connecticut, USA. 
+hqin@uab.edu	Hongwei Qin	Department of Cell, Developmental and Integrative Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA. 
+scacuna@ucdavis.edu	Shawn Acuña	Aquatic Health Program, Department of Anatomy, Physiology and Cell Biology, University of California, 1203 Haring Hall, 1 Shields Ave, Davis, CA 95616, USA. 
+maryschu@illinois.edu	Mary A Schuler	Departments of Cell and Developmental Biology, Biochemistry and Plant Biology, University of Illinois, Urbana, IL 61801, USA. 
+masahito.horiguchi@nyumc.org	Masahito Horiguchi	Departments of Cell Biology and Medicine, New York University School of Medicine, 550 First Avenue, New York, NY 10016, USA. 
+lawrence.lum@utsouthwestern.edu	Lawrence Lum	Department of Cell Biology, University of Texas Southwestern Medical Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA. 
+mdg4@columbia.edu	Michael D Gershon	Department of Pathology and Cell Biology, Columbia University, New York, New York 10032, USA. 
+adubin@scripps.edu	Adrienne E Dubin	Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA. 
+shane.herbert@manchester.ac.uk	Shane P Herbert	Department of Biochemistry and Biophysics, Programs in Developmental and Stem Cell Biology, Genetics and Human Genetics, Cardiovascular Research Institute, University of California, San Francisco, San Francisco, CA 94158, USA. 
+dfeldman@berkeley.edu	Daniel E Feldman	Department of Molecular and Cell Biology, and Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, CA 94720-3200, USA. 
+hli@bnl.gov	Huilin Li	Department of Biochemistry and Cell Biology, Stony Brook University, Stony Brook, NY, 11794, USA, 
+johnsonem@evms.edu	Edward M Johnson	Department of Microbiology and Molecular Cell Biology, Eastern Virginia Medical School, Norfolk, VA, USA. 
+xiaoyangwang@gmail.com	Xiao-Yang Wang	Cell and Cancer Biology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA. 
+blagosklonny@oncotarget.com	Mikhail V Blagosklonny	Department of Cell Stress Biology, Roswell Park Cancer Institute, Buffalo, NY 14263, USA. 
+matallen@iupui.edu	M R Allen	Department of Anatomy and Cell Biology, MS 5035, Indiana University School of Medicine, 635 Barnhill Drive, Indianapolis, IN, 46202, USA, 
+yongli@mcb.harvard.edu	Yong N Li	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+andrew.pask@uconn.edu	Andrew Pask	Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT, USA. 
+psingh@coh.org	Purnima Singh	Department of Molecular and Cellular Biology, City of Hope National Medical Center and Beckman Research Institute, Duarte, CA, USA. 
+wallingford@mail.utexas.edu	John B Wallingford	Howard Hughes Medical Institute, Section of Molecular, Cell and Developmental Biology, University of Texas, Austin, Texas 78712, USA. 
+jwhanna@partners.org	John Hanna	Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA. 
+abdellma@umdnj.edu	Maha Abdellatif	Cardiovascular Research Institute, Department of Cell Biology and Molecular Medicine, University of Medicine and Dentistry of New Jersey, Newark, NJ 07103, USA. 
+narveen_jandu@hms.harvard.edu	Narveen Jandu	Department of Cell Biology, Biological and Biomedical Sciences, Harvard Medical School, Boston, MA 02115, USA. 
+f-giancotti@ski.mskcc.org	Hua Gao	Cell Biology Program, Sloan-Kettering Institute for Cancer Research, Memorial Sloan-Kettering Cancer Center, New York, NY 10065, USA. 
+filipe.pereira@mssm.edu	Carlos-Filipe Pereira	Department of Developmental and Regenerative Biology, Black Family Stem Cell Institute, Mount Sinai School of Medicine, New York, New York, USA. 
+kengx001@umn.edu	Vincent W Keng	Masonic Cancer Center, BCLC Group-Liver Unit, IDIBAPS, CIBERehd, Hospital Clínic, Barcelona, Spain; Department of Genetics, Cell Biology and Development, BCLC Group-Liver Unit, IDIBAPS, CIBERehd, Hospital Clínic, Barcelona, Spain; Center for Genome Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA, BCLC Group-Liver Unit, IDIBAPS, CIBERehd, Hospital Clínic, Barcelona, Spain; Department of Applied Biology and Chemical Technology, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong. 
+yukinorishiko@yahoo.co.jp	Yukinori Endo	Laboratory of Cell and Developmental Biology, National Institute of Dental and Craniofacial Research, National Institutes of Health, Bethesda, MD 20892-4370, USA. 
+XJiang@downstate.edu	Xian-Cheng Jiang	Department of Cell Biology, Downstate Medical Center, State University of New York, 450 Clarkson Ave,, Box 5, Brooklyn, NY, 11203, USA. 
+xshawnyu@gmail.com	Xiang Yu	Cancer Cell and Biology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA. 
+t.daigle@cellbio.duke.edu	Tanya L Daigle	Department of Cell Biology, Duke University Medical Center, Durham, North Carolina 27710, USA. 
+mbs266@cornell.edu	Marcus B Smolka	Department of Molecular Biology and Genetics, Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA. 
+aft25@columbia.edu	Andrew F Teich	Department of Pathology and Cell Biology, Columbia University Medical Center, 630 West 168th Street, PH15-124, New York, NY 10032, USA. 
+gracedaniel@comcast.net	Charles W Daniel	Department of Molecular, Cell and Developmental Biology, University of California-Santa Cruz, Santa Cruz, CA 95064, USA. 
+whitcomb@pitt.edu	David C Whitcomb	Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, Cell Biology and Physiology, and Human Genetics, University of Pittsburgh and UPMC, Pittsburgh, Pennsylvania 15213, USA. 
+valerie.horsley@yale.edu	Valerie Horsley	Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, CT, USA. 
+teschke@uconn.edu	Carolyn M Teschke	Department of Molecular and Cell Biology, University of Connecticut, 91 N. Eagleville Rd., U-3125, Storrs, CT 06269-3125, USA. 
+akwiatkows@nshs.edu	Aneta Kwiatkowska	Center for Oncology and Cell Biology, Laboratory for Brain Tumor Biology, Feinstein Institute for Medical Research, 350 Community Dr, 11030, Manhasset, NY, USA. 
+vr45@drexel.edu	Vladimir Ratushny	MD/PhD Program in Molecular and Cell Biology and Genetics, Drexel University College of Medicine, USA. 
+efrat.oron@yale.edu	Efrat Oron	Yale Stem Cell Center, Department of Genetics, Yale University, New Haven, CT, USA. 
+Pachter@nso1.uchc.edu	Nivetha Murugesan	Blood-brain Barrier Laboratory, Department of Cell Biology, University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT, 06030, USA. 
+slinn@berkeley.edu	Stuart Linn	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720-3202, USA. 
+ajain@mdanderson.org	Abhinav K Jain	Program in Genes and Development, Center for Stem Cell and Development Biology, Department of Biochemistry and Molecular Biology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA. 
+dburr@iupui.edu	David B Burr	Department of Anatomy and Cell Biology, MS 5035, Indiana University School of Medicine, Indianapolis, IN 46202, USA. 
+hochman@vms.huji.ac.il	Jacob Hochman	Department of Cell and Developmental Biology, Alexander Silberman Institute of Life Sciences, The Hebrew University of Jerusalem, 91904, Jerusalem, Israel, 
+lschwieb@uab.edu	Amy Boyd	Department of Cell, Developmental, and Integrative Biology, University of Alabama, 1918 University Boulevard, Birmingham, AL, 35294-0005, USA. 
+hpp2103@columbia.edu	Huy P Pham	Departments of Pathology and Cell Biology, Columbia University Medical Center and the New York-Presbyterian Hospital, New York, NY, USA. 
+mayee@hawaii.edu	Mayee Wong	Department of Cell and Molecular Biology, John A. Burns School of Medicine, University of Hawaii, Honolulu, Hawaii, USA. 
+lxli@ucdavis.edu	Lin-Xi Li	Department of Anatomy, Physiology and Cell Biology, Center for Comparative Medicine, School of Veterinary Medicine, University of California, Davis, Davis, CA 95616, USA. 
+a-el-maarouf@ski.mskcc.org	Abderrahman El Maarouf	Department of Cell Biology, Memorial Sloan-Kettering Cancer Center, New York, New York 10021, USA. 
+holtzmanm@wustl.edu	Michael J Holtzman	Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine and Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO, USA. 
+bacolson@umn.edu	Brett A Colson	Department of Cell and Regenerative Biology, University of Wisconsin School of Medicine and Public Health, Madison, WI 53711, USA. 
+mhussain@downstate.edu	M Mahmood Hussain	Department of Cell Biology, SUNY Downstate Medical Center, 450 Clarkson Ave, Brooklyn, NY 11203, USA. 
+mmayford@scripps.edu	Mark Mayford	Department of Cell Biology and Dorris Neuroscience Center, The Scripps Research Institute, La Jolla, California, USA. 
+saras@austin.utexas.edu	Sara L Sawyer	Section of Molecular Genetics and Microbiology, Institute for Cellular and Molecular Biology, University of Texas at Austin, Austin, TX, USA. 
+harold.box@roswellpark.org	Harold C Box	Departments of Cell Stress Biology, Dermatology and Cancer Prevention, Roswell Park Cancer Institute, Buffalo, NY, USA. 
+yimingguo@yahoo.com	Y Guo	Department of Genetics, Development, and Cell Biology, Center for Biorenewable Chemicals, Iowa State University, Ames, IA 50010, USA. 
+phanson22@wustl.edu	Phyllis I Hanson	Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, Missouri 63110, USA. 
+mfarquhar@ucsd.edu	Marilyn G Farquhar	Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, California 92093, USA. 
+knoepfler@ucdavis.edu	Paul S Knoepfler	Department of Cell Biology &amp; Human Anatomy, School of Medicine, University of California, Davis, Tupper Hall 4303, Davis, CA 95616, USA. 
+mouse@med.unc.edu	K K Sulik	Department of Cell and Developmental Biology, University of North Carolina, Chapel Hill, NC, USA. 
+jacob.jacobsen@dm.duke.edu	Jacob P R Jacobsen	Department of Cell Biology, Duke University Medical Center, , Durham, NC 27710, USA. 
+rohit.kulkarni@joslin.harvard.edu	Rohit N Kulkarni	Islet Cell Biology and Regenerative Medicine, Joslin Diabetes Center, Boston, Massachusetts, USA. 
+palty35@berkeley	Raz Palty	Department of Molecular and Cell Biology, University of California, Berkeley, California 94720, USA. 
+jwillia3@iupui.edu	James C Williams	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, Indiana 46202-5120, USA. 
+sallward77@gmail.com	Sarah M Ward	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA. 
+vangroen@uab.edu	Thomas van Groen	Department of Cell Biology, University of Alabama at Birmingham, Birmingham, AL, USA. 
+irfan@jhu.edu	Irfan A Qureshi	Roslyn and Leslie Goldstein Laboratory for Stem Cell Biology and Regenerative Medicine, Albert Einstein College of Medicine, Bronx, New York, New York 10461, USA. 
+arendash@cas.usf.edu	Gary W Arendash	Department of Cell Biology, University of South Florida, Tampa, FL, USA. 
+carlos.fernandez-hernando@nyumc.org	Carlos Fernández-Hernando	Departments of Medicine, Leon H. Charney Division of Cardiology, and Cell Biology and the Marc and Ruti Bell Vascular Biology and Disease Program, New York University School of Medicine, New York, NY 10016, USA. 
+rachel.oneill@uconn.edu	Rachel J O'Neill	Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269, USA. 
+arifaa@ccf.org	Abul Arif	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA. 
+v-butin-israeli@northwestern.edu	Veronika Butin-Israeli	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, 303 East Chicago Avenue, Chicago, IL 60611, USA. 
+rsasidharan@mednet.ucla.edu	Rajkumar Sasidharan	Department of Molecular, Cell and Developmental Biology, University of California at Los Angeles, Los Angeles, CA 90095, USA. 
+avraila@emory.edu	Alysia Vrailas-Mortimer	Cell Biology Department, Emory University, Atlanta, GA 30322, USA. 
+Ge@uchc.edu	Shujun Ge	Department of Cell Biology, Blood-brain Barrier Laboratory, 263 Farmington Ave, Farmington, CT 06030, USA. 
+smagori@notes.cc.sunysb.edu	Shimpei Magori	Department of Biochemistry and Cell Biology, State University of New York, Stony Brook, New York 11794-5215, USA. 
+Lim3@ccf.org	Meizhang Li	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA. 
+glazer@berkeley.edu	Alexander N Glazer	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720-3202, USA. 
+clarka@ucla.edu	Amander T Clark	Department of Molecular Cell and Developmental Biology, Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California, Los Angeles, Los Angeles, CA 90095, USA. 
+junchen@hawaii.edu	Jun Panee	Department of Cell and Molecular Biology, John A. Burns School of Medicine, University of Hawaii, 651 Ilalo Street BSB 222, Honolulu, HI 96813, USA. 
+ms4169@columbia.edu	Markus David Siegelin	Department of Pathology &amp; Cell Biology, Columbia University College of Physicians &amp; Surgeons, 630 W. 168th Street, VC14-239, New York, NY 10032, USA. 
+kzaccaria@srcinc.com	Kimberly J Zaccaria	Department of Cell &amp; Developmental Biology, SUNY Upstate Medical University, Syracuse, NY, USA. 
+gregoryrbowman@gmail.com	Gregory R Bowman	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA. 
+mykang@utmb.edu	Myoung-Goo Kang	Department of Neuroscience and Cell Biology, University of Texas Medical Branch, Galveston, Texas 77555, USA. 
+julsage@stanford.edu	Julien Sage	Department of Pediatrics, Department of Genetics, Stanford Institute for Stem Cell Biology and Regenerative Medicine, Stanford Cancer Institute, Stanford, California 94305, USA. 
+chambers@mskcc.org	Stuart M Chambers	Center for Stem Cell Biology, Sloan-Kettering Institute, New York, New York, USA. 
+acenders@ucdavis.edu	A C Enders	Department of Cell Biology and Human Anatomy, University of California Davis, School of Medicine, One Shields Avenue, Davis, CA 95616, USA. 
+katmhill@iupui.edu	Kathleen M Hill	Indiana University School of Medicine, Department of Anatomy and Cell Biology, Indianapolis, IN 46202, USA. 
+ftablin@ucdavis.edu	Fern Tablin	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California Davis, Davis, CA 95616, USA. 
+rab4m@virginia.edu	Robert A Bloodgood	Department of Cell Biology, University of Virginia School of Medicine, Charlottesville, VA 22908, USA. 
+slschmid@scripps.edu	Sandra L Schmid	Cell Biology, Scripps Research Institute, La Jolla, CA 92037, USA. 
+rh01@uchicago.edu	Robert Haselkorn	Department of Molecular Genetics and Cell Biology, The University of Chicago, Chicago, IL 60637, USA. 
+berto@bcm.edu	Bert W O'Malley	Baylor College of Medicine, Department of Cellular Biology, One Baylor Plaza, Houston Texas 77030-3498, USA. 
+cechao@utmb.edu	Celia Chao	Division of Surgical Oncology, Department of Surgery, Sealy Center for Cancer Cell Biology, University of Texas Medical Branch, Galveston, TX, USA. 
+Timothy.Hewett@osumc.edu	Timothy E Hewett	Department of Physiology &amp; Cell Biology, The Ohio State University Sports Medicine Sports Health &amp; Performance Institute, 2050 Kenny Road, Suite 3100, Columbus, OH 43221-3502, USA. 
+jamietextor@gmail.com	Jamie A Textor	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California-Davis, Davis, CA 95616, USA. 
+nahmed@bcm.edu	Tiara Byrd	Department of Pediatrics, Baylor College of Medicine, Center for Cell and Gene Therapy, Houston, Texas 77030, USA. 
+sml2179@columbia.edu	Stephen M Lagana	Department of Pathology and Cell Biology, Columbia University Medical Center, New York, New York 10032, USA. 
+Fr116@columbia.edu	Fabrizio Remotti	Department of Pathology and Cell Biology, Columbia University School of Medicine, New York, NY 10032, USA. 
+her2007@columbia.edu	Helen Remotti	Departments of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA. 
+roger_moreira@hotmail.com	Roger Klein Moreira	Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA. 
+Lrh2128@columbia.edu	Lara Rabih Harik	Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY, USA. 
+LB684@columbia.edu	Leal C Herlitz	Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA. 
+wilk@wustl.edu	Richard S Stewart	Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, Missouri 63110, USA. 
+corle001@mc.duke.edu	Joseph M Corless	Department of Cell Biology, Duke University School of Medicine, Durham, North Carolina, USA. 
+basadrian@ucdavis.edu	Benjamin Sadrian	Department of Cell Biology and Human Anatomy, University of California, Davis, School of Medicine, Davis, CA 95616, USA. 
+nunomura@gipc.akita-u.ac.jp	Wataru Nunomura	Department of Cell and Tissue Biology, University of California San Francisco, San Francisco, CA, USA. 
+mwr@mcw.edu	Margaret T T Wong-Riley	Department of Cell Biology, Neurobiology and Anatomy, Medical College of Wisconsin, Milwaukee, WI 53226, USA. 
+ostro@med.unc.edu	Lawrence E Ostrowski	Department of Cell and Developmental Biology, Cystic Fibrosis/Pulmonary Research and Treatment Center, School of Medicine, The University of North Carolina, CB# 7248, 6123A Thurston-Bowles Bldg., Chapel Hill, NC 27599-7248, USA. 
+mjc@med.unc.edu	M Joseph Costello	Department of Cell and Developmental Biology, CB 7090, University of North Carolina, Chapel Hill, NC 27599, USA. 
+mary.loeken@joslin.harvard.edu	Mary R Loeken	Section on Islet Cell and Regenerative Biology, Joslin Diabetes Center, and Department of Medicine, Harvard Medical School, Boston, Massachusetts, USA. 
+burra003@umn.edu	Laura S Burrack	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN 55455, USA. 
+sjean@ucsd.edu	Steve Jean	Section of Cell and Developmental Biology, University of California, San Diego, 9500 Gilman Drive, La Jolla, California 92093-0380, USA. 
+peluso@nso2.uchc.edu	John J Peluso	Department of Cell Biology, University of Connecticut Health Center, Farmington, Connecticut 06030, USA. 
+dinman@umd.edu	Jonathan D Dinman	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD, USA. 
+bstanger@exchange.upenn.edu	Ben Z Stanger	Gastroenterology Division, Department of Medicine, Department of Cell and Developmental Biology, Abramson Family Cancer Research Institute, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. 
+richj@ccf.org	Anita B Hjelmeland	Department of Stem Cell Biology and Regenerative Medicine, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA. 
+kcollins@berkeley.edu	Kristin Benjamin Talsky	Department of Molecular and Cell Biology, University of California, Berkeley, California 94720-3200, USA. 
+ibianco@mcb.harvard.edu	Isaac H Bianco	Department of Molecular and Cellular Biology and Center for Brain Science, Harvard University, Cambridge, MA 02138, USA. 
+fuchslb@rockefeller.edu	Elaine Fuchs	Laboratory of Mammalian Cell Biology and Development, Howard Hughes Medical Institute, The Rockefeller University, New York, NY 10065, USA. 
+lehmann@saturn.med.nyu.edu	Ruth Lehmann	Howard Hughes Medical Institute, Skirball Institute, The Helen L and Martin S Kimmel Center for Stem Cell Biology, Department of Cell Biology, New York University School of Medicine, 540 First Avenue, New York, NY 10016, USA. 
+irv@stanford.edu	Irving Weissman	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA. 
+david_scadden@harvard.edu	David T Scadden	Center for Regenerative Medicine and Cancer Center, Massachusetts General Hospital, Harvard Stem Cell Institute, Department of Stem Cell and Regenerative Biology, Harvard University, 185 Cambridge Street, Boston, MA 02114, USA. 
+ebi@mail.med.upenn.edu	Erfei Bi	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19104-6058, USA. 
+jerry.shay@utsouthwestern.edu	Jerry W Shay	Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX 75390, USA. 
+isabelle.mercier@jefferson.edu	Isabelle Mercier	Department of Stem Cell Biology and Regenerative Medicine, Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+amurray@mcb.harvard.edu	Andrew W Murray	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+s-corey@northwestern.edu	Seth J Corey	Department of Pediatrics and Cell &amp; Molecular Biology, Northwestern University Feinberg School of Medicine, Chicago, IL, USA. 
+sonyas1@stanford.edu	Sonya M Schuh-Huerta	Department of Obstetrics and Gynecology, Institute for Stem Cell Biology and Regenerative Medicine, Center for Human Embryonic Stem Cell Research and Education, School of Medicine, Stanford University, 265 Campus Drive, Lorry I. Lokey Stem Cell Research Building Rm G1165, Stanford, CA 94305, USA. 
+Michael.welsh@mcb.uu.se	M Welsh	Department of Medical Cell Biology, Uppsala University, Box 571, Husargatan 3, 75123, Uppsala, Sweden. 
+lminter@vasci.umass.edu	Lisa M Minter	Department of Veterinary and Animal Sciences, Program in Molecular and Cellular Biology, University of Massachusetts, Amherst, MA 01003, USA. 
+john_biggers@hms.harvard.edu	John D Biggers	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+aczirok@kumc.edu	Andras Czirok	Department of Anatomy and Cell Biology, University of Kansas Medical Center, Kansas City, KS, USA. 
+zhengq@ccf.org	Qiao Zheng	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic Foundation, 9500 Euclid Avenue, NC10, Cleveland, OH 44195, USA. 
+hrbode@uci.edu	Hans R Bode	Department of Developmental and Cell Biology, University of California, Irvine, CA 92697, USA. 
+michael.sarras@rosalindfranklin.edu	Michael P Sarras	Department of Cell Biology and Anatomy, Rosalind Franklin University of Medicine and Science, North Chicago, IL., USA. 
+jfrawls@med.unc.edu	John F Rawls	Department of Cell and Molecular Physiology, Department of Microbiology and Immunology, Center for Gastrointestinal Biology and Disease, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. 
+dmedina@bcm.edu	Daniel Medina	Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA. 
+kevinlarimore@gmail.com	Kevin Larimore	Immunology Division, Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720-3200, USA. 
+huang@mcb.harvard.edu	Peng Huang	Department of Molecular and Cellular Biology, Center for Brain Science, Harvard Stem Cell Institute, Broad Institute, Center for Systems Biology, Harvard University, Cambridge, Massachusetts, USA. 
+alain.burette@gmail.com	Alain C Burette	Department of Cell &amp; Developmental Biology, University of North Carolina, Chapel Hill, North Carolina 27599, USA. 
+uchida@mcb.harvard.edu	Mitsuko Watabe-Uchida	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+gary.nieder@wright.edu	Gary L Nieder	Department of Neuroscience, Cell Biology, and Physiology, Wright State University Boonshoft School of Medicine, Dayton, Ohio, USA. 
+dwgietzen@ucdavis.edu	Dorothy W Gietzen	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California, Davis, CA 95616, USA. 
+terry.lechler@duke.edu	Terry Lechler	Departments of Cell Biology and Dermatology, Duke University Medical Center, 310 Nanaline Duke Bldg, 3709, 27710, Durham, NC, USA, 
+akowalc@emory.edu	Andrew P Kowalczyk	Department of Cell Biology, Emory University School of Medicine, 30332, Atlanta, GA, USA, 
+jing.xu@ucmerced.edu	Jing Xu	Developmental and Cell Biology, School of Biological Sciences, University of California, Irvine, CA 92697, USA. 
+mcken020@umn.edu	David H McKenna	Department of Laboratory Medicine and Pathology, Cancer Centre and Molecular and Cellular Therapeutics, University of Minnesota, Minneapolis, MN, USA. 
+ljholt@gmail.com	Liam J Holt	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA. 
+jcooper@wustl.edu	Olivia L Mooren	Department of Cell Biology and Physiology, Washington University School of Medicine, Saint Louis, Missouri 63110, USA. 
+john_rinn@harvard.edu	John L Rinn	Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, Massachusetts 02138, USA. 
+Loren.Wold@nationwidechildrens.org	Loren E Wold	Center for Cardiovascular and Pulmonary Research, The Research Institute at Nationwide Children's Hospital, Department of Pediatrics/Physiology and Cell Biology, The Ohio State University, 700 Children’s Drive, Columbus, OH 43205, USA. 
+sriram@temple.edu	Uma Sriram	Laboratory of Dendritic Cell Biology, Department of Microbiology and Immunology, Temple University School of Medicine, Philadelphia, PA 19140, USA. 
+h.erickson@cellbio.duke.edu	Harold P Erickson	Departments of Cell Biology, Biochemistry, and Biomedical Engineering, Duke University, Durham, NC 27710-3709, USA. 
+kurt.vogel@lifetech.com	Kun Bi	Life Technologies Corp, Cell Systems Division, 501 Charmany Dr, Madison, WI 53719 , USA +1 608 204 5216 ; 
+neufeld@med.umn.edu	Thomas P Neufeld	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN 55455, USA. 
+yingzy@uw.edu	Ying Zheng	Department of Bioengineering, Center for Cardiovascular Biology, Institute of Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98109, USA. 
+hblau2@stanford.edu	Helen M Blau	Baxter Laboratory for Stem Cell Biology, Stanford University School of Medicine, CCSR Room 4215, 269 Campus Drive, Stanford, California 94305-5175, USA. 
+esschelegle@ucdavis.edu	Edward S Schelegle	Department of Anatomy, Physiology and Cell Biology, University of California, School of Veterinary Medicine, Davis, CA 95616, USA. 
+mwpitts@hawaii.edu	M W Pitts	Department of Cell and Molecular Biology, John A. Burns School of Medicine, University of Hawaii, HI 96813, USA. 
+stephen.spiro@utdallas.edu	Stephen Spiro	Department of Molecular and Cell Biology, University of Texas at Dallas, Richardson, TX, USA. 
+marcovelasco@unam.mx	Marco Velasco-Velázquez	Kimmel Cancer Center, Department of Cancer Biology and Stem Cell Biology and Regenerative Medicine, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+fangwei@iastate.edu	Wei Fang	Department of Genetics, Development, and Cell Biology, Iowa State University, Ames, Iowa 50011-3260, USA. 
+dmicha@stanford.edu	Micha Drukker	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, California, USA. 
+joanner@bcm.edu	JoAnne S Richards	Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas, USA. 
+rrparker@email.arizona.edu	Roy Parker	Department of Molecular and Cellular Biology, University of Arizona, Tucson, AZ 85721, USA. 
+jeffrey_macklis@harvard.edu	Jeffrey D Macklis	Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA. 
+cluzel@mcb.harvard.edu	Kevin B Wood	Center for Systems Biology, Department of Molecular and Cellular Biology, and School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA. 
+deckerkb@mail.nih.gov	Kimberly B Decker	Gene Expression and Regulation Section, Laboratory of Cell and Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD 20892, USA. 
+wagnerem@berkeley.edu	Eileen Wagner	Center for Integrative Genomics, Division of Genetics, Genomics, and Development, Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA 94720, USA. 
+vytas@med.unc.edu	Vytas A Bankaitis	Department of Cell and Developmental Biology, University of North Carolina School of Medicine, Chapel Hill, NC 27599-7090, USA. 
+bsaxton@ucsc.edu	William M Saxton	Department of Molecular Cell and Developmental Biology, University of California, Cruz, CA 95060, USA. 
+francijs@umdnj.edu	Jeremy S Francis	Cell and Gene Therapy Center, Department of Cell Biology, University of Medicine and Dentistry of NJ, Stratford, New Jersey 08084, USA. 
+Mahmood.hussain@downstate.edu	M Mahmood Hussain	Departments of Cell Biology and Pediatrics, SUNY Downstate Medical Center, Brooklyn, New York, USA. 
+pjones@bbri.org	Qian Liu	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, 601 S, Goodwin Ave, B107 Chemical and Life Sciences Laboratory, Urbana, IL, 61801, USA. 
+vitaly.citovsky@stonybrook.edu	Alexander Krichevsky	Department of Biochemistry and Cell Biology, State University of New York, Stony Brook, NY 11794, USA. 
+aia2005@med.cornell.edu	Aisha Iman Abdullah	Department of Cell and Developmental Biology, Weill Medical College of Cornell University, New York, NY 10065, USA. 
+rajash_handa@hotmail.com	Rajash K Handa	Departments of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN, USA. 
+lpi@ufl.edu	Liya Pi	Program in Stem Cell Biology and Regenerative Medicine, University of Florida, PO Box 100232, Gainesville, FL 32610, USA. 
+striepen@uga.edu	Sarah B Reiff	Department of Cellular Biology, University of Georgia, Athens, Georgia, USA. 
+santiago@urmc.rochester.edu	Felix W Santiago	New York Influenza Center of Excellence, David H. Smith Center for Vaccine Biology and Immunology, University of Rochester Medical Center, 601 Elmwood Avenue, Box 609, Rochester, NY 14642, USA. felix 
+olov.andersson@ki.se	Olov Andersson	Department of Biochemistry and Biophysics, Program in Developmental and Stem Cell Biology and Program in Genetics and Human Genetics, Diabetes Center, Institute for Regeneration Medicine and Liver Center, University of California, San Francisco, 1550 4th Street, San Francisco, CA 94158, USA. 
+leskinen@usf.edu	S D Leskinen	Department of Cell Biology, Microbiology and Molecular Biology, University of South Florida, Tampa, FL 33620-7115, USA. 
+edward.quadros@downstate.edu	Sílvia Fernàndez-Roig	Departments of Medicine and Cell Biology, SUNY Downstate Medical Center, Brooklyn, NY, USA. 
+nakagawa@umn.edu	Yasushi Nakagawa	Department of Neuroscience, Stem Cell Institute, Developmental Biology Center, University of Minnesota, 6-145 Jackson Hall, 321 Church Street SE. Minneapolis, MN 55455, USA. 
+bmontpet@berkeley.edu	Ben Montpetit	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720-3200, USA. 
+riggs@sfsu.edu	Blake Riggs	Department of Molecular and Cell Biology, University of California, Berkeley, California, USA. 
+remoses@bcm.edu	Robb E Moses	Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas 77030, USA. 
+rytis.prekeris@ucdenver.edu	Rytis Prekeris	Department of Cell and Developmental Biology, School of Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO 80045, USA. 
+massimiliano.baldassarre@yale.edu	Massimiliano Baldassarre	Department of Pharmacology, Department of Cell Biology and Interdepartmental Program in Vascular Biology and Therapeutics, Yale University School of Medicine, New Haven, CT 06520-8066, USA. 
+heck@wisc.edu	Jessica N Heck	Department of Cell and Regenerative Biology, University of Wisconsin, Madison, WI 53706, USA. 
+rjs360@psu.edu	Rudolf J Schilder	Department of Cellular and Molecular Physiology, The Pennsylvania State University College of Medicine, Hershey, Pennsylvania, USA. 
+truch2@jhmi.edu	Travis R Ruch	Department of Cell Biology, The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. 
+lohp@mail.nih.gov	Y Peng Loh	Section on Cellular Neurobiology, Program on Developmental Neuroscience, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892, USA. 
+Holly_Richendrfer@brown.edu	Holly Richendrfer	Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI 02912, USA. 
+pernist@mail.med.upenn.edu	Stefano Perni	Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA. 
+Sean.Glenn@roswellpark.org	Sean T Glenn	Department of Molecular and Cellular Biology, Roswell Park Cancer Institute, Elm and Carlton Streets, Buffalo, NY, 14263-0001, USA, 
+surjit.chandhoke@yale.edu	Surjit K Chandhoke	Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, CT 06520, USA. 
+szaramak@nidcd.nih.gov	Katherine B Szarama	Section on Auditory Mechanics, Laboratory of Cellular Biology, National Institute on Deafness and other Communication Disorders, National Institutes of Health, Bethesda, MD 20892, USA. 
+raomah@mail.nih.gov	Mahendra S Rao	National Institutes of Health, National Institute of Arthritis and Musculoskeletal and Skin Diseases, Laboratory of Stem Cell Biology, Bethesda, MD, USA. 
+wbujalow@utmb.edu	Wlodek M Bujalowski	Department of Biochemistry and Molecular Biology, Sealy Center for Structural Biology, Sealy Center for Cancer Cell Biology, The University of Texas Medical Branch at Galveston, Galveston, TX, USA. 
+aroeti@cc.huji.ac.il	Benjamin Aroeti	Department of Cell and Developmental Biology, Institute of Life Sciences, Hebrew University of Jerusalem, Jerusalem, Israel. 
+Brittany.Law@uscmed.sc.edu	Brittany A Law	Cell Biology and Anatomy, School of Medicine, University of South Carolina, Columbia, SC 29208, USA. 
+tjain@scripps.edu	Tilak Jain	The National Resource for Automated Molecular Microscopy, Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA. 
+maria.genander@rockefeller.edu	Maria Genander	Howard Hughes Medical Institute, Laboratory of Mammalian Cell Biology &amp; Development, The Rockefeller University, New York, NY, USA. 
+abe.clark@unthsc.edu	Abbot F Clark	Department of Cell Biology and Anatomy, North Texas Eye Research Institute, University of North Texas Health Science Center, Fort Worth, Texas 76107, USA. 
+yahu@ucsd.edu	Yan Hu	Section of Cell and Developmental Biology, Division of Biological Sciences, University of California, San Diego, 9500 Gilman Drive, Mail Code 0322, La Jolla, CA 92093-0322, USA. 
+gopathy.purushothaman@vanderbilt.edu	Gopathy Purushothaman	Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN, USA. 
+jplouboutin@hotmail.com	Jean-Pierre Louboutin	Department of Pathology and Cell Biology, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+jahangir.iqbal@downstate.edu	Jahangir Iqbal	Department of Cell Biology, Box 5, SUNY Downstate Medical Center, 450 Clarkson Ave, Brooklyn, NY 11203, USA. 
+charalambos.solomides@jefferson.edu	Charalambos C Solomides	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, Philadelphia, PA, USA. 
+j18wang@uab.edu	Jianbo Wang	Department of Cell Biology, School of Medicine, University of Alabama at Birmingham, 35294, USA. 
+lizhijie@mail.nih.gov	Zhijie Li	Cell &amp; Molecular Biology Section, Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, NIH, Bethesda, Maryland 20892, USA. 
+att2101@columbia.edu	Andrew T Turk	Department of Pathology and Cell Biology, Columbia University, New York, New York 11032, USA. 
+petrier@mail.nih.gov	Ryan J Petrie	Laboratory of Cell and Developmental Biology, National Institute of Dental and Craniofacial Research, National Institute on Deafness and Other Communication Disorders, National Institutes of Health, Bethesda, MD 20892, USA. 
+jtimmons@smail.umaryland.edu	Jennifer A Timmons	Cell Biology Group, Department of Surgery, School of Medicine, University of Maryland, Baltimore, MD 21201, USA. 
+apylee@ucla.edu	Pei Yun Lee	Department of Molecular, Cell, and Developmental Biology, University of California-Los Angeles, CA, USA. 
+rdauchy@tulane.edu	Robert T Dauchy	Department of Structural and Cellular Biology, Tulane University School of Medicine, Tulane, Louisiana, USA. 
+wesselsa@musc.edu	Andy Wessels	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC, USA. 
+kenneth.campellone@uconn.edu	Kenneth G Campellone	Department of Molecular &amp; Cell Biology, University of Connecticut, Storrs, Connecticut 06269, USA. 
+danesh@hms.harvard.edu	Danesh Moazed	Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+arobling@iupui.edu	Alexander G Robling	Department of Anatomy &amp; Cell Biology, Indiana University School of Medicine, 635 Barnhill Drive, MS 5035, Indianapolis, IN, 46202, USA. 
+satoha@cc.okayama-u.ac.jp	Akira Satoh	Department of Developmental and Cell Biology and The Developmental Biology Center, University of California Irvine, Irvine, CA 92697-2305, USA. 
+kisookpark@khu.ac.kr	Ki-Sook Park	Department of Cell Biology, University of Virginia School of Medicine, PO Box 800732, Charlottesville, VA 22908, USA. 
+tobias.walther@yale.edu	Tobias C Walther	Department of Cell Biology, Yale University School of Medicine, New Haven, Connecticut 06520, USA. 
+jah@helix.nih.gov	John A Hanover	Laboratory of Cell and Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA. 
+jayres@berkeley.edu	Janelle S Ayres	Department of Molecular &amp; Cell Biology, Division of Immunology &amp; Pathogenesis, University of California, Berkeley, USA. 
+enwabu1@uic.edu	Evelyn Nwabuisi-Heath	Department of Anatomy and Cell Biology, University of Illinois at Chicago, Chicago, IL 60612, USA. 
+daorong.guo@umassmed.edu	Daorong Guo	Department of Medicine and Cell Biology, Program in Neuroscience, University of Massachusetts Medical School, Worcester, MA 01605, USA. 
+kitakaki@utmb.edu	Takaki Kiritoshi	Department of Neuroscience and Cell Biology, The University of Texas Medical Branch, 301 University Blvd. Galveston, TX 77555-1069, USA. Electronic address: 
+mhung@mdanderson.org	Ying-Nai Wang	Department of Molecular and Cellular Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA. 
+bkelch@berkeley.edu	Brian A Kelch	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA. 
+bconnors@iupui.edu	Bret A Connors	Departments of Anatomy and Cell Biology, Indiana University School of Medicine Methodist Hospital Institute for Kidney Stone Disease, Indianapolis, IN 46202, USA. 
+erdem.karatekin@yale.edu	Erdem Karatekin	Department of Cell Biology, School of Medicine, Yale University, New Haven, Connecticut, USA. 
+laura.christian@mail.utexas.edu	Laura M Christian	Department of Molecular Cell and Developmental Biology, University of Texas at Austin, Austin, TX, USA. 
+vastenhouw@mpi-cbg.de	Nadine L Vastenhouw	Department of Molecular and Cellular Biology, Harvard University, 16 Divinity Avenue, Cambridge, MA 02138, USA. 
+brimoore@ucdavis.edu	Brian D Moore	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, and Respiratory Diseases Unit, California National Primate Research Center, University of California - Davis, Davis, CA 95616-8732, USA. 
+Maranke.Koster@ucdenver.edu	Maranke I Koster	Department of Dermatology, Charles C. Gates Center for Regenerative Medicine and Stem Cell Biology, University of Colorado, Aurora, Colorado 80045, USA. 
+JTriplett@cnmcresearch.org	Jason W Triplett	Department of Molecular, Cell and Developmental Biology, University of California, Santa Cruz, Santa Cruz, California 95064, USA. 
+jcollawn@uab.edu	James F Collawn	Department of Cell, Developmental and Integrative Biology, School of Medicine, University of Alabama at Birmingham, 35294-0005, USA. 
+ehbresni@wisc.edu	Emery H Bresnick	Wisconsin Institutes for Medical Research, Paul Carbone Cancer Center, Department of Cell and Regenerative Biology, University of Wisconsin School of Medicine and Public Health, Madison, WI 53705, USA. 
+ktang_sc@yahoo.com	Ke Tang	Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA. 
+nikolay.ninov@ucsf.edu	Nikolay Ninov	Department of Biochemistry and Biophysics, Programs in Developmental and Stem Cell Biology, Genetics and Human Genetics, Diabetes Center, and Liver Center, University of California, San Francisco, San Francisco, CA 94158, USA. 
+jennwilhelm@hotmail.com	Jennifer C Wilhelm	Department of Cell Biology, Emory University School of Medicine, Atlanta, Georgia 30322, USA. 
+thane@uconn.edu	R Thane Papke	Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3125, USA. 
+jw7g@virginia.edu	Judith M White	Department of Cell Biology, University of Virginia, 1340 Jefferson Park Avenue, Charlottesville, Virginia 22908-20732, USA. 
+grant@medicine.nevada.edu	G W Hennig	Department of Physiology and Cell Biology, University of Nevada, Reno, NV 89557, USA. 
+diana.peckys@inm-gmbh.de	Diana Peckys	Fundamental and Applied Cryobiology Group, Department of Biochemistry, Cellular and Molecular Biology, the University of Tennessee, Knoxville, TN 37932, USA. 
+qiao_zhou@harvard.edu	Qiao Zhou	Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA. 
+cara.field@gmail.com	Cara L Field	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California, Davis, Davis, CA 95616, USA. 
+sandra.wolin@yale.edu	Sandra L Wolin	Department of Cell Biology, Yale University School of Medicine, 295 Congress Avenue, New Haven, CT 06536, USA. 
+joan_brugge@hms.harvard.edu	Joan S Brugge	Department of Cell Biology, Harvard Medical School, 240 Longwood Avenue, Boston, Massachusetts 02115, USA. 
+grangani@uark.edu	Gulab Rangani	Department of Crop, Soil and Environmental Sciences, Cell and Molecular Biology Program, University of Arkansas, Fayetteville, AR 72701, USA. 
+bhouser@partners.org	Brandy L Houser	Stem Cell and Regenerative Biology Department, Harvard University, Boston, MA 02115, USA. 
+portnoy@berkeley.edu	Daniel A Portnoy	Department of Molecular and Cell Biology and School of Public Health, University of California, Berkeley, Berkeley, CA 94720, USA. 
+dfingar@umich.edu	Diane C Fingar	Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI 48109, USA. 
+Anne_fausto-sterling@brown.edu	Anne Fausto-Sterling	Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, Rhode Island 02912, USA. 
+pestovdg@umdnj.edu	Dimitri G Pestov	Department of Cell Biology, University of Medicine and Dentistry of New Jersey, Stratford, New Jersey, USA. 
+eric-howard@ouhsc.edu	Eric W Howard	Department of Cell Biology, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA. 
+Jinyu.Zhu@uscmed.sc.edu	Jinyu Zhu	Department of Cell Biology and Anatomy, University of South Carolina School of Medicine, 6439 Garners Ferry Road, Columbia, SC 29208, USA. 
+dung-fang.lee@mssm.edu	Dung-Fang Lee	Department of Developmental and Regenerative Biology, The Black Family Stem Cell Institute, Mount Sinai School of Medicine, New York, New York, USA. 
+nadelk@rice.edu	Nikki A Delk	Department of Biochemistry and Cell Biology, Rice University, Houston, TX, USA. 
+steven.o.smith@sunysb.edu	Steven O Smith	Department of Biochemistry and Cell Biology, Center for Structural Biology, Stony Brook University, Stony Brook, NY 11794-5215, USA. 
+dmetzger@upenn.edu	David E Metzger	Institute for Regenerative Medicine, Institute for Diabetes Obesity and Metabolism, Epigenetics Program, Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine,1056 BRB II/III, 421 Curie Boulevard, Philadelphia, PA 19104, USA. 
+ydchen@unc.edu	Yaodong Chen	Department of Cell Biology, Duke University Medical Center, Durham, North Carolina 27710-3709, USA. 
+palty35@berkeley.edu	Raz Palty	Department of Molecular and Cell Biology, University of California Berkeley, Berkeley, CA 94720, USA. 
+gimblejm@pbrc.edu	Jeffrey M Gimble	Stem Cell Biology Laboratory, Pennington Biomedical Research Center, Louisiana State University System, Baton Rouge, LA 70808, USA. 
+rbraun@med.wayne.edu	Rod D Braun	Department of Anatomy &amp; Cell Biology, Wayne State University School of Medicine, 540 East Canfield Avenue, Detroit, MI 48201, USA. 
+jthoma@med.wayne.edu	Jennifer L Thomas	Department of Anatomy and Cell Biology, Wayne State University School of Medicine, 501 E. Canfield Ave., Detroit, MI 48201, USA. 
+jmnunnari@ucdavis.edu	Jodi Nunnari	Department of Molecular and Cellular Biology, University of California, Davis, Davis, CA 95616, USA. 
+dbrafman@ucsd.edu	David A Brafman	Cellular and Molecular Medicine, Stem Cell Program, University of California, San Diego, California, USA. 
+asboyd@bu.edu	Ashleigh S Boyd	NIH Center of Biomedical Research Excellence in Stem Cell Biology, Roger Williams Medical Center, Boston University School of Medicine, Providence, Rhode Island 02908, USA. 
+JHL3@columbia.edu	Jay H Lefkowitch	Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA. 
+ku@helix.nih.gov	Daman Kumari	Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, National Institute of Diabetes, Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD 20892-0830, USA. 
+minerj@wustl.edu	Jeffrey H Miner	Renal Division and Dept. of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO 63110, USA. 
+kimkj@ucmail.uc.edu	Kui-Jin Kim	Department of Cancer and Cell Biology, University of Cincinnati Medical Center, Cincinnati, OH 45267, USA; E-Mail: 
+charles.query@einstein.yu.edu	Charles C Query	Department of Cell Biology, Albert Einstein College of Medicine, Bronx, New York 10461, USA. 
+fuqiang.geng@vanderbilt.edu	Fuqiang Geng	Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, Tennessee 37232-8240, USA. 
+sde26@cornell.edu	Jason A MacGurn	Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, New York 14853, USA. 
+qzhou@berkeley.edu	Qiang Zhou	Department of Molecular and Cell Biology, University of California, Berkeley, California 94720, USA. 
+ghicks@ucr.edu	Glenn R Hicks	Center for Plant Cell Biology, Institute for Integrative Genome Biology, Department of Botany and Plant Sciences, University of California, Riverside, CA 92521, USA. 
+ytamura1@jhmi.edu	Yasushi Tamura	Department of Cell Biology, The Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA. 
+haowu7@gmail.com	Hao Wu	Department of Stem Cell and Regenerative Biology, Harvard University, Sherman Fairchild Biochemistry Bldg, 7 Divinity Avenue, Cambridge, MA 02138, USA. 
+ndanilova@ucla.edu	Nadia Danilova	Department of Molecular, Cell and Developmental Biology, University of California, Los Angeles, CA,USA. 
+federica.sotgia@jefferson.edu	Federica Sotgia	The Jefferson Stem Cell Biology and Regenerative Medicine Center, Thomas Jefferson University, Philadelphia, PA, USA. 
+jean-marc.navenot@jefferson.edu	Jean-Marc Navenot	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, Philadelphia, Pennsylvania 19107, USA. 
+gary.stein@umassmed.edu	Gary S Stein	Department of Cell Biology, University of Massachusetts Medical School, Worcester, MA 01655, USA. 
+yasuko.iwakiri@yale.edu	Sachi Inukai	Department of Molecular, Cellular and Developmental Biology, Yale University; New Haven, CT, USA. 
+abanfi@uhbs.ch	Andrea Banfi	Baxter Laboratory for Stem Cell Biology, Institute for Regenerative Medicine and Stem Cell Biology, Department of Microbiology and Immunology, Stanford University, Stanford, California 34305-5175, USA. 
+cbeisel@ncsu.edu	Chase L Beisel	Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, Bethesda, MD, USA. 
+jshorton@hawaii.edu	J S Horton	Department of Cell and Molecular Biology, University of Hawaii, John A. Burns School of Medicine, 651 Ilalo Street, Bioscience Building, Honolulu, HI 96813, USA. 
+piwnica-wormsd@mir.wustl.edu	David Piwnica-Worms	BRIGHT Institute, Department of Cell Biology &amp; Physiology, St. Louis, Missouri 63110, USA. 
+Anirudh.sethi@utsouthwestern.edu	Anirudh Sethi	Dept. Cell Biology &amp; Anatomy, North Texas Eye Research Institute, University of North Texas Health Science Center, 3500 Camp Bowie Blvd., Fort Worth, TX 76107, USA. 
+kkoz@virginia.edu	Keith G Kozminski	Departments of Biology and Cell Biology, University of Virginia, Charlottesville, VA 22904, USA. 
+Duesberg@berkeley.edu	Peter Duesberg	Department of Molecular and Cell Biology, Donner Laboratory, University of California at Berkeley, Berkeley, CA, USA. 
+mousley@email.unc.edu	Carl J Mousley	Department of Cell &amp; Developmental Biology, Lineberger Comprehensive Cancer Center, University of North Carolina School of Medicine, 27599-7090, Chapel Hill, NC, USA, 
+rv2025@columbia.edu	Richard B Vallee	Department of Pathology and Cell Biology, Columbia University, New York, New York 10032, USA. 
+brzeskah@mail.nih.gov	Hanna Brzeska	Laboratory of Cell Biology, NHLBI, National Institutes of Health, Bethesda, Maryland 20892, USA. 
+nicolas_preitner@hms.harvard.edu	Nicolas Preitner	Department of Cell Biology and Program in Neuroscience, Harvard Medical School, Boston MA 02115, USA. 
+nichols1@ccf.org	Stephen J Nicholls	Departments of Cardiovascular Medicine and Cell Biology and the Cleveland Clinic Coordinating Center for Clinical Research, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH 44195, USA. 
+christophe.lamy@unil.ch	Christophe M Lamy	Department of Cell Biology and Morphology, University of Lausanne, Lausanne, Switzerland. 
+waite@lifesci.ucsb.edu	J Herbert Waite	Marine Science Institute, and Department of Molecular, Cell and Developmental Biology, University of California, Santa Barbara, CA 93106, USA. 
+j.l.kluiver@umcg.nl	J L Kluiver	Department of Microbiology and Immunology, Baxter laboratory for Stem Cell Biology, Stanford University School of Medicine, Stanford, CA, USA. 
+baberko@med.wayne.edu	Bruce A Berkowitz	Department of Anatomy and Cell Biology, Wayne State University, Detroit, MI 48201, USA. 
+gsemenza@jhmi.edu	Gregg L Semenza	Vascular Program, Institute for Cell Engineering, Department of Pediatrics, The Johns Hopkins University School of Medicine, Baltimore, MD, USA. 
+foxp@ccf.org	Bakytzhan Bakhautdin	Department of Cell Biology, Lerner Research Institute, 9500 Euclid Avenue/NC10, Cleveland Clinic, Cleveland, OH 44195, USA; 
+ac83@columbia.edu	Alcmène Chalazonitis	Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA. 
+m-resh@ski.mskcc.org	Marilyn D Resh	Cell Biology Program, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, Box 143, New York, NY 10065, USA. 
+g-buehler@northwestern.edu	Guenter Albrecht-Buehler	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA. 
+tzluo@jhu.edu	Tianzhi Luo	Department of Cell Biology, The Johns Hopkins University, Baltimore, Maryland, USA. 
+Rafal.Fudala@unthsc.edu	Rafal Fudala	Center of Commercialization of Fluorescence Technologies (CCFT), Dept. of Molecular Biology &amp; Immunology, UNTHSC, Fort Worth, TX 76107, USA, and Dept. of Cell Biology and Anatomy, Fort Worth, TX 76107, USA. 
+billman.1@osu.edu	George E Billman	Department of Physiology and Cell Biology, College of Pharmacy, The Ohio State University, Columbus, OH 43210-1218, USA. 
+adoyle@mail.nih.gov	Andrew D Doyle	Laboratory of Cell and Developmental Biology, Cell Biology Section, National Institute of Dental and Craniofacial Research, Bethesda, MD 20892, USA. 
+e-klopp@northwestern.edu	Emily B Klopp	Department of Cell and Molecular Biology, Northwestern University, Chicago, IL 60611, USA. 
+tsukit@med.hokudai.ac.jp	Tadasuke Tsukiyama	Center for Cancer Research, Cancer and Developmental Biology Laboratory, Cell Signaling in Vertebrate Development Section, NCI-Frederick, NIH, Frederick, MD 21702, USA. 
+fangwang@ucla.edu	Fang Wang	Department of Molecular, Cell and Developmental Biology, University of California Los Angeles, Los Angeles, CA 90095, USA. 
+jinyu@berkeley.edu	Jin Yu	Department of Molecular and Cell Biology, University of California, Berkeley, California, USA. 
+adubis@mcw.edu	Adam M Dubis	Department of Cell Biology, Medical College of Wisconsin, Milwaukee, Wisconsin, USA. 
+jody-rada@ouhsc.edu	Jody A Summers Rada	Department of Cell Biology, University of Oklahoma Health Science Center, Oklahoma City, Oklahoma 73104, USA. 
+dfreeman@calmail.berkeley.edu	Walter J Freeman	Department of Molecular &amp; Cell Biology, University of California, Berkeley, CA, USA. 
+richard.mcintosh@colorado.edu	J Richard McIntosh	Department of Molecular, Cellular, and Developmental Biology, University of Colorado, Boulder, CO 80309, USA. 
+mfeller@berkeley.edu	Marla Feller	Department of Molecular &amp; Cell Biology, University of California Berkely, Berkeley, CA 94720-3200, USA. 
+dianna.bartel@ucdenver.edu	Dianna L Bartel	Rocky Mountain Taste and Smell Center, Neuroscience Program, Department of Cellular and Developmental Biology, University of Colorado Anschutz Medical Center, Aurora, Colorado 80045, USA. 
+donghuns@pitt.edu	Donghun Shin	Department of Biochemistry and Biophysics, Programs in Developmental and Stem Cell Biology, Genetics and Human Genetics, Institute for Regeneration Medicine, Diabetes Center and Liver Center, University of California, San Francisco, CA 94158, USA. 
+agnieszka.witkiewicz@jefferson.edu	Agnieszka K Witkiewicz	The Jefferson Stem Cell Biology and Regenerative Medicine Center, Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, USA. 
+wykim@sookmyung.ac.kr	Woo-Young Kim	Department of Molecular, Cellular and Developmental Biology, University of Colorado, CO 80309, USA. 
+mpchao@stanford.edu	Mark P Chao	Institute for Stem Cell Biology and Regenerative Medicine and Cancer Institute, Stanford, CA 94305, USA. 
+xlou3@wisc.edu	Xuelin Lou	Department of Cell Biology, Howard Hughes Medical Institute, Program in Cellular Neuroscience, Neurodegeneration and Repair, Kavli Institute for Neuroscience, Yale University School of Medicine, New Haven, CT 06510, USA. 
+jvolkmer@stanford.edu	Jens-Peter Volkmer	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA 94305, USA. 
+harrisbs@musc.edu	Brett S Harris	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, South Carolina 29425, USA. 
+dlazar@scripps.edu	Daniel C Lazar	Department of Cell Biology, The Scripps Research Institute, 10550 North Torrey Pines Road, GAC-1200, La Jolla, CA 92037, USA. 
+echojhu@gmail.com	Edward H Cho	Department of Cell Biology, The Scripps Research Institute, 10666 North Torrey Pines Road, GAC-1200, La Jolla, CA 92037, USA. 
+jchoi@ucmerced.edu	Jinah Choi	Department of Molecular Cell Biology, School of Natural Sciences, University of California at Merced, Merced, CA 95343, USA. 
+omelchet@mskcc.org	Tatiana Omelchenko	Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY 10065, USA. 
+duesberg@berkeley.edu	Peter H Duesberg	Department of Molecular and Cell Biology, UC Berkeley, CA 94720, USA. 
+lliu@ibt.tamhsc.edu	Leyuan Liu	Center for Cancer and Stem Cell Biology, Institute of Biosciences and Technology, Texas A&amp;M Health Science Center, Houston, TX, USA. 
+eric.crown@abbott.com	Eric D Crown	Department of Neuroscience and Cell Biology, University of Texas Medical Branch, Galveston, TX 77555-1043, USA. 
+scott_valastyan@hms.harvard.edu	Scott Valastyan	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+dlbogc@sbcglobal.net	Gaétan Chevalier	Developmental and Cell Biology Department, University of California at Irvine, Irvine, CA 92697, USA. 
+jane.lian@umassmed.edu	Jane B Lian	University of Massachusetts Medical School, Department of Cell Biology and Cancer Center, 55 Lake Avenue North, Room S3-326, Worcester, MA 01655, USA. 
+kingt@uthscsa.edu	Thomas S King	Department of Cellular and Structural Biology, The University of Texas Health Science Center at San Antonio, San Antonio, Texas 78229-3900, USA. 
+kumarp@life.illinois.edu	Kannanganattu V Prasanth	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. 
+mayinger@ohsu.edu	Peter Mayinger	Division of Nephrology &amp; Hypertension and Department of Cell &amp; Developmental Biology, Oregon Health &amp; Science University, Portland, OR 97239, USA. 
+jgardiner@mail.usyd.edu.au	Julia Bailey-Serres	Center for Plant Cell Biology, Department of Botany and Plant Sciences, University of California, Riverside, CA 92521-0124, USA. 
+Mathew.Lensch@childrens.harvard.edu	M William Lensch	Department of Pediatrics, Harvard Medical School, Harvard Stem Cell Institute, Division of Hematology/Oncology, Children's Hospital Boston, 1 Blackfan Circle, Boston, MA 02115, USA. 
+tama.evron@duke.edu	Tama Evron	Department of Cell Biology, Medicine and Neurobiology, Duke University Medical Center, Durham, NC 27710, USA. 
+sperrya@ecu.edu	Ann O Sperry	Department of Anatomy and Cell Biology, Brody School of Medicine, East Carolina University, Greenville, NC 27834, USA. 
+rromano2@buffalo.edu	Rose-Anne Romano	Department of Biochemistry, Center for Excellence in Bioinformatics and Life Sciences, State University of New York at Buffalo, NY 14203, USA. 
+cgibson@dental.upenn.edu	Carolyn W Gibson	Department of Anatomy and Cell Biology, University of Pennsylvania School of Dental Medicine, Philadelphia, PA 19104, USA. 
+vadim.fedorov@osumc.edu	Vadim V Fedorov	Department of Physiology and Cell Biology, and Dorothy M. Davis Heart and Lung Research Institute, The Ohio State University Medical Center, Columbus, Ohio 43210-1218, USA. 
+fluscinskas@partners.org	Francis W Luscinskas	Center for Excellence in Vascular Biology, Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115, USA. 
+nathan.mundell@vanderbilt.edu	Nathan A Mundell	Center for Stem Cell Biology, Vanderbilt University Medical Center, Nashville, TN 37232, USA. 
+mschellpfeff@mcw.edu	Michael A Schellpfeffer	Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA. 
+maximiliano.dangelo@ucsf.edu	Maximiliano A D'Angelo	Salk Institute for Biological Studies, Molecular and Cell Biology Laboratory, 10010 N. Torrey Pines Road, La Jolla, CA 92037, USA. 
+bilder@berkeley.edu	David Bilder	Department of Molecular &amp; Cell Biology, 379 Life Sciences Addition #3200, University of California, Berkeley, Berkeley, CA 94720-3200, USA. 
+fasulo@biology.ucsc.edu	Barbara Fasulo	Sinsheimer Laboratories, Department of Molecular, Cellular and Developmental Biology, University of California, Santa Cruz, Santa Cruz, CA 95064, USA. 
+joseph.janicki@uscmed.sc.edu	Joseph S Janicki	Cell Biology and Anatomy, School of Medicine, University of South Carolina, Columbia, USA. 
+shyla.narasimhan@gmail.com	Yadushyla Narasimhachar	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, Lubbock, TX, USA. 
+ghabrial@mail.med.upenn.edu	Amin S Ghabrial	Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA. 
+wen-hong.li@utsouthwestern.edu	Wen-hong Li	Departments of Cell Biology and of Biochemistry, University of Texas Southwestern Medical Center at Dallas, Dallas, Texas 75390, USA. 
+grosenberg@salud.unm.edu	Gary A Rosenberg	Departments of Neurology, Neurosciences, Cell Biology and Physiology and Mathematics and Statistics, University of New Mexico Health Sciences Center, Albuquerque, NM, USA. 
+jpt015@bucknell.edu	John Paul Tomtishen	Bucknell University, Cell Biology/Biochemistry Program, Lewisburg, PA 17837, USA. 
+landmann@biology.ucsc.edu	Frédéric Landmann	Department of Molecular, Cell and Developmental Biology, University of California Santa Cruz, 1156 High Street, Santa Cruz, CA 95604, USA. 
+yongwei.zhang@einstein.yu.edu	Yongwei Zhang	Department of Cell Biology, Albert Einstein College of Medicine, Bronx, NY 10461, USA. 
+dariley@mcw.edu	Danny A Riley	Department of Cell Biology, Neurobiology &amp; Anatomy, Medical College of Wisconsin, Milwaukee, WI 53226, USA. 
+spoel@xray.bmc.uu.se	David van der Spoel	Department of Cell and Molecular Biology, Uppsala University, Husargatan 3, Box 596, SE-75124 Uppsala, Sweden. 
+shawn.ferguson@yale.edu	Shawn M Ferguson	Department of Cell Biology, Yale University School of Medicine, New Haven, Connecticut 06510, USA. 
+freddy.jeanneteau@med.nyu	Freddy D Jeanneteau	Department of Cell Biology, Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York, NY 10016, USA. 
+zoya.demidenko@roswellpark.org	Zoya N Demidenko	Department of Cell Stress Biology, Roswell Park Cancer Institute, Buffalo, NY 14263, USA. 
+Shuo.Wei@mail.wvu.edu	Shuo Wei	Department of Cell Biology and the Morphogenesis and Regenerative Medicine Institute, University of Virginia Health System, Charlottesville, VA 22908, USA. 
+ch.dittrich@gmail.com	Christian Dittrich	Dept. of Cell Biology, Harvard Medical School, 240 Longwood Avenue, Boston, MA 02115, USA. 
+Edwin.oh@duke.edu	Edwin C Oh	Center for Human Disease Modeling, Department of Cell Biology, Duke University, Durham NC 27710, USA. 
+vesna.todorovic@nyumc.org	Vesna Todorovic	Department of Cell Biology, NYU Langone Medical Center, New York, New York 10016, USA. 
+mukoyamay@mail.nih.gov	Yoh-suke Mukouyama	Laboratory of Stem Cell and Neuro-Vascular Biology, Genetics and Developmental Biology Center, National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA. 
+dale.vandre@osumc.edu	D D Vandré	Department of Physiology and Cell Biology, Ohio State University, 304 Hamilton Hall, 1645 Neil Ave., Columbus, OH 43210, USA. 
+Ykee@usf.edu	Younghoon Kee	Department of Cell Biology, Microbiology, and Molecular Biology, University of South Florida, Tampa, Florida, USA. 
+yingqun.wang@jefferson.edu	Yingqun Wang	Department of Pathology, Anatomy, and Cell Biology, Thomas Jefferson University, Philadelphia, PA, USA. 
+m.umemura.0807@gmail.com	Masanari Umemura	Department of Cell Biology and Molecular Medicine, Cardiovascular Research Institute, New Jersey Medical School-University of Medicine and Dentistry of New Jersey, Newark, NJ 07103, USA. 
+kt8@columbia.edu	Kurenai Tanji	Neuromuscular Pathology Laboratory, Division of Neuropathology, Department of Pathology and Cell Biology, Columbia University, New York, NY, USA. 
+gourdier@musc.edu	Robert G Gourdie	Department of Regenerative Medicine and Cell Biology, Clemson-MUSC Bioengineering Program, MUSC, Charleston, SC 29425, USA. 
+jstroot@cirisenergy.com	Joyce M Stroot	Department of Cell Biology, Microbiology, and Molecular Biology, University of South Florida, 4202 E. Fowler Ave. ISA2015, Tampa, FL 33620, USA. 
+fudong@mail.nih.gov	Dong Fu	Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892, USA. 
+frazer-abela@njhealth.org	Ashley Frazer-Abel	Division of Cell Biology, Department of Pediatrics, The Complement Laboratory, Advanced Diagnostic Laboratories, National Jewish Health, Denver, Colorado 80206, USA. 
+thomas.hurd@med.nyu.edu	Thomas Ryan Hurd	HHMI and Kimmel Center for Biology and Medicine of the Skirball Institute, Department of Cell Biology, New York University School of Medicine, New York, NY 10016, USA. 
+jjmiller@umd.edu	John J Miller	Department of Cell Biology and Molecular Genetics, 2108 Biosciences Research Building, University of Maryland, Building, College Park, MD 20742-5815, USA. 
+cgross3@emory.edu	Christina Gross	Department of Cell Biology, Emory University School of Medicine, Atlanta, Georgia 30322, USA. 
+Stephanie.Cabarcas@nih.gov	Stephanie M Cabarcas	Cancer Stem Cell Section, Laboratory of Cancer Prevention, Center for Cancer Research, National Cancer Institute, Frederick, Maryland, USA. 
+anjain@live.unthsc.edu	Ankur Jain	Department of Cell Biology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, Texas 76107, USA. 
+njernigan@salud.unm.edu	Nikki L Jernigan	Vascular Physiology Group, Department of Cell Biology and Physiology, University of New Mexico Health Sciences Center, Albuquerque, USA. 
+ghadiallyr@derm.ucsf.edu	Ruby Ghadially	Department of Dermatology and Epithelial Section, UCSF Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, California 94121, USA. 
+prem-ramakrishnan@uiowa.edu	P S Ramakrishnan	Ignacio Ponseti Cell and Molecular Biology Laboratory, Department of Orthopedics and Rehabilitation, University of Iowa Hospitals, Iowa City, IA 52242, USA. 
+herrup@biology.rutgers.edu	Karl Herrup	Dept. of Cell Biology and Neuroscience, Nelson Biological Laboratories, 604 Allison Road, Piscataway, NJ 0854, USA. 
+cbaumann@uga.edu	Claudia Baumann	Female Germ Cell Biology Group, Department of Clinical Studies, Center for Animal Transgenesis and Germ Cell Research, School of Veterinary Medicine, University of Pennsylvania, New Bolton Center, 382 West Street Road, Kennett Square, PA 19348, USA; 
+aufschna@biochem.mpg.de	Roland Aufschnaiter	Department of Anatomy and Cell Biology, University of Kansas Medical Center, Kansas City, Kansas 66160, USA. 
+lake@mbi.ucla.edu	James A Lake	Department of Molecular, Cell and Developmental Biology, University of California, Los Angeles, California 90095, USA. 
+annlm@umich.edu	Ann L Miller	Department of Molecular, Cellular, and Developmental Biology, Program in Cell and Molecular Biology, University of Michigan, Ann Arbor, Michigan 48109, USA. 
+springer@nymc.edu	Alan D Springer	Department of Cell Biology and Anatomy, New York Medical College, Valhalla, New York 10595, USA. 
+biesiadecki.1@osu.edu	Brandon J Biesiadecki	Department of Physiology and Cell Biology, The Ohio State University, Columbus, OH 43210, USA. 
+guacci@berkeley.edu	Vincent Guacci	Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA. 
+troyerda@evms.edu	Jeffrey R Shuster	Depts, Of Pathology and Microbiology and Molecular Cell Biology, Eastern Virginia Medical School, Norfolk, VA, USA. 
+Jeffrey.Bush@ucsf.edu	Jeffrey O Bush	Department of Cell and Tissue Biology and Program in Craniofacial and Mesenchymal Biology, University of California at San Francisco, San Francisco, CA 94143, USA. 
+heraybould@ucdavis.edu	Helen E Raybould	Department of Anatomy, Physiology and Cell Biology, UC Davis School of Veterinary Medicine, 1321 Haring Hall, UC Davis, 1 Shields Avenue, Davis, CA 95616, USA. 
+xi-qin-ding@ouhsc.edu	Xi-Qin Ding	Department of Cell Biology, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA. 
+Marina.Gorbatyuk@unthsc.edu	Marina S Gorbatyuk	Department of Cell Biology and Anatomy, University of North Texas Health Science Center, Fort Worth, TX 76107, USA. 
+gambl007@umn.edu	Tony Gamble	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN, USA. 
+victor.c.wong@yale.edu	Victor Wong	Department of Molecular, Cellular, and Developmental Biology, Yale School of Medicine, New Haven, Connecticut 06511, USA. 
+charles.giardina@uconn.edu	Charles Giardina	Department of Molecular and Cell Biology, University of Connecticut, 91 North Eagleville Road, U3215, Storrs, CT 06269, USA. 
+delevin@bu.edu	David E Levin	Department of Molecular and Cell Biology, Goldman School of Dental Medicine, Boston University, Boston, Massachusetts 02118, USA. 
+brodyt@ninds.nih.gov	Thomas Brody	Neural Cell-Fate Determinants Section, NINDS, NIH, Bethesda, Maryland 20892, USA. 
+pknaik1973@gmail.com	Pradeep K Naik	Department of Cell Biology, Emory University School of Medicine, Atlanta, GA, 30322, USA. 
+MKaczoch@notes.sunysb.edu	Martin Kaczocha	Department of Biochemistry and Cell Biology, Stony Brook University, Stony Brook, New York 11794-5215, USA. 
+ericgt@email.arizona.edu	Eric G Thompson	Department of Molecular and Cellular Biology, University of Arizona, Tucson, Arizona 85721, USA. 
+blinov@uchc.edu	Michael L Blinov	Center for Cell Analysis and Modeling, University of Connecticut Health Center, Farmington, CT, USA. 
+carolyn.price@uc.edu	Carolyn M Price	Department of Cancer and Cell Biology, University of Cincinnati, Cincinnati, Ohio, USA. 
+qiu-xing.jiang@utsouthwestern.edu	Qiu-Xing Jiang	Department of Cell Biology, and Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Texas, USA. 
+yundezhao@ucsd.edu	Yunde Zhao	Section of Cell and Developmental Biology, University of California San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0116, USA. 
+roger.craig@umassmed.edu	Roger Craig	Department of Cell Biology, University of Massachusetts Medical School, 55 Lake Avenue North, Worcester, MA 01655, USA. 
+s.sridhara@ttuhsc.edu	S Sridhara	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, 3601, 4th Street, Lubbock, TX 79430, USA. 
+joseph.humtsoe@ucsf.edu	Joseph O Humtsoe	Department of Cell and Tissue Biology, School of Dentistry, 521 Parnassus Avenue, University of California at San Francisco, San Francisco, CA 94143, USA. 
+ngs@uga.edu	Natalia G Starostina	Department of Cellular Biology, University of Georgia, Athens, GA 30602, USA. 
+hammerj@nhlbi.nih.gov	John A Hammer	Laboratory of Cell Biology, National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20892, USA. 
+matteop@mcdb.ucla.edu	Matteo Pellegrini	Department of Molecular, Cell and Developmental Biology, University of California, Los Angeles, CA, USA. 
+Jose.Cancelas@uc.edu	J A Cancelas	Hoxworth Blood Center, University of Cincinnati Academic Health Center, and Stem Cell Program, Division of Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, University of Cincinnati Medical Center, Cincinnati, Ohio, USA. 
+mladu@uic.edu	Mary Jo LaDu	Department of Anatomy and Cell Biology, University of Illinois, Chicago, IL 60612, USA. 
+katja.brueckner@ucsf.edu	Katja Brückner	Department of Cell and Tissue Biology, Department of Anatomy, Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, CA 94143-0669, USA. 
+tabarv@mskcc.org	Viviane Tabar	Department of Neurosurgery and Center for Stem Cell Biology, Memorial Sloan Kettering Center for Cancer Research, New York, NY, 10065 USA. 
+sinenko@mail.com	Sergey A Sinenko	Department of Molecular, Cell and Developmental Biology, Molecular Biology Institute, Los Angeles, 610 Charles Young Drive East, Terasaki Life Science Building, Los Angeles, California 90095, USA. 
+Ina.Weidenfeld@colorado.edu	Ina Weidenfeld	Molecular, Cellular, and Developmental Biology, University of Colorado at Boulder, Boulder, CO 80309, USA. 
+michael7@pitt.edu	Michael B Butterworth	Department of Cell Biology and Physiology, University of Pittsburgh, Pittsburgh, PA 15261, USA. 
+dpatter4@ohiohealth.com	Diana Patterson	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Fort Wayne, IN 46805, USA. 
+olazarov@uic.edu	Orly Lazarov	Department of Anatomy and Cell Biology, College of Medicine, University of Illinois at Chicago, Chicago, IL 60612, USA. 
+stuart_orkin@dfci.harvard.edu	Jonghwan Kim	Department of Pediatric Oncology, Children's Hospital and Dana Farber Cancer Institute, Harvard Stem Cell Institute, Harvard Medical School, Howard Hughes Medical Institute, Boston, MA 02115, USA. 
+jiaxi@life.uiuc.edu	Jiaxi Zhou	Department of Cell and Developmental Biology, Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, 61801, USA. 
+wendy.pang@stanford.edu	Wendy W Pang	Institute for Stem Cell Biology and Regenerative Medicine, Ludwig Center for Stem Cell Research, and Department of Pathology, Stanford University, Stanford, CA 94305, USA. 
+Gyorgy.Csordas@jefferson.edu	György Csordás	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+john.a.thompson@ucdenver.edu	John A Thompson	Rocky Mountain Taste and Smell Center, Department of Cell and Developmental Biology, Aurora, Colorado 80045, USA. 
+wetendor@bcm.edu	Margeaux Wetendorf	Interdepartmental Program in Cell &amp; Molecular Biology, Baylor College of Medicine, Houston, TX 77030, USA. 
+albertostolfi@gmail.com	Alberto Stolfi	Department of Molecular and Cell Biology, Division of Genetics, Genomics and Development, Center for Integrative Genomics, University of California, Berkeley, CA 94720, USA. 
+pauli@fas.harvard.edu	Andrea Pauli	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+james.rice@uconn.edu	James M Rice	Department of Molecular and Cell Biology, University of Connecticut, 91 North Eagleville Road, BSP 318, Storrs, CT 06269, USA. 
+jihui_ren@med.unc.edu	Jihui Ren	Department of Cell and Developmental Biology, Lineberger Comprehensive Cancer Center, University of North Carolina School of Medicine, Chapel Hill, NC 27599-7090, USA. 
+natalia.shulzhenko@oregonstate.edu	Natalia Shulzhenko	'Ghost Lab', T Cell Tolerance and Memory Section, Laboratory of Cellular and Molecular Immunology, National Institute of Allergy and Infectious Diseases (NIAID), US National Institutes of Health (NIH), Bethesda, Maryland, USA. 
+wood.13@osu.edu	J D Wood	Department of Physiology and Cell Biology, College of Medicine, The Ohio State University, Columbus 43210, USA. 
+ankush_bhatia@rush.edu	Ankush Bhatia	Department of Anatomy and Cell Biology, Rush Medical College, 600 S Paulina St., Rm 507, Chicago, IL 60612, USA. 
+emascareno@downstate.edu	Eduardo J Mascareno	Department of Cell Biology, State University of New York, Downstate Medical School, Brooklyn, New York 11203, USA. 
+hearingv@nih.gov	Vincent J Hearing	Laboratory of Cell Biology, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA. 
+uk30@columbia.edu	Ulf Klein	Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA. 
+ran.nirpaz@gmail.com	Ran Nir-Paz	Department of Molecular and Cell Biology, University of California, Berkeley, CA, USA. 
+amehle@wisc.edu	Andrew Mehle	Department of Molecular and Cell Biology, University of California, Berkeley, California, USA. 
+rdocampo@uga.edu	Roberto Docampo	Center for Tropical and Emerging Global Diseases and Department of Cellular Biology, University of Georgia, Athens, GA 30620, USA. 
+mjbuck@buffalo.edu	Robert M Givens	Department of Molecular and Cellular Biology, Roswell Park Cancer Institute, Buffalo, NY 14263, USA. 
+aaron.neiman@stonybrook.edu	Aaron M Neiman	Department of Biochemistry and Cell Biology, Stony Brook University, Stony Brook, New York 11794-5215, USA. 
+sbarolo@umich.edu	Scott Barolo	Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI, USA. 
+rsc248@northwestern.edu	Richard C Scarpulla	Department of Cell and Molecular Biology, Northwestern Medical School, Chicago, IL 60611, USA. 
+abeera@ufl.edu	Abeer A Khalaf	Plant Molecular and Cellular Biology Program (PMCB), Horticultural Sciences Department, University of Florida, Gainesville, FL 32611, USA. 
+morand@unc.edu	Michael G O'Rand	Department of Cell and Developmental Biology, University of North Carolina at Chapel Hill, USA. 
+xtu@iupui.edu	Xiaolin Tu	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN 46202, USA. 
+pnewmark@life.illinois.edu	Tracy Chong	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA. 
+agarber@bcm.tmc.edu	A J Garber	Departments of Medicine, Biochemistry and Molecular Biology, and Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA. 
+roger.auth2@fda.hhs.gov (R.D.A.)	Tao Xie	Laboratory of Cell Biology, Division of Monoclonal Antibodies, Office of Biotechnology Products, Office of Pharmaceutical Science, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Bethesda, MD 20892, USA; Email: tao.xie@fda.hhs.gov (T.X.); 
+edwardsd2@mail.nih.gov	Dustin C Edwards	Virus Tumor Biology Section, Laboratory of Cellular Oncology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA. 
+allewell@umd.edu	Norma M Allewell	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland 20742, USA. 
+tksmith@medicine.nevada.edu	Matthew J Broadhead	Department of Physiology and Cell Biology, University of Nevada School of Medicine, Reno, NV 89557, USA. 
+juan-reyes@northwestern.edu	Juan F Reyes	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA. 
+img3v@virginia.edu	Isabel M González	Department of Cell Biology, University of Virginia Health System, Charlottesville, VA 22901, USA. 
+zaret@upenn.edu	Kenneth S Zaret	Epigenetics Program, Institute for Regenerative Medicine, Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, USA. 
+emorrise@mail.med.upenn.edu	Edward E Morrisey	Department of Medicine and Department of Cell and Developmental Biology, Institute for Regenerative Medicine, Cardiovascular Institute, Translational Research Center, University of Pennsylvania, Philadelphia, PA 19104-5129, USA. 
+gitler@mail.med.upenn.edu	Aaron D Gitler	Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA. 
+wang9377@gmail.com	Shiwang Li	Department of Cell Biology, Emory University School of Medicine, Atlanta, GA 30322, USA. 
+manningsabatier@clayton.edu	Manning J Sabatier	Department of Cell Biology, Emory University School of Medicine, Atlanta, USA. 
+kasperlandersen@gmail.com	Kasper L Andersen	Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA. 
+gaplab@umn.edu	Ross G Johnson	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN 55455, USA. 
+reddy@colostate.edu	Anireddy S N Reddy	Department of Biology, Program in Molecular Plant Biology, Program in Cell and Molecular Biology, Colorado State University, Fort Collins, Colorado 80523, USA. 
+clark140@umn.edu	Duncan J Clarke	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN, USA. 
+lee.2076@osu.edu	Beth S Lee	Department of Physiology and Cell Biology, The Ohio State University College of Medicine, Columbus, Ohio 43210, USA. 
+Hongxia.zhou@jefferson.edu	Hongxia Zhou	Department of Neurology, Anatomy &amp; Cell Biology, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+blhart@ucdavis.edu	Benjamin L Hart	Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California, Davis, CA 95616, USA. 
+robert.nichols@hawaii.edu	Robert A Nichols	Department of Cell &amp; Molecular Biology, University of Hawaii, Honolulu, HI, USA. 
+jeffrey.bush@ucsf.edu	Jeffrey O Bush	Department of Cell and Tissue Biology and Program in Craniofacial and Mesenchymal Biology, University of California at San Francisco, San Francisco, CA 94143, USA. 
+kschmidt@usf.edu	Lillian Doerfler	Department of Cell Biology, Microbiology and Molecular Biology, University of South Florida, 4202 E, Fowler Avenue, Tampa, FL 33620, USA. 
+rjones5@emory.edu	Rheinallt M Jones	Departments of Pathology and Laboratory Medicine Cell Biology, Emory University School of Medicine, Atlanta, GA 30322, USA. 
+lippincj@mail.nih.gov	Jennifer Lippincott-Schwartz	Cell Biology and Metabolism Program, Eunice Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892, USA. 
+susan.wente@vanderbilt.edu	Susan R Wente	Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN 37232, USA. 
+nachury@stanford.edu	Maxence V Nachury	Department of Molecular and Cellular Physiology, Stanford University School of Medicine, Stanford, CA 94305-5345, USA. 
+ysgwak@utmb.edu	Young S Gwak	Department of Neuroscience and Cell Biology, University of Texas Medical Branch at Galveston, TX 77555, USA. 
+ravi@virginia.edu	Kodi S Ravichandran	Department of Microbiology, Immunology, and Cancer Biology, Center for Cell Clearance, University of Virginia, Charlottesville, VA 22908, USA. 
+hhathaway@salud.unm.edu	Helen J Hathaway	Department of Cell Biology &amp; Physiology, University of New Mexico School of Medicine, MSC08 4750, 1 University of New Mexico, Albuquerque, NM 87131, USA. 
+khochedlinger@helix.mgh.harvard.edu	Konrad Hochedlinger	Howard Hughes Medical Institute and Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA. 
+hjelmea@ccf.org	Anita B Hjelmeland	Department of Stem Cell Biology and Regenerative Medicine, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA. 
+bdcox@uab.edu	Braden C McFarland	Department of Cell Biology, 1918 University Blvd., MCLM 313, University of Alabama at Birmingham, Birmingham, AL 35294, USA. 
+jaelbiet@txch.org	Javier El-Bietar	Center for Cell and Gene Therapy , Baylor College of Medicine, Texas Children's Hospital, Houston, Texas 77030, USA. 
+smoreno@cb.uga.edu	Silvia N J Moreno	Center for Tropical and Emerging Global Diseases and Department of Cellular Biology, University of Georgia, Athens, GA 30602, USA. 
+mdaadi@stanford.edu	Marcel M Daadi	Program in Stem Cell &amp; Regenerative Biology, Sanford-Burnham Medical Research Institute, La Jolla, CA 92037, USA. 
+eh2217@columbia.edu	Eldad A Hod	Departments of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons–New York Presbyterian Hospital, New York, NY 10032, USA. 
+allan-wiechmann@ouhsc.edu	Allan F Wiechmann	Department of Cell Biology, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma 73104, USA. 
+elaufer@columbia.edu	Ed Laufer	Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA. 
+d-gallo@northwestern.edu	Daniel E Gallo	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Lurie 9-290, Chicago, IL 60611, USA. 
+swartz@mail.utexas.edu	Mary E Swartz	Department of Molecular and Cell and Developmental Biology, Institute for Cellular and Molecular Biology and Institute for Neuroscience, University of Texas, Austin, Texas, USA. 
+Jerry.Shay@UTSouthwestern.edu	Jerry W Shay	UT Southwestern Medical Center, Department of Cell Biology, 5323 Harry Hines Blvd, Dallas, TX 75390-9039, USA. 
+f0rezz01@louisville.edu	Francine Rezzoug	University of Louisville, Birth Defects Center, Department of Molecular, Cellular and Craniofacial Biology, ULSD, 501 S. Preston St., Suite 350, Louisville, KY 40202, USA. 
+armstroc@mail.med.upenn.edu	Clara Franzini-Armstrong	Department of Cell and Developmental Biology, School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA. 
+brenda.schulman@stjude.org	Brenda A Schulman	Department of Structural Biology and Tumor Cell Biology and Howard Hughes Medical Institute, St. Jude Children's Research Hospital, Memphis, Tennessee 38105, USA. 
+jekert@its.jnj.com	Jason E Ekert	Departments of Cell Biology and Assay Technologies, Centocor R&amp;D, a division of Johnson &amp; Johnson Pharmaceutical Research &amp; Development, LLC, Radnor, PA, USA. 
+william.chirico@downstate.edu	William J Chirico	Department of Cell Biology and Molecular &amp; Cellular Biology Program, State University of New York Downstate Medical Center, Brooklyn, 11203, USA. 
+klwilson@jhmi.edu	Katherine L Wilson	Department of Cell Biology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. 
+rafalbar@uab.edu	Rafal Bartoszewski	Department of Cell Biology, University of Alabama, Birmingham, Alabama 35294-0005, USA. 
+Irina.Kaverina@Vanderbilt.Edu	Irina Kaverina	Department of Cell and Developmental Biology, Vanderbilt University Medical Center, 3160 MRBIII, 465 21st Avenue South, Nashville, TN 37232-8240, USA. 
+vasanns@umdnj.edu	Nagaswami S Vasan	Department of Cell Biology and Molecular Medicine, New Jersey Medical School, Newark, NJ 07103, USA. 
+jmoult@umd.edu	John Moult	Institute for Bioscience and Biotechnology Research, and Department of Cell Biology and Molecular Genetics, University of Maryland, Rockville, MD 20850, USA. 
+lianwufu@uab.edu	Lianwu Fu	Department of Cell Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA. 
+karine.leroch@ucr.edu	K G Le Roch	Department of Cell Biology and Neuroscience, University of California Riverside, Institute for Integrative Genome Biology, and Center for Disease Vector Research, Riverside, CA 92521, USA. 
+mpearso@gwdg.de	Michael D Pearson	Department of Molecular, Cell and Developmental Biology and Center for Molecular Biology of RNA, University of California at Santa Cruz, Santa Cruz, California 95064, USA. 
+js3203@columbia.edu	Julian Scherer	Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA. 
+Xiaoyue.Pan@downstate.edu	Xiaoyue Pan	Department of Cell Biology, SUNY Downstate Medical Center, 450 Clarkson Ave., Brooklyn, NY 11203, USA. 
+thope@northwestern.edu	Thomas J Hope	Department of Cell and Molecular Biology, Northwestern University Medical School, Chicago, Illinois, USA. 
+jwillia3@anatomy.iupui.edu	James C Williams	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, Indiana 46202-5120, USA. 
+mboehler2@siumed.edu	Michael D Boehler	Department of Medical Microbiology, Immunology and Cell Biology, Southern Illinois University School of Medicine, Springfield, IL 62794-9626, USA. 
+jml2621@neo.tamu.edu	John M Lawler	Redox Biology &amp; Cell Signaling Laboratory, Department of Health and Kinesiology, Texas A&amp;M University, College Station, TX 77843-4243, USA. 
+cd@mb.au.dk	Christian Kroun Damgaard	Department of Molecular, Cellular, and Developmental Biology, University of Colorado, Boulder, Colorado 80309, USA. 
+hiraharak@mail.nih.gov	Kiyoshi Hirahara	Department of Lymphocyte Cell Biology Section, Molecular Immunology and Inflammation Branch, National Institutes of Arthritis, and Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, MD 20892-1930, USA. 
+msymons@nshs.edu	Marc Symons	Center for Oncology and Cell Biology, The Feinstein Institute for Medical Research, Manhasset, NY, USA. 
+catanese@bcm.edu	Daniel J Catanese	Department of Biochemistry and Cell Biology, Rice University, 6100 Main St., Houston, TX 77005, USA. 
+masingh@mail.med.upenn.edu	Manvendra K Singh	Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. 
+awm@mcb.harvard.edu	Andrew W Murray	Harvard University, Molecular and Cellular Biology, 52 Oxford Street, Northwest Science Building, Cambridge, Massachusetts 02138, USA. 
+richard.zangar@pnl.gov	Richard C Zangar	Cell Biology and Biochemistry, Pacific Northwest National Laboratory, Richland, WA 99354, USA. 
+graveley@neuron.uchc.edu	Brenton R Graveley	Department of Genetics and Developmental Biology, University of Connecticut Stem Cell Institute, University of Connecticut Health Center, Farmington, CT 06030, USA. 
+jhare@med.miami.edu	Adam R Williams	Interdisciplinary Stem Cell Institute, University of Miami Miller School of Medicine, Miami, FL 33101, USA. 
+clint.macdonald@ttuhsc.edu	Clinton C MacDonald	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, Lubbock, TX 79430-6540, USA. 
+ding.35@osu.edu	Biao Ding	Department of Plant Cellular and Molecular Biology and Plant Biotechnology Center, The Center for RNA Biology, and Molecular, Cellular and Developmental Biology Program, The Ohio State University, 207 Rightmire Hall, 1060 Carmack Road, Columbus, OH 43210, USA. 
+fjammes@umd.edu	Fabien Jammes	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland 20742, USA. 
+hjw14@columbia.edu	Howard J Worman	Departments of Medicine and of Pathology and Cell Biology, College of Physicians and Surgeons, Columbia University, New York, USA. 
+gordon.weir@joslin.harvard.edum	Gordon C Weir	Section on Islet Cell and Regenerative Biology, Research Division, Joslin Diabetes Center, One Joslin Place, Boston, MA 02215, USA, and the Department of Medicine, Harvard Medical School, 25 Shattuck Street, Boston, MA 02115, USA. 
+t.ohashi@cellbio.duke.edu	Tomoo Ohashi	Department of Cell Biology, Duke University Medical Center, Durham, North Carolina 27710, USA. 
+don@donarmstrong.com	Don L Armstrong	Department of Cell Biology and Neuroscience, University of California, Riverside, USA. 
+laurelvana2010@u.northwestern.edu	Laurel Vana	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA. 
+qinzhao@umich.edu	Zhao Qin	Department of Molecular, Cellular, and Developmental Biology, University of Michigan College of Literature, Science, and the Arts, 830 North University, Ann Arbor, MI 48109, USA. 
+nlbjorkl@utmb.edu	Nicole L Bjorklund	Department of Neuroscience and Cell Biology, University of Texas Medical Branch, 301 University Blvd., Galveston, TX 77555, USA. 
+cheryl.andam@gmail.com	Cheryl P Andam	Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3125, USA. 
+ylangdon@mail.med.upenn.edu	Yvette G Langdon	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19104, USA. 
+pmcguire@salud.unm.edu	Paul G McGuire	Department of Cell Biology and Physiology, University of New Mexico School of Medicine, Albuquerque, New Mexico, USA. 
+dianhankuo@gmail.com	Dian-Han Kuo	Department of Molecular and Cell Biology, University of California, Berkeley, 385 Life Science Addition, Berkeley, CA 94720-3200, USA. 
+peter.enyeart@mail.utexas.edu	Peter J Enyeart	Institute for Cell and Molecular Biology, University of Texas at Austin, Austin, Texas 78712, USA. 
+mortonr@ccf.org	Richard E Morton	Department of Cell Biology, Lerner Research Institute Cleveland Clinic Foundation, Cleveland, OH 44195, USA. 
+david.williams@uconn.d-dub.org.uk	David Williams	Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3125, USA. 
+kjverhey@umich.edu	Kristen J Verhey	Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor, MI 48109, USA. 
+kurtisdavies@hotmail.com	Kurtis D Davies	Cell Biology, Array BioPharma, Inc., Boulder, CO 80301, USA. 
+jfathman@stanford.edu	John W Fathman	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+rwh@helix.nih.gov	Richard W Hendler	Laboratory of Cell Biology, National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, Maryland 20892, USA. 
+mrwaite@umich.edu	Mindy R Waite	Program in Cell and Molecular Biology, 2966 Taubman Medical Library, University of Michigan, Ann Arbor, MI 48109-0619, USA. 
+teresa.janas@colorado.edu	Teresa Janas	Department of Molecular, Cellular and Developmental Biology, University of Colorado, Boulder, CO, USA. 
+storz@helix.nih.gov	Gisela Storz	Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, 18 Library Drive, Bethesda, MD 20892-5430, USA. 
+ronald.breaker@yale.edu	Ronald R Breaker	Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, CT 06520-8103, USA. 
+mishaq@mail.nih.gov	Mohammad Ishaq	Laboratory of Molecular Cell Biology, SAIC-Frederick, National Cancer Institute, Frederick, MD 21702, USA. 
+ym2183@columbia.edu	Yinghui Mao	Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons, 630 West 168th Street, New York, NY 10032, USA. 
+sht2@columbia.edu	Stephen H Tsang	Department of Pathology &amp; Cell Biology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. 
+francis@mcb.harvard.edu	Nicole J Francis	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+lap5@columbia.edu	Liza A Pon	Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA. 
+mark_noble@urmc.rochester.edu	Mark Noble	University of Rochester Stem Cell and Regenerative Medicine Institute and Department of Biomedical Genetics, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA. 
+KleinR@mail.amc.edu	R Matthew Klein	Center for Cell Biology and Cancer Research, MC-165, Albany Medical College, 47 New Scotland Avenue, Albany, NY 12206, USA. 
+rghosh@email.unc.edu	Ratna Ghosh	Lineberger Comprehensive Cancer Center, Department of Cell and Developmental Biology, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC 27526-7090, USA. 
+lbodai@yahoo.com	Laszlo Bodai	Department of Developmental and Cell Biology, University of California Irvine, Irvine, CA, USA. 
+tnamderm@tmd.ac.jp	Takeshi Namiki	Laboratory of Cell Biology, National Cancer Institute, National Institutes of Health, Bethesda, MD 20814, USA. 
+zusman@berkeley.edu	Beiyan Nan	Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, California 94720, USA. 
+hammadsm@musc.edu	Samar M Hammad	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, South Carolina, USA. 
+xian-cheng.jiang@downstate.edu	Xian-Cheng Jiang	Department of Cell Biology, Downstate Medical Center, State University of New York, Brooklyn, New York, USA. 
+idnurma@umkc.edu	Alexander Idnurm	Division of Cell Biology and Biophysics, School of Biological Sciences, University of Missouri-Kansas City, Kansas City, MO 64110, USA. 
+jpark145@ jhmi.edu	JinSeok Park	Department of Biomedical Engineering and Institutefor Cell Engineering, Johns Hopkins University, Baltimore, MD 21218, USA. 
+james.rothman@yale.edu	James E Rothman	Department of Cell Biology, Yale University School of Medicine, New Haven, CT 06520-8002, USA. 
+rbarros@central.uh.edu	Rodrigo P A Barros	Center for Nuclear Receptors and Cell Signaling, Department of Cell Biology and Biochemistry, University of Houston, Houston, TX 77004, USA. 
+smcarlto@utmb.edu	Susan M Carlton	Department of Neuroscience and Cell Biology, University of Texas Medical Branch, Galveston, Texas 77555-1069, USA. 
+allyson.hindle@ucdenver.edu	Allyson G Hindle	Cell &amp; Developmental Biology, University of Colorado School of Medicine, Aurora, Colorado 80045, USA. 
+sliu@lsuhsc.edu	Siqiong June Liu	Department of Cell Biology and Anatomy, LSU Health Sciences Center, New Orleans, LA 70112, USA. 
+maksim.bazhenov@ucr.edu	Maxim Bazhenov	Department of Cell Biology and Neuroscience, University of California, Riverside, CA 92521, USA. 
+maia.green@merck.com	M L Green	Department of Molecular, Cellular and Craniofacial Biology, University of Louisville, 501 S. Preston St., Louisville, KY 40202, USA. 
+Marco_Vilela@hms.harvard.edu	Marco Vilela	Department of Cell Biology, Harvard Medical School, 240 Longwood Avenue, Boston, Massachusetts 02115, USA. 
+lz146@columbia.edu	Lori M Zeltser	Naomi Berrie Diabetes Center, Division of Molecular Genetics, and Department of Pathology and Cell Biology, Columbia University, New York, NY 10032, USA. 
+perryh@umn.edu	Perry B Hackett	Dept. of Genetics, Cell Biology and Development, 321 Church St. SE, Minneapolis, MN 55455, USA. 
+Leo.Wang@ childrens.harvard.edu	Leo D Wang	Department of Stem Cell and Regenerative Biology, Harvard University, Harvard Stem Cell Institute, 7 Divinity Ave., Cambridge, Massachusetts 02138, USA. 
+smani@mdanderson.org	Sendurai A Mani	Department of Molecular Pathology, The Center for Stem Cell and Developmental Biology, University of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA. 
+gbarber@med.miami.edu	Glen N Barber	Department of Cell Biology and Sylvester Comprehensive Cancer Center, University of Miami Miller School of Medicine, Miami, FL 33136, USA. 
+bhattaa@ccf.org	Ashish Bhattacharjee	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic, and Cleveland Clinic Lerner College of Medicine of Case Western Reserve University, Cleveland, Ohio 44195, USA. 
+knabe@umich.edu	Kentaro Nabeshima	Department of Cell and Developmental Biology, University of Michigan Medical School, Ann Arbor Michigan, USA. 
+bsglick@uchicago.edu	Benjamin S Glick	Department of Molecular Genetics and Cell Biology, The University of Chicago, Chicago, Illinois 60637, USA. 
+herschko@bcm.edu	Jason I Herschkowitz	Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA. 
+gordon.weir@joslin.harvard.edu	Gordon C Weir	Section on Islet Cell Biology and Regenerative Medicine, Joslin Diabetes Center, and Department of Medicine, Harvard Medical School, Boston, Massachusetts 02215, USA. 
+rahamao@ccf.org	S Ohidar Rahaman	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA. 
+buddyx@umd.edu	Francis X Cunningham	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland 20742, USA. 
+anna.pyle@yale.edu	Anna Marie Pyle	Department of Molecular, Cellular and Developmental Biology, Yale University, Howard Hughes Medical Institute, New Haven, CT 0652, USA. 
+v-galat@northwestern.edu	Vasiliy Galat	Developmental Biology Program, iPS and Human Stem Cell Core Facility, Children's Memorial Research Center, Northwestern University, Feinberg School of Medicine, Chicago, Illinois 60614-3394, USA. 
+sueki@ms.cc.sunysb.edu	Shoko Ueki	Department of Biochemistry and Cell Biology, State University of New York, USA. 
+jheuser@wustl.edu	John E Heuser	Department of Cell Biology, Washington University School of Medicine, St. Louis, MO, USA. 
+chuanhai@hku.hk	Chuanhai Fu	Cell &amp; Developmental Biology, University of Pennsylvania, Philadelphia, PA 19104, USA. 
+Jeffrey.Gimble@pbrc.edu	Jeffrey M Gimble	Stem Cell Biology, Louisiana State University System, Baton Rouge, LA 70808, USA. 
+weren@utmb.edu	Wenjie Ren	Department of Neuroscience &amp; Cell Biology, The University of Texas Medical Branch, Galveston, TX 77555-1069, USA. 
+foleyt2@scranton.edu	Timothy D Foley	Departments of Chemistry and Program in Biochemistry, Cell, and Molecular Biology, University of Scranton, Scranton, PA 18510, USA. 
+dobritsa@uchicago.edu	Anna A Dobritsa	Department of Molecular Genetics and Cell Biology, University of Chicago, Chicago, Illinois 60637, USA. 
+david.benson@uconn.edu	David R Benson	Department of Molecular and Cell Biology, University of Connecticut, Stors, CT, USA. 
+waheedab@mail.nih.gov	Abdul A Waheed	Virus-Cell Interaction Section, HIV Drug Resistance Program, National Cancer Institute, Frederick, Maryland 21702-1201, USA. 
+joerg.graf@uconn.edu	Joerg Graf	Department of Molecular and Cell Biology, University of Connecticut, Storrs, Connecticut, USA. 
+eprossnitz@salud.unm.edu	Eric R Prossnitz	Department of Cell Biology and Physiology, University of New Mexico Health Sciences Center, Albuquerque, NM 87131, USA. 
+Rytis.Prekeris@ucdenver.edu	Rytis Prekeris	Department of Cell and Developmental Biology, School of Medicine, University of Colorado, 12801 E. 17th Avenue, Aurora, CO 80045, USA. 
+sebondos@tamhsc.edu	Ying Liu	Department of Biochemistry and Cell Biology, Rice University, Houston, TX 77005 USA. 
+Rohit.Kulkarni@joslin.harvard.edu	D Kawamori	Section of Islet Cell Biology and Regenerative Medicine, Joslin Diabetes Center and Harvard Medical School, Boston, MA 02215, USA. 
+ild@berkeley.edu	Ivan Dzhagalov	LSA, Room 479, Department of Molecular and Cell Biology, Division of Immunology and Pathogenesis, University of California Berkeley, Berkeley, CA 94720-3200, USA. 
+rsseel01@louisville.edu	Ratnam S Seelan	Molecular, Cellular &amp; Craniofacial Biology, Birth Defects Center, University of Louisville, 501 S. Preston St, KY 40292, USA. 
+RamirezDC@cshs.org	Roger Klein Moreira	Department of Pathology and Cell Biology, Columbia University Medical Center, New York Presbyterian Hospital, USA. 
+sblack@jhmi.edu	Seth Blackshaw	Departments of Neuroscience, Neurology, and Ophthalmology, Institute for Cell Engineering and Center for High-Throughput Biology, Johns Hopkins University School of Medicine, Baltimore, MD, USA. 
+arasha@stanford.edu	Ash A Alizadeh	Institute for Stem Cell Biology and Regenerative Medicine, Cancer Institute, and Division of Hematology, Department of Internal Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+mwiranow@health.usf.edu	Marzenna Wiranowska	Department Pathology &amp; Cell Biology, College of Medicine, University of South Florida, Tampa FL, USA. 
+francisco.j.alvarez@emory.edu	Francisco J Alvarez	Department of Neuroscience, Cell Biology, and Physiology, Boonshoft School of Medicine, Wright State University, Dayton, Ohio, USA. 
+poole@lifesci.ucsb.edu	Stephen J Poole	Department of Molecular, Cellular, and Developmental Biology, University of California Santa Barbara, Santa Barbara, California, USA. 
+ebthorp@northwestern.edu	Edward Thorp	Departments of Medicine, Pathology and Cell Biology, and Physiology, and Cellular Biophysics, Columbia University, New York, New York 10032, USA. 
+krajaram@post.harvard.edu	Kaveri Rajaraman	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. 
+parky3@mail.nih.gov	Yang-Nim Park	Laboratory of Cell Biology, NHLBI, NIH, Bethesda, MD 20892, USA. 
+pjkeely@wisc.edu	Patricia J Keely	Department of Cell and Regenerative Biology, Laboratory for Cellular and Molecular Biology, &amp; Laboratory for Optical and Computational Instrumentation, University of Wisconsin, 227D Bock Laboratories, 1525 Linden Drive, Madison, WI 53706, USA. 
+bier@ucsd.edu	Ethan Bier	Section of Cell and Developmental Biology, University of California, San Diego, La Jolla, CA 92093-0349, USA. 
+Adam.Toll1@gmail.com	Adam D Toll	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University Hospital, Philadelphia, PA 19107, USA. 
+ralvania@cell.com	Rebecca Alvania	Trends in Cell Biology, Cambridge, MA, USA. 
+hrubin@berkeley.edu	Harry Rubin	Department of Molecular and Cell Biology, Life Sciences Addition, University of California, Berkeley, CA 94720, USA. 
+pmoody@health.usf.edu	Patricia Moody McNab	Department of Pathology and Cell Biology, University of South Florida, Tampa, Florida, USA. 
+rjpe@cellbio.duke.edu	Robert J Perz-Edwards	Department of Cell Biology, Duke University, Durham, North Carolina, USA. 
+cwolgemuth@uchc.edu	Charles W Wolgemuth	Department of Cell Biology, University of Connecticut Health Center, Farmington, Connecticut, USA. 
+hinck@biology.ucsc.edu	Lindsay Hinck	Molecular, Cell &amp; Developmental Biology, 225 Sinsheimer Labs, Santa Cruz, CA 95064, USA. 
+mccammon@wi.mit.edu	Jasmine M McCammon	Department of Molecular and Cell Biology, Center for Integrative Genomics, University of California, Berkeley, CA, USA. 
+veeman@lifesci.ucsb.edu	Michael T Veeman	Department of Molecular, Cell and Developmental Biology, University of California Santa Barbara, Santa Barbara, CA, USA. 
+aegriep@wisc.edu	Anne E Griep	Department of Cell and Regenerative Biology, University of Wisconsin-Madison, Madison, WI, USA. 
+yhsun@uga.edu	Yuhua Sun	Department of Cellular Biology, The University of Georgia, Athens, GA, USA. 
+gammi001@umn.edu	Laura S Gammill	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN, USA. 
+okelly@viacyte.com	Olivia G Kelly	ViaCyte, Inc. (formerly Novocell, Inc.), San Diego, California, USA. 
+jsnow@salud.unm.edu	Jessica B Snow	Dept. of Cell Biology and Physiology, Univ. of New Mexico Health Sciences Center, MSC 08-4750, 1 Univ. of New Mexico, Albuquerque, NM 87131-0001, USA. 
+carmen.quatman@gmail.com	Carmen E Quatman	Departments of Physiology and Cell Biology, The Ohio State University, Columbus, Ohio, USA. 
+reneer@stanford.edu	R A Reijo Pera	Institute for Stem Cell Biology and Regenerative Medicine, Department of Obstetrics and Gynecology, Stanford University School of Medicine, Stanford, CA 94305-5463, USA. 
+qianchn@sysucc.org.cn	Chao-Nan Qian	Laboratory of Cancer and Developmental Cell Biology, Van Andel Research Institute, Grand Rapids, MI 49503, USA. 
+ckreipke@med.wayne.edu	Christian W Kreipke	Department of Anatomy and Cell Biology, School of Medicine, Wayne State University, Detroit, MI 48201, USA. 
+lb684@columbia.edu	Leal C Herlitz	Department of Pathology and Cell Biology, Columbia University Medical Center and the New York Presbyterian Hospital, New York, New York 10032, USA. 
+tim.hewett@osumc.edu	Timothy E Hewett	Departments of Physiology and Cell Biology, Orthopaedic Surgery, Family Medicine, and Biomedical Engineering, OSU Sports Health and Performance Institute, The Ohio State University, 2050 Kenny Road, Columbus, OH 43210, USA. 
+hvaldivia@wisc.edu	E Michelle Capes	Department of Cellular and Regenerative Biology, University of Wisconsin Medical School, Madison, WI 53711, USA. 
+brad.aaron.friedman@gmail.com	Brad A Friedman	Department of Molecular and Cell Biology, Harvard University, 7 Divinity Ave, Cambridge, MA 02138, USA. 
+hartig@bcm.edu	Sean M Hartig	Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA. 
+chenguang.wang@jefferson.edu	Chenguang Wang	Department of Stem Cell Biology and Regenerative Medicine, Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+hilde.debruyn@med.kuleuven.be	Reinhilde De Bruyn	Department of Molecular Cell Biology and Therapeutics, St. Jude Children's Research Hospital, Memphis, TN, USA. 
+margarita.curras@ucr.edu	Margarita C Currás-Collazo	Department of Cell Biology and Neuroscience, University of California, Riverside, Riverside, California 92521, USA. 
+beiselcl@mail.nih.gov	Chase L Beisel	Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, Bethesda, MD, USA. 
+Margaret.suhanovsky@uconn.edu	Margaret M Suhanovsky	Dept. of Molecular and Cell Biology, U-125, University of Connecticut, 91 N. Eagleville Rd., Storrs, CT 06269-3125, USA. 
+amichelot@berkeley.edu	Alphée Michelot	Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720-3202, USA. 
+sirotkiv@upstate.edu	Vladimir Sirotkin	Department of Cell and Developmental Biology, State University of New York (SUNY) Upstate Medical University, 750 East Adams Street, Syracuse, NY 13210, USA. 
+rafaelgm@med.unc.edu	Rafael Garcia-Mata	Department of Cell and Developmental Biology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599 USA. 
+hartzog@biology.ucsc.edu	Grant A Hartzog	Department of Molecular, Cell and Developmental Biology, University of California, Santa Cruz, CA 95064, USA. 
+oxana.beskrovnaya@genzyme.com	Oxana Ibraghimov-Beskrovnaya	Cell Biology, Genzyme Corporation, 49 New York Avenue, Framingham, MA, USA. 
+jtriordan@usf.edu	James T Riordan	Department of Cell Biology, Microbiology and Molecular Biology, University of South Florida, Tampa, FL 33620, USA. 
+xiaodong.zhu@vanderbilt.edu	Xiaodong Zhu	Department of Cell and Developmental Biology, Vanderbilt University Medical Center, Nashville, TN, USA. 
+smhill@tulane.edu	Steven M Hill	Department of Structural and Cellular Biology, Tulane University School of Medicine, 1430 Tulane Avenue, SL-49, New Orleans, LA 70112, USA. 
+silvia.cappello@helmholtz-muenchen.de	Silvia Cappello	Department of Pathology and Cell Biology, College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA. 
+evoronina@jhmi.edu	Ekaterina Voronina	Department of Molecular Biology and Genetics and Howard Hughes Medical Institute, Center for Cell Dynamics, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. 
+anireddy.reddy@colostate.edu	Anireddy S N Reddy	Department of Biology, Program in Molecular Plant Biology, Program in Cell and Molecular Biology, Colorado State University, Fort Collins, CO, USA. 
+Gail.Cornwall@ttuhsc.edu	Gail A Cornwall	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, 3601 4th Street, Lubbock, TX 79430, USA. 
+shorne@uchicago.edu	Sally Horne-Badovinac	Department of Molecular Genetics and Cell Biology, University of Chicago, Chicago, IL 60637, USA. 
+spangas@bcm.edu	Stephanie A Pangas	Department of Pathology and Immunology, Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX 77030, USA. 
+pmueller@fas.harvard.edu	Patrick Müller	Department of Molecular and Cellular Biology, Harvard Stem Cell Institute, Broad Institute, Center for Brain Science, FAS Center for Systems Biology, Harvard University, 16 Divinity Avenue, Cambridge, MA 02138, USA. 
+mwillardsen@mcw.edu	Minde I Willardsen	Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, Wisconsin 53226, USA. 
+arothman.uri@gmail.com	Alan L Rothman	Institute for Immunology and Informatics and Department of Cell and Molecular Biology, University of Rhode Island, Providence, Rhode Island 02903, USA. 
+cenorton@salud.unm.edu	Charles E Norton	Vascular Physiology Group, Department of Cell Biology and Physiology, University of New Mexico Health Sciences Center, Albuquerque, New Mexico 87131-0001, USA. 
+am9ar@virginia.edu	Arkadi Manukyan	Department of Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. 
+DrMarv@Prodigy.net	Marvin Rubenstein	Chairman, Division of Cellular Biology, Hektoen Institute for Medical Research, 2240 West Ogden Avenue, Chicago, IL 60612, USA. 
+angie.cheng@lifetech.com	Angie Cheng	Molecular and Cell Biology Division, Life Technologies, Austin, TX 78744-1832, USA. 
+obricaud@hei.org	Olivier Bricaud	Leslie and Susan Gonda Cell Biology and Genetics Division, House Research Institute, Los Angeles, CA 90057, USA. 
+gemarti@helix.nih.gov	Gerald E Marti	Laboratory of Stem Cell Biology, Cellular and Tissue Therapy Branch, Division of Cell and Gene Therapies,Office of Cellular, Tissues and Gene Therapies, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA. 
+keith.sutton@umassmed.edu	Keith A Sutton	Department of Cell Biology, University of Massachusetts Medical School, Worcester, MA, USA. 
+franco@scripps.edu	Santos J Franco	Department of Cell Biology, Dorris Neuroscience Center, The Scripps Research Institute, La Jolla, California 92037, USA. 
+gulab-zode@uiowa.edu	Gulab S Zode	Department of Cell Biology and Genetics, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX 76107, USA. 
+michael.lisanti@kimmelcancercenter.org	Michael P Lisanti	The Jefferson Stem Cell Biology and Regenerative Medicine Center, Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, USA. 
+alysakow@uic.edu	Anna Lysakowski	Department of Anatomy and Cell Biology, University of Illinois at Chicago, Chicago, Illinois 60612, USA. 
+BKramer1@its.jnj.com	Brian C Kramer	Department of Cell and Molecular Biology, Advanced Technologies and Regenerative Medicine, LLC an affiliate of Johnson &amp; Johnson, CMB, US Route 22 West, Somerville, NJ 08876, USA. 
+hutcheso@umd.edu;	Steven W Hutcheson	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA. 
+pasolla@rockefeller.edu	Hilda Amalia Pasolli	Howard Hughes Medical Institute, Laboratory of Mammalian Cell Biology and Development, The Rockefeller University, 1230 York Avenue, New York, NY 10065, USA. 
+dmelton@harvard.edu	D A Melton	Department of Stem Cell and Regenerative Biology, Harvard Stem Cell Institute, Howard Hughes Medical Institute, Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA. 
+yumie@yuhs.ac	Yumie Rhee	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Indianapolis, IN 46022, USA. 
+edita.aksamitiene@jefferson.edu	Edita Aksamitiene	Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson University, 1020 Locust St., Philadelphia, Pennsylvania 19107, USA. 
+cvonbartheld@medicine.nevada.edu	Christopher S von Bartheld	Department of Physiology and Cell Biology, University of Nevada School of Medicine, Reno, Nevada 89557, USA. 
+lingzhu@mail.utexas.edu	Ling Zhu	Section of Molecular Cell and Developmental Biology, Institute for Cellular and Molecular Biology, The University of Texas, Austin, TX, USA. 
+Blagosklonny@oncotarget.com	Mikhail V Blagosklonny	Department of Cell Stress Biology, Roswell Park Cancer Institute, Buffalo, NY, USA. 
+funabih@rockefeller.edu	Hironori Funabiki	Laboratory of Chromosome and Cell Biology, The Rockefeller University, 1230 York Avenue, New York, New York 10065, USA. 
+jyu10001@gmail.com	Julia X Yu	Department of Cell Biology, Harvard Medical School, 240 Longwood Ave, Boston, MA, 02115, USA. 
+quz@upmc.edu	Zhaoxia Qu	Department of Cell Biology and Neuroscience, W, M, Keck Center for Collaborative Neuroscience, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA. 
+andrew.cornforth@hoaghospital.org	Andrew N Cornforth	Cell Biology Laboratory, Hoag Cancer Institute, Newport Beach, California 92663, USA. 
+eric_morrow@brown.edu	Helen M Johnson	Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI 02912, USA. 
+kurt.musselmann@gmail.com	K Musselmann	Cell Biology Section, Laboratory of Cell and Developmental Biology, Division of Intramural Research, National Institute of Dental and Craniofacial Research, 30 Convent Drive, MSC 4370, Bethesda, MD 20892, USA. 
+md2853@columbia.edu	Mariàngels de Planell-Saguer	Center for Motor Neuron Biology and Disease, Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA. 
+vschopra@berkeley.edu	Vivek S Chopra	Department of Molecular and Cell Biology, Division of Genetics, Genomics, and Development, University of California, Berkeley, Berkeley, CA 94720, USA. 
+thomas.lentz@yale.edu	Thomas L Lentz	Department of Cell Biology, Yale School of Medicine, 333 Cedar Street, New Haven, CT 06520-8002, USA. 
+jennifer.stratford@ucdenver.edu	Jennifer M Stratford	Rocky Mountain Taste and Smell Center, Department of Cell and Developmental Biology, University of Colorado, Anschutz Medical Campus, Aurora, Colorado 80045, USA. 
+decuevas@jhmi.edu	Margaret de Cuevas	Department of Cell Biology, Johns Hopkins School of Medicine, 725 N. Wolfe Street, Baltimore, MD 21205, USA. 
+akrichevsky@notes.cc.sunysb.edu	Alexander Krichevsky	Department of Biochemistry and Cell Biology, State University of New York, Stony Brook, NY 11794-5215, USA. 
+yzwang@umich.edu	Yanzhuang Wang	Department of Molecular, Cellular and Developmental Biology, University of Michigan, Ann Arbor, Michigan 48109, USA. 
+peter.atkinson@ucr.edu	Amandeep S Kahlon	Interdepartmental Graduate Program in Cell, Molecular and Developmental Biology, University of California, Riverside, CA, USA. 
+wlin@usouthal.edu	Wensheng Lin	Department of Cell Biology and Neuroscience, University of South Alabama College of Medicine, Mobile, Alabama, USA. 
+youngyoon97@gmail.com	Young Geol Yoon	Mitochondria Hub Regulation Center and Department of Anatomy and Cell Biology, Dong-A University College of Medicine, Busan 602-714, Republic of Korea. 
+Lmcginnis2@kumc.edu	Lynda K McGinnis	Department of Anatomy and Cell Biology, University of Kansas Medical Center, Kansas City, Kansas 66160, USA. 
+dliao@ufl.edu	Qiang Li	Department of Anatomy and Cell Biology, University of Florida College of Medicine, Gainesville, FL 32610-0235, USA. 
+lknodler@niaid.nih.gov	Leigh A Knodler	Laboratory of Intracellular Parasites, Rocky Mountain Laboratories, NIAID, NIH, Hamilton, Montana, USA. 
+mwm84@uw.edu	Mark W Majesky	Seattle Children’s Research Institute, Departments of Pediatric, Center for Cardiovascular Biology, and the Institute of Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA 98101, USA. 
+maria.smetanina@gmail.com	Mariya A Smetanina	Department of Molecular and Cellular Biology, Baylor College of Medicine, 1 Baylor Plaza, Houston, TX 77030, USA. 
+remedios.castello@jefferson.edu	Remedios Castello-Cros	The Jefferson Stem Cell Biology and Regenerative Medicine Center, Thomas Jefferson University, Philadelphia, PA, USA. 
+fwerblin@gmail.com	Frank S Werblin	Division of Neurobiology, Department of Molecular and Cell Biology, UC Berkeley, Berkeley, CA 94720, USA. 
+Scott.Supowit@uscmed.sc.edu	Scott C Supowit	Department of Cell Biology and Anatomy, University of South Carolina School of Medicine, Columbia, South Carolina, USA. 
+delorems@umdnj.edu	Mariana S De Lorenzo	Department of Cell Biology &amp; Molecular Medicine and the Cardiovascular Research Institute, New Jersey Medical School, University of Medicine &amp; Dentistry of New Jersey, Newark, NJ 07103, USA. 
+igschauer@mdanderson.org	Isaiah G Schauer	Department of Molecular and Cellular Biology, One Baylor Plaza, Jewish Research Institute, Baylor College of Medicine, 325D, mailstop BCM130, Houston, TX 77030, USA. 
+benallen@umich.edu	Benjamin L Allen	Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, 48109, USA. 
+chad.pearson@ucdenver.edu	Chad G Pearson	Department of Cell and Developmental Biology, University of Colorado at Denver, Aurora, CO 80045, USA. 
+anthea0721@gmail.com	Hsiao-Chi Lo	Department of Biochemistry and Cell Biology, Stony Brook University, New York, NY 11794-5215, USA. 
+youngil.lee@mail.utexas.edu	Young Il Lee	Section of Molecular Cell and Developmental Biology, The University of Texas, Austin, TX 78712, USA. 
+bs2277@columbia.edu	Brie Stotler	Department of Pathology &amp; Cell Biology and Obstetrics &amp; Gynecology, Columbia University Medical Center and the New York-Presbyterian Hospital, New York, New York 10032, USA. 
+christopher.lemmon@duke.edu	Christopher A Lemmon	Department of Cell Biology, Duke University Medical Center, Durham, North Carolina 27710, USA. 
+lee_rubin@harvard.edu	Lee L Rubin	Dept of Stem Cell and Regenerative Biology and Harvard Stem Cell Institute, Harvard University, Cambridge, MA 02138, USA. 
+rakayed@utmb.edu	Cristian A Lasagna-Reeves	George P, and Cynthia Woods Mitchell Center for Neurodegenerative Diseases, Departments of Neurology, and Neuroscience and Cell Biology, The University of Texas Medical Branch, Galveston, TX 77555-1045, USA. 
+lechler@cellbio.duke.edu	Samriddha Ray	Department of Cell Biology, Duke University Medical Center, Durham, USA. 
+Ray_Caldwell@med.unc.edu	Ray A Caldwell	Dept. of Cell and Developmental Biology, Univ. of North Carolina, Chapel Hill, NC 27599, USA. 
+skmiyasa@hawaii.edu	Shelley K Miyasato	Dept. of Cell and Molecular Biology, University of Hawaii, John A. Burns School of Medicine, Honolulu, HI, USA. 
+delwiche@umd.edu	Charles F Delwiche	University of Maryland - College Park, Department of Cell Biology, College Park, MD 20742, USA. 
+PostowL@rockfeller.edu	Lisa Postow	Laboratory of Chromosome and Cell Biology, Rockefeller University, 1230 York Avenue, New York, NY 10065, USA. 
+nhiroshi@berkeley.edu	Hiroshi Nikaido	Department of Molecular and Cell Biology, University of California, Berkeley, California 94720, USA. 
+m.osawa@cellbio.duke.edu	Masaki Osawa	Department of Cell Biology, 3079, Duke University Medical Center, Durham, NC 27710-3709, USA. 
+imce100@iupui.edu	Feng C Zhou	Department of Anatomy &amp; Cell Biology, Stark Neuroscience Research Institute, Indiana University School of Medicine, Indianapolis, IN 46202, USA. 
+kalab@mail.nih.gov	Petr Kaláb	Laboratory of Cellular and Molecular Biology, National Cancer Institute, NIH, Bethesda, MD 20892-4256, USA. 
+Eduardo.Orias@lifesci.ucsb.edu	Eduardo Orias	Department of Molecular, Cellular and Developmental Biology, University of California at Santa Barbara, Santa Barbara, CA 93106, USA. 
+medae@emory.edu	Arthur W English	Department of Cell Biology, Emory University School of Medicine, 615 Michael Street, Atlanta, GA 30322, USA. 
+mullins@mail.med.upenn.edu	Mary C Mullins	University of Pennsylvania School of Medicine, Department of Cell and Developmental Biology, Philadelphia, Pennsylvania, USA. 
+gorskij@umkc.edu	Jeffrey Paul Gorski	Center of Excellence in the Study of Musculoskeletal and Dental Tissues and Dept. of Oral Biology, Sch. Of Dentistry, Univ. of Missouri-Kansas City, Kansas City, MO 64108, USA. 
+johannes.everse@ttuhsc.edu	Johannes Everse	Cell Biology and Biochemistry, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. 
+gerald.schwarting@umassmed.edu	Gerald A Schwarting	Department of Cell Biology, University of Massachusetts Medical School, Worcester, Massachusetts 01655, USA. 
+shima023@umn.edu	Tsuyoshi Kawabata	Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN 55455, USA. 
+gming1@jhmi.edu	Guo-Li Ming	Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. 
+athena.andreadis@umassmed.edu	Athena Andreadis	Department of Cell Biology, University of Massachusetts Medical School, Worcester, Massachusetts 01655, USA. 
+tsuge@scl.kyoto-u.ac.jp	Tomohiko Tsuge	Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, CT, 06520, USA. 
+steven.vigna@duke.edu	Steven R Vigna	Department of Cell Biology &amp; Medicine, Duke University Medical Center, Durham, NC 27710, USA. 
+hsil@ccf.org	Linda C Hsi	Department of Cell Biology, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio 44195, USA. 
+copenhav@ohsu.edu	Philip F Copenhaver	Department of Cell and Developmental Biology, Oregon Health andScience University, 3181 SW Sam Jackson Park Road, Portland, OR 97239, USA. 
+lbai01@rockefeller.edu	Lu Bai	Laboratory of Cell Cycle Genetics, The Rockefeller University, New York, NY, 10065, USA. 
+sdecker@health.usf.edu	Summer J Decker	Center for Human Morpho-Informatics Research, Department of Pathology and Cell Biology, University of South Florida College of Medicine, 12901 Bruce B. Downs Blvd, MDC 11, Tampa, FL 33612, USA. 
+dgrove@med.unc.edu	Diane E Grove	Department of Cell and Developmental Biology, School of Medicine, The UNC-Cystic Fibrosis Center, University of North Carolina, Chapel Hill, NC 27599, USA. 
+diana.bigelow@pnl.gov	Diana J Bigelow	Cell Biology &amp; Biochemistry Group, Biology Division, Fundamental and Computational Sciences Directorate, Pacific Northwest National Laboratory, P.O. Box 999, MS P7-56, Richland, WA 99352, USA. 
+Jli@dls.rutgers.edu	Jiali Li	Department of Cell Biology and Neuroscience, Nelson Biological Laboratories, Rutgers University, Piscataway, New Jersey 08854, USA. 
+jdonalds@helix.nih.gov	Julie G Donaldson	Laboratory of Cell Biology, National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, Maryland 20892, USA. 
+01chao@gmail.com	C Li	Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX, USA. 
+yir@colorado.edu	Rui Yi	Department of Molecular, Cellular and Developmental Biology, University of Colorado at Boulder, Boulder, CO 80309, USA. 
+bartolom@mail.med.upenn.edu	Marisa S Bartolomei	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19063, USA. 
+hoenerhm@niehs.nih.gov	Mark J Hoenerhoff	Cellular and Molecular Pathology Branch, National Institute of Environmental Health Science, National Institutes of Health, Research Triangle Park, North Carolina 27709, USA. 
+mgilbert@cellbio.emory.edu	M Melissa Gilbert	Department of Cell Biology, Emory University School of Medicine, Atlanta, GA 30322, USA. 
+stbrady@uic.edu	Scott Brady	Department of Anatomy and Cell Biology, 808 South Wood Street, University of Illinois at Chicago, IL 60612, USA. 
+j-henry4@uiuc.edu	Jonathan Q Henry	Department of Cell and Developmental Biology, University of Illinois, 601 S. Goodwin Ave., Urbana, IL 61801, USA. 
+ljstubbs@illinois.edu	Lisa Stubbs	Department of Cell and Developmental Biology, Institute for Genomic Biology, University of Illinois, Urbana, IL, 61801, USA, 
+argravek@musc.edu	Kelley M Argraves	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC 29425, USA. 
+Glenn.stanley@ucr.edu	B G Stanley	Department of Cell Biology and Neuroscience, University of California, Riverside, Riverside, CA 92521, USA. 
+Kathryn.Moore@nyumc.org	Kathryn J Moore	Departments of Medicine and Cell Biology, Leon H. Charney Division of Cardiology and the Marc and Ruti Bell Vascular Biology and Disease Program, New York University School of Medicine, New York, NY 10016, USA. 
+venerem@ccf.org	Monica Venere	Department of Stem Cell Biology and Regenerative Medicine, Lerner Research Institute, Cleveland Clinic, Ohio, USA. 
+kathi@pitt.edu	Kathryn W Peters	Department of Cell Biology and Physiology, University of Pittsburgh, Pittsburgh, PA 15261, USA. 
+john-fisher@uiowa.edu	John T Fisher	Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA, USA. 
+webalch@scripps.edu	William E Balch	Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA. 
+margaret.kielian@einstein.yu.edu	Yan Zheng	Department of Cell Biology, Albert Einstein College of Medicine, 1300 Morris Park Ave., Bronx, NY 10461, USA. 
+agallavotti@ucsd.edu	Andrea Gallavotti	Section of Cell and Developmental Biology, University of California-San Diego, La Jolla, CA 92093-0116, USA. 
+cgerin@uic.edu	Christine G Gerin	Department of Anatomy and Cell Biology, UIC, Chicago, Illinois 60612, USA. 
+pmacdonald@mail.utexas.edu	Paul M Macdonald	Section of Molecular Cell and Developmental Biology, Institute for Cellular and Molecular Biology, The University of Texas at Austin, 1 University Station A4800, Austin, TX 78712, USA. 
+jy4m@virginia.edu	Jing Yu	Department of Cell Biology, University of Virginia School of Medicine, Charlottesville, VA 22908, USA. 
+mcivo001@umn.edu	R Scott McIvor	Center for Genome Engineering, Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, Minnesota 55455, USA. 
+pnaik2@emory.edu	Pradeep K Naik	Department of Cell Biology, Emory University School of Medicine, 615 Michael Street, Atlanta, GA 30322, USA. 
+guangyao@arizona.edu	Guang Yao	Department of Molecular &amp; Cellular Biology, University of Arizona, Tucson, AZ 85721, USA. 
+mamiko_yajima@brown.edu	Mamiko Yajima	Department of Molecular Biology, Cellular Biology and Biochemistry, Brown University, 185 Meeting Street, BOX-GL173, Providence, RI 02912, USA. 
+ubaldo.martinez@gmail.com	Ubaldo E Martinez-Outschoorn	Jefferson Stem Cell Biology and Regenerative Medicine Center, Philadelphia, Pennsylvania, USA. 
+mwirschell@gmail.com	Maureen Wirschell	Emory University School of Medicine, Department of Cell Biology, Atlanta, GA 30322, USA. 
+novak@uchc.edu	Igor L Novak	Richard D. Berlin Center for Cell Analysis and Modeling, Department of Cell Biology, University of Connecticut Health Center, Farmington, Connecticut 06030, USA. 
+harrisot@etsu.edu	Theresa A Harrison	Department of Anatomy and Cell Biology, Quillen College of Medicine, East Tennessee State University, Johnson City, TN, USA. 
+dhess@mcg.edu	D C Hess	Department of Neurology and Cell Biology and Anatomy, Medical College of Georgia, Augusta, 30912, USA. 
+safinya@mrl.ucsb.edu	Cyrus R Safinya	Materials, Physics, and Molecular, Cellular, and Developmental Biology Departments, University of California-Santa Barbara, CA 93106, USA. 
+charles.wenner@roswellpark.org	Charles E Wenner	Department of Molecular and Cellular Biology, Roswell Park Cancer Institute, Buffalo, New York 14263, USA. 
+pd2193@columbia.edu	P Ducy	Department of Pathology and Cell Biology, Columbia University Medical Center, New York, NY 10032, USA. 
+eloa@stanford.edu	Eloa S Adams	Center for Excellence in Pulmonary Biology, Stanford University School of Medicine, 770 Welch Rd, Suite 350, Stanford, CA 94304, USA. 
+wesselo@ccf.org	Oliver Wessely	Department of Cell Biology &amp; Anatomy, LSU Health Sciences Center, New Orleans, LA, USA. 
+arispe@mcdb.ucla.edu	M Luisa Iruela-Arispe	Department of Molecular, Cell, and Developmental Biology, UCLA, Los Angeles, CA 90095, USA. 
+hannibl@ccf.org	Luciana Hannibal	Department of Cell Biology, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA. 
+daniel_hesselson@hotmail.com	Daniel Hesselson	Department of Biochemistry and Biophysics, Programs in Developmental and Stem Cell Biology, Genetics, and Human Genetics, Institute for Regeneration Medicine, Liver Center, and Diabetes Center, University of California, San Francisco, 1550 Fourth Street, San Francisco, CA 94158, USA. 
+oleg_alekseev@med.unc.edu	Oleg M Alekseev	Department of Cell and Developmental Biology, University of North Carolina, Chapel Hill, NC 27599, USA. 
+swolniak@umd.edu	Stephen M Wolniak	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA. 
+sdinardo@zimbra.upenn.edu	Stephen Dinardo	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine and the Penn Institute for Regenerative Medicine, Philadelphia, PA 19104-6048, USA. 
+miguel.vicente@uam.es	Miguel Vicente-Manzanares	Department of Cell Biology, University of Virginia School of Medicine, Charlottesville, VA 22908, USA. 
+manu.lopus@lifesci.ucsb.edu	Manu Lopus	Department of Molecular, Cellular, and Developmental Biology, and the Neuroscience Research Institute, University of California, Santa Barbara, CA 93106, USA. 
+cztang@stanford.edu	Chad Tang	Institute of Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+ssayner@usouthal.edu	Sarah L Sayner	Department of Cell Biology and Neuroscience, University of South Alabama, Mobile, Alabama 36688, USA. 
+mai.luong@umassmed.edu	Mai X Luong	International Stem Cell Registry, Department of Cell Biology, University of Massachusetts Medical School, Shrewsbury, MA 01545, USA. 
+asbel@illinois.edu	A S Belmont	Department of Cell and Developmental Biology and Center for Biophysics and Computational Biology, University of Illinois, Urbana, Illinois 61801, USA. 
+bergers@upenn.edu	S L Berger	Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. 
+lkirby@temple.edu	L G Kirby	Department of Anatomy and Cell Biology and Center for Substance Abuse Research, Temple University School of Medicine, 3400 N. Broad St., Philadelphia, PA 19140 USA. 
+gene.gulati@jefferson.edu	Gene Gulati	Department of Pathology, Anatomy, and Cell Biology, Jefferson Medical College and Thomas Jefferson University Hospital, Philadelphia, Pennsylvania 19107, USA. 
+Adam.Toll@JeffersonHospital.org	Adam D Toll	Department of Pathology, Anatomy, and Cell Biology, Thomas Jefferson University Hospital, Philadelphia,Pennsylvania 19107, USA. 
+pideng@iupui.edu	Ping Deng	Department of Anatomy and Cell Biology, Indiana University School of Medicine, 635 Barnhill Drive, Indianapolis, IN 46202, USA. 
+danl@bcm.edu	Dan Liu	Department of Biochemistry and Molecular Biology, Cell-based Assay Screening Service Core, Baylor College of Medicine, Houston, TX, USA. 
+hnajafi-shoushtari@partners.org	S Hani Najafi-Shoushtari	Department of Cell Biology, Harvard Medical School &amp; Massachusetts General Hospital Cancer Center, Charlestown, MA 02129, USA. 
+arono001@umn.edu	Elena L Aronovich	Department of Genetics, Cell Biology and Development, The Center for Genome Engineering, Institute of Human Genetics, University of Minnesota, 6-160 Jackson Hall, 321 Church St. SE, Minneapolis, MN 55455, USA. 
+yulia.shamis@tufts.edu	Yulia Shamis	The Hebrew University of Jerusalem, Department of Cellular and Developmental Biology, Jerusalem, Israel; 
+Emily.Crawford@ucsf.edu	Emily D Crawford	Department of Pharmaceutical Chemistry and Department of Cellular and Molecular Pharmacology, University of California, San Francisco, CA 94158-2330, USA. 
+jbruses@kumc.edu	Juan L Brusés	Department of Anatomy and Cell Biology, University of Kansas School of Medicine, Kansas City, Kansas 661610, USA. 
+gil.dipaolo@columbia.edu	Gilbert Di Paolo	Department of Pathology and Cell Biology, Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Columbia University Medical Center, 630 West 168th Street, New York, New York 10032, USA. 
+richard.chahwan@einstein.yu.edu	Richard Chahwan	Department of Cell Biology, Albert Einstein College of Medicine, 1300 Morris Park Ave., Bronx, New York 10461, USA. 
+talbot@ucr.edu	Prue Talbot	Department of Cell Biology and Neuroscience, University of California, Riverside, CA 92521, USA. 
+Kailash.chadha@roswellpark.org	Kailash C Chadha	Department of Molecular &amp; Cellular Biology, Roswell Park Cancer Institute, Buffalo, New York 14263, USA. 
+bperrino@medicine.nevada.edu	Brian A Perrino	Department of Physiology and Cell Biology, Center of Biomedical Research Excellence, University of Nevada School of Medicine, Reno, 89557, USA. 
+a-ferreira@northwestern.edu	Adriana Ferreira	Department of Cell and Molecular Biology, Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA. 
+dl5@rice.edu ; Tel.: +1-713-348-3708	Dmitri Lapotko	Department of Physics &amp; Astronomy, Department of Biochemistry and Cell Biology, Rice University, Houston, TX 77005, USA; 
+pamela.stanley@einstein.yu.edu	Pamela Stanley	Department of Cell Biology, Albert Einstein College of Medicine, New York, New York 10461, USA. 
+pfidel@lsuhsc.edu	P L Fidel	Department of Oral and Craniofacial Biology, Center of Excellence in Oral and Craniofacial Biology, Louisiana State University Health Sciences Center School of Dentistry, New Orleans, Louisiana, USA. 
+bth7c@virginia.edu	Barry T Hinton	Department of Cell Biology, University of Virginia Health System, Charlottesville, VA 22908, USA. 
+noah_dephoure@hms.harvard.edu	Noah Dephoure	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+volkerh@mcdb.ucla.edu	Volker Hartenstein	Department of Molecular Cell and Developmental Biology, University of California Los Angeles, Los Angeles, California 90095, USA. 
+star0044@umn.edu	Timothy K Starr	Department of Genetics, Cell Biology and Development, Center for Genome Engineering, Masonic Cancer Center, University of Minnesota, Minneapolis, MN 55455, USA. 
+fumagas@ucmail.uc.edu	Stefano Fumagalli	Department of Cancer and Cell Biology, Metabolic Diseases Institute, University of Cincinnati, Cincinnati, OH 45237, USA. 
+bkong@uark.edu	Byung-Whi Kong	Department of Poultry Science, and Cell and Molecular Biology Program, University of Arkansas, Fayetteville, AR, USA. 
+rene_maehr@mcb.harvard.edu	R Maehr	Department of Stem Cell and Regenerative Biology, Harvard Stem Cell Institute, Harvard University, Cambridge, Massachusetts, USA. 
+Velisek@nymc.edu	Libor Velíšek	Department of Cell Biology &amp; Anatomy, Department of Pediatrics, New York Medical College, 15 Dana Rd., Valhalla, NY, USA. Libor 
+rfkalejta@wisc.edu	Rhiannon R Penkert	Institute for Molecular Virology, McArdle Laboratory for Cancer Research, and Cell and Molecular Biology Training Program, University of Wisconsin-Madison, Madison, WI, 53706, USA. 
+swwebb@scripps.edu	Stuart W Webb	Dorris Neuroscience Center and Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 92037, USA. 
+Julian_Wong@brown.edu	Julian L Wong	Brown University, Department of Molecular Biology, Cell Biology and Biochemistry, Providence, RI 02912, USA. 
+amnon@liai.org	Amnon Altman	Division of Cell Biology, La Jolla Institute for Allergy and Immunology, La Jolla, California, USA. 
+abarnett2@siumed.edu	Aaron Barnett	Department of Medical Microbiology, Immunology and Cell Biology, Southern Illinois University School of Medicine, Springfield, IL, USA. 
+mprotas@calmail.berkeley.edu	Meredith E Protas	Department of Molecular and Cell Biology, Center of Integrative Genomics, University of California, Berkeley, CA 94720-3200, USA. 
+mironovv@musc.edu	Vladimir Mironov	Advanced Tissue Biofabrication Center, Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, 173 Ashley Avenue, Charleston, SC 29425, USA. 
+michelle_mendoza@hms.harvard.edu	Michelle C Mendoza	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+rserra@uab.edu	Rosa Serra	Department of Cell Biology, University of Alabama at Birmingham, Birmingham, AL 35294-0005, USA. 
+timothy.nelson@yale.edu	Timothy Nelson	Department of Molecular, Cellular and Developmental Biology, Yale University, PO Box 208104, New Haven, CT 06520-8104, USA. 
+kobilka@stanford.edu	Brian K Kobilka	Department of Molecular and Cellular Physiology, Stanford University, Stanford, CA 94306, USA. 
+adlander@uci.edu	Arthur D Lander	Department of Developmental and Cell Biology, Center for Complex Biological Systems, University of California, Irvine, Irvine, CA 92697-2300, USA. 
+ManningSabatier@clayton.edu	Manning J Sabatier	Department of Cell Biology, Emory University School of Medicine, Atlanta, GA, USA. 
+oishee.chakrabarti@saha.ac.in	Oishee Chakrabarti	Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892, USA. 
+sean.cutler@ucr.edu	Sean R Cutler	Center for Plant Cell Biology, Department of Botany and Plant Sciences, University of California Riverside, Riverside, CA 92507, USA. 
+dboutz@mail.utexas.edu	Daniel R Boutz	Center for Systems and Synthetic Biology, Institute for Cellular and Molecular Biology, University of Texas, Austin, Texas 78712, USA. 
+Anuja.Ghorpade@unthsc.edu	Anuja Ghorpade	Department of Cell Biology and Anatomy, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107, USA. 
+BorgT@musc.edu	Thomas K Borg	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC 29425, USA. 
+zhangyin@mail.nih.gov	Ying E Zhang	Laboratory of Cellular and Molecular Biology, Center for Cancer Research, National Cancer Institute, Bethesda, MD 20892, USA. 
+Nicolas.toni@unil.ch	Nicolas Toni	Department of Cell Biology and Morphology, Faculty of Biology and Medicine, University of Lausanne, 9, rue du Bugnon, 1005 Lausanne, Switzerland. 
+fritzlaylin@gmail.com	Lillian K Fritz-Laylin	Department of Cellular and Molecular Pharmacology, UCSF Medical School, San Francisco, CA 94107, USA. 
+weisel@mail.med.upenn.edu	J W Weisel	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, PA 19104-6058, USA. 
+lgsmith@ucsd.edu	Carolyn G Rasmussen	Section of Cell and Developmental Biology, University of California, San Diego, La Jolla, California 92093, USA. 
+kunyoos@stanford.edu	Kunyoo Shin	Department of Developmental Biology, Institute for Stem Cell Biology and Regenerative Medicine, Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford, California 94305, USA. 
+danlclar@iupui.edu	Daniel L Clark	Department of Anatomy and Cell Biology, Indiana University School of Medicine, 635 Barnhill Drive, MS 510, Indianapolis, IN 46202, USA. 
+cduan@umich.edu	Shuang Jiao	Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan 48109, USA. 
+jil2012@med.cornell.edu	Jia Li	Department of Cell and Developmental Biology, Weill Medical College of Cornell University, New York, New York, USA. 
+melina.grigorian@gmail.com	Melina Grigorian	Department of Molecular Cell and Developmental Biology, University of California Los Angeles, Los Angeles, CA 90095, USA. 
+cburd@mail.med.upenn.edu	Christopher G Burd	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, Philadelphia, PA 19104-6058, USA. 
+jaime.rivera@umassmed.edu	Jaime A Rivera-Pérez	Department of Cell Biology, University of Massachusetts Medical School, Worcester, Massachusetts 01655, USA. 
+etroemel@ucsd.edu	Emily R Troemel	Section of Cell and Developmental Biology, University of California San Diego, La Jolla, California, USA. 
+Peluso@nso2.uchc.edu	John J Peluso	Department of Cell Biology, University of CT Health Center, Farmington, CT 06030, USA. 
+jennifer-streeter@uiowa.edu	Jennifer Streeter	Department of Anatomy and Cell Biology, University of Iowa Carver College of Medicine, Iowa City, Iowa, USA. 
+carol-haaksma@ouhsc.edu	Carol J Haaksma	Department of Cell Biology, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA. 
+mmonje@stanford.edu	Michelle Monje	Department of Neurology, and Institute for Stem Cell Biology and Regenerative Medicine, Stanford University Medical Center, Stanford, CA 94305, USA. 
+hsieburg@sanfordburnham.org	Hans B Sieburg	Stem Cells and Regenerative Biology Program, Sanford-Burnham Medical Research Institute, La Jolla, CA 92037, USA. 
+bingye@umich.edu	Bing Ye	Life Sciences Institute and Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, Michigan 48109, USA. 
+cristina.malagelada@ub.edu	Cristina Malagelada	Department of Pathology and Cell Biology, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA. 
+wzhang13@uh.edu	Zhang Weihua	Center for Nuclear Receptors and Cell Signaling, Department of Biology and Biochemistry, College of Natural Science and Mathematics, University of Houston, Houston, Texas, USA. 
+iat1@columbia.edu	Ira Tabas	Department of Medicine, Anatomy &amp; Cell Biology, Columbia University, New York, NY 10032, USA. 
+jolson@hsc.wvu.edu	Joan C Olson	Department of Microbiology, Immunology and Cell Biology, West Virginia University, Morgantown, WV, USA. 
+misra@musc.edu	Suniti Misra	Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC 29425, USA. 
+angela.records@gmail.com	Angela R Records	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD, USA. 
+areiner@berkeley.edu	Andreas Reiner	Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720, USA. 
+robert.poyton@colorado.edu	Robert O Poyton	Department of Molecular, Cellular, and Developmental Biology, University of Colorado, Boulder, Colorado 80309, USA. 
+virojb@me.com	Viroj Boonyaratanakornkit	Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, MS-130, Houston, TX 77030, USA. 
+jody-summers@ouhsc.edu	Jody A Summers Rada	Department of Cell Biology, University of Oklahoma Health Sciences Center, 975 NE 10th Street, Room 266, Oklahoma City, OK 73104, USA. 
+titus004@umn.edu	Margaret A Titus	Department of Genetics, Cell Biology and Development at the University of Minnesota, Minneapolis, USA. 
+mwatkins@dom.wustl.edu	Marcus Watkins	Department of Internal Medicine and Cell Biology, Washington University School of Medicine, St. Louis, MO 63110, USA. 
+penney.gilbert@gmail.com	Penny M Gilbert	Baxter Laboratory in Stem Cell Biology, Department of Microbiology and Immunology, Institute for Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+kgreenb@berkeley.edu	Kenneth P Greenberg	Department of Molecular and Cell Biology, Division of Neurobiology, University of California, Berkeley, Berkeley, CA 94720-3200, USA. 
+Jonathan.Garlick@tufts.edu	Yulia Shamis	Program in Cell, Molecular and Developmental Biology, Sackler School of Graduate Biomedical Sciences, Tufts University School of Medicine, 136 Harrison Avenue, Boston, MA, 02111, USA. 
+kier@med.cuny.edu	Abraham L Kierszenbaum	Department of Cell Biology and Anatomy, The Sophie Davis School of Biomedical Education, The City University of New York, New York, New York, USA. 
+rcollery@mcw.edu	Ross F Collery	Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, Wisconsin, USA. 
+dsmith2@hsc.wvu.edu	David M Smith	Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA. 
+shand@LSU.edu	Steven C Hand	Division of Cellular, Developmental and Integrative Biology, Department of Biological, Sciences, Louisiana State University, Baton Rouge, LA 70803, USA. 
+s.dekeijzer@ncmls.ru.nl	S de Keijzer	Department of Cell Biology, Johns Hopkins University School of Medicine, Baltimore, MD 21218, USA. 
+schen@coh.org	Shiuan Chen	Division of Tumor Cell Biology, Beckman Research Institute of the City of Hope, Duarte, California, USA. 
+mitten@illinois.edu	Jay E Mittenthal	Department of Cell and Developmental Biology, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. 
+dany.gaillard@ucdenver.edu	Dany Gaillard	Department of Cell and Developmental Biology, University of Colorado Anschutz Medical Campus, Aurora, Colorado 80045, USA. 
+dfeith@psu.edu	David J Feith	Department of Cellular and Molecular Physiology, Pennsylvania State University College of Medicine, Hershey, PA, USA. 
+phornby@its.jnj.com	Pamela J Hornby	Johnson &amp; Johnson Biotechnology CoE, Cell Biology and Assay Technologies, Radnor, PA 19087, USA. 
+hambard@ccf.org	Dolores Hambardzumyan	Department of Stem Cell Biology and Regenerative Medicine, Cleveland Clinic, Ohio, USA. 
+corinne.kostic@fa2.ch	Corinne Kostic	Unit of Gene Therapy and Stem Cell Biology, Jules-Gonin Eye Hospital, University of Lausanne, Lausanne, Switzerland. 
+dastaffo@berkeley.edu	David A Stafford	Department of Molecular and Cell Biology and Center for Integrative Genomics, University of California, Berkeley, CA 94720, USA. 
+rezaa@stanford.edu	Reza Ardehali	Department of Internal Medicine, Division of Cardiovascular Medicine, Institute for Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+durganj@mskcc.org	Joanne Durgan	Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York 10065, USA. 
+snarr@musc.edu	Brian S Snarr	Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina and Ralph H Johnson VA Medical Center, Charleston, SC 29425, USA. 
+jeanfrancois.jasmin@jefferson.edu	Jean-François Jasmin	Department of Stem Cell Biology and Regenerative Medicine, Thomas Jefferson University, Philadelphia, PA 19107, USA. 
+swbae@kcch.re.kr	Sangwoo Bae	Department of Cell and Developmental Biology, University of Pennsylvania School of Medicine, 1110 Biomedical Research Building 2/3, 421 Curie Boulevard, Philadelphia, PA 19104-6058, USA. 
+emvaughan@wisc.edu	Emily M Vaughan	Program in Cellular and Molecular Biology, University of Wisconsin-Madison, 1117 West Johnson Street, Madison, WI 53706, USA. 
+bkee@bsd.uchicago.edu	Barbara L Kee	Committees on Immunology, Cancer Biology, and Development, Regeneration and Stem Cell Biology, Department of Pathology, The University of Chicago, Chicago, IL 60637, USA. 
+dowong@iupui.edu	Donald Wong	Department of Anatomy and Cell Biology, Indiana University School of Medicine, Medial Science Building, 635 Barnhill Drive, Indianapolis, IN 46202-5120, USA. 
+wojchd@mmc.org	Don Wojchowski	COBRE Center of Excellence in Stem Cell Biology and Regenerative Medicine, Maine Medical Center Research Institute, Scarborough, Maine 04074, USA. 
+robert-cornell@uiowa.edu	Robert A Cornell	Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA 52242, USA. 
+jmbeckel@gmail.com	Jonathan M Beckel	Department of Anatomy and Cell Biology, University of Pennsylvania, Philadelphia, PA 19104 USA. 
+jwlandry2@vcu.edu	Joseph W Landry	Laboratory of Biochemistry and Molecular Cell Biology, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA. 
+mark.hallen@duke.edu	Mark A Hallen	Department of Cell Biology, Structural Biology &amp; Biophysics Program, Duke University Medical Center, Durham, NC 27710, USA. 
+valarmathi64@hotmail.com	Mani T Valarmathi	Department of Cell Biology and Anatomy, School of Medicine, University of South Carolina, Columbia, SC 29209, USA. 
+colinc@seas.upenn.edu	Colin K Choi	Department of Cell Biology, University of Virginia, Charlottesville, Virginia, USA. 
+rldavis@rci.rutgers.edu	Robin L Davis	Department of Cell Biology &amp; Neuroscience, 604 Allison Road, Nelson Laboratories, Rutgers University, Piscataway, NJ 08854, USA. 

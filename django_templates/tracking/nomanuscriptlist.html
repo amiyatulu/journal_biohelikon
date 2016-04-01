@@ -1,0 +1,23 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>You have no manuscript</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+
+ <nav id="onside">
+              <ul>
+              <li>
+              <a href="{% url 'tracking:submission' %}">New Submission</a>
+              </li>
+             
+              </ul>
+              </nav>
+</article>
+{% endblock %}

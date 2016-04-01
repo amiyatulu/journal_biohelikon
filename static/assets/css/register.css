@@ -1,0 +1,131 @@
+.signup-space{
+	margin:0;
+	float:left;
+	width:50%;
+	
+}
+.signup-box{
+	width:70%;
+	padding:15px;
+	background:#f1f1f1;
+}
+input[type=email],
+  input[type=number],
+  input[type=password],
+  input[type=tel],
+  input[type=text],
+  input[type=url],textarea {
+  -webkit-appearance: none;
+  appearance: none;
+  display: inline-block;
+  height: 29px;
+  margin: 0;
+  padding: 0 8px;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  border-radius: 1px;
+  }
+  input[type=email]:hover,
+  input[type=number]:hover,
+  input[type=password]:hover,
+  input[type=tel]:hover,
+  input[type=text]:hover,
+  input[type=url]:hover ,textarea:hover{
+  border: 1px solid #b9b9b9;
+  border-top: 1px solid #a0a0a0;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+  }
+  input[type=email]:focus,
+  input[type=number]:focus,
+  input[type=password]:focus,
+  input[type=tel]:focus,
+  input[type=text]:focus,
+  input[type=url]:focus, textarea:hover {
+  outline: none;
+  border: 1px solid #4d90fe;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+  }
+ input[type=email],
+  input[type=number],
+  input[type=password],
+  input[type=tel],
+  input[type=text],
+  input[type=url], textarea
+  {
+  width: 100%;
+  }
+  .errorlist {
+  color:red;
+  }
+ 
+ 
+ #id_abstract , #id_authors_affiliation, #id_corresponding_author_address
+ {
+ height:100px;
+ }
+ 
+.class_textarea textarea{
+	height:100px;
+}
+.class_bigtextarea textarea{
+	height:200px;
+}
+.shorttext {
+	width:25% !important;
+}
+
+ input#submitbutton {
+border:2px groove #7c93ba;
+cursor:pointer; /*forces the cursor to change to a hand when the button is hovered*/
+padding: 5px 25px;
+/*give the background a gradient - see cssdemos.tupence.co.uk/gradients.htm for more info*/
+background-color:#6b6dbb; /*required for browsers that don't support gradients*/
+background: -webkit-gradient(linear, left top, left bottom, from(#88add7), to(#6b6dbb));
+background: -webkit-linear-gradient(top, #88add7, #6b6dbb);
+background: -moz-linear-gradient(top, #88add7, #6b6dbb);
+background: -o-linear-gradient(top, #88add7, #6b6dbb);
+background: linear-gradient(top, #88add7, #6b6dbb);
+/*style to the text inside the button*/
+font-family:Andika, Arial, sans-serif; /*Andkia is available at http://www.google.com/webfonts/specimen/Andika*/
+color:#fff;
+font-size:1.1em;
+letter-spacing:.1em;
+font-variant:small-caps;
+/*give the corners a small curve*/
+-webkit-border-radius: 0 15px 15px 0;
+-moz-border-radius: 0 15px 15px 0;
+border-radius: 0 15px 15px 0;
+/*add a drop shadow to the button*/
+-webkit-box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+-moz-box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+box-shadow: rgba(0, 0, 0, .75) 0 2px 6px;
+}
+/***NOW STYLE THE BUTTON'S HOVER AND FOCUS STATES***/
+input#submitbutton:hover, input#submitbutton:focus {
+color:#edebda;
+/*reduce the spread of the shadow to give a pushed effect*/
+-webkit-box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+-moz-box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+box-shadow: rgba(0, 0, 0, .25) 0 1px 0px;
+}
+
+@media only screen
+and (max-width : 959px) {
+	.signup-space {
+	width:100%;
+	float:right;
+	}
+	.signup-box{
+	width:90%;
+	}
+	}

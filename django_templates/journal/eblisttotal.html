@@ -1,0 +1,37 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% load url from future %}
+{% block banner %}
+<hgroup>
+	<h1>Editorial Board Members</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div>
+	{% for eb in eblists %}
+	<div class='articlelist'>
+	<p><b>Name: </b><a href="{% url 'journal:viewprofile' pid=eb.user.id %}">{{ eb.user.first_name }} {{ eb.user.last_name }}</a></p>
+	 <p><b>Score:</b> {% if eb.user.points.score %} {{ eb.user.points.score }} {% else %} 0 {% endif %} &nbsp;&nbsp;&nbsp;<a href="{% url 'tracking:activitiesdetails' uid=eb.user.id  %}">(Manuscript Reviewed)</a></p>
+	 <p><b>Address: </b><br/>{{ eb.address|linebreaks }}</p>
+	 </div>
+	{% endfor %}
+	<br/>
+	<br/>
+	<div class="pagination">
+    <span class="step-links">
+        {% if eblists.has_previous %}
+            <a href="?page={{ eblists.previous_page_number }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ eblists.number }} of {{ eblists.paginator.num_pages }}.
+        </span>
+
+        {% if eblists.has_next %}
+            <a href="?page={{ eblists.next_page_number }}">next</a>
+        {% endif %}
+    </span>
+</div>
+</div>
+</article>
+{% endblock %}

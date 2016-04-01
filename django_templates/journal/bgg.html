@@ -1,0 +1,36 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %}  
+{% block header %} 
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'journal:journalhome' %}">Biohelikon</a>
+        <ul class="social-icons">
+        {% include "journal/journalsocialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            {% include "journal/bgghomecommonlinks.html" %}
+            
+            
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Genes &amp; Genome</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post journalhome">
+	<h3>Aims &amp; Scope</h3><p>Genes are the working subunits of DNA that codes for a particular protein that has a particular function whereas genomes are the complete organism’s hereditary information that contains all the biological information needed to maintain the life process of that organism. Is focuses on datasets produced from functional genomics, analysis of genomes, transcriptomes, proteomes, analysis of genetic pathways.</p>
+    <h3>Salient Features</h3><p>Your article will be usually processed with in 45 days of submission with assignment of reviewer after two days of submission.</p>
+    <h3>Why Open Access?</h3><p>Open access gives a worldwide audience larger than that of any subscription-based journal and thus increases the visibility and impact of published works. It also enhances indexing, retrieval power and eliminates the need for permissions to reproduce and distribute content.</p>
+	</div>
+    <aside role="sidelinks">
+    <img src="{{ STATIC_URL }}assets/images/genes.jpg">
+    </aside>
+</article>
+
+{% endblock %}

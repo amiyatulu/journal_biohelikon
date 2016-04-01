@@ -1,0 +1,163 @@
+@media only screen and (min-width: 960px) {
+#cssmenu {
+  border: none;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  font-family: verdana, geneva, arial, helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #8e8e8e;
+  width: auto;
+}
+@-webkit-keyframes bluePulse {
+	  from { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #2daebf; -webkit-box-shadow: 0 0 18px #2daebf; }
+	  to { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
+	}
+@keyframes bluePulse {
+	from { background-color: #007d9a; -moz-box-shadow: 0 0 9px #333; }
+	  50% { background-color: #2daebf; -moz-box-shadow: 0 0 18px #2daebf; }
+	  to { background-color: #007d9a; -moz-box-shadow: 0 0 9px #333; }
+	
+}
+@keyframes bluePulse {
+	from { background-color: #007d9a; box-shadow: 0 0 9px #333; }
+	  50% { background-color: #2daebf; box-shadow: 0 0 18px #2daebf; }
+	  to { background-color: #007d9a; box-shadow: 0 0 9px #333; }
+	
+}
+#cssmenu > ul {
+  margin-top: 6px !important;
+}
+#cssmenu ul {
+	border-top-left-radius:4px;
+  border-top-right-radius:4px;
+	animation-name:bluePulse;
+	animation-duration:10s;
+	animation-iteration-count:infinite;
+  -webkit-animation-name: bluePulse;
+  -webkit-animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+  background:#007d9a;
+  height: 30px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+    display: table;
+}
+#cssmenu ul ul {
+  border-top: 6px solid #039ba6;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+#cssmenu ul ul a {
+  line-height: 43px;
+}
+#cssmenu ul ul ul {
+  left: 100%;
+  top: 0;
+}
+#cssmenu li {
+  display: table-cell;
+    text-align: center;
+  padding: 0px 4px 0px 4px;
+}
+#cssmenu li a {
+  color: white;
+  display: block;
+  font-weight: bold;
+  line-height: 30px;
+  padding: 0px 25px;
+  text-align: center;
+  text-decoration: none;
+}
+#cssmenu li a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+#cssmenu li ul {
+  background: #e0e0e0;
+  border-left: 2px solid #039ba6;
+  border-right: 2px solid #039ba6;
+  border-bottom: 2px solid #039ba6;
+  display: none;
+  height: auto;
+  filter: alpha(opacity=95);
+  opacity: 0.95;
+  position: absolute;
+  width: 225px;
+  z-index: 200;
+  /*top:1em;
+		/*left:0;*/
+
+}
+#cssmenu li:hover > ul {
+  display: block;
+}
+
+#cssmenu li ul a {
+  display: block;
+  font-size: 12px;
+  font-style: normal;
+  padding: 0px 10px 0px 15px;
+  text-align: left;
+}
+#cssmenu li ul a:hover {
+  color: gray;
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+}
+#cssmenu p {
+  clear: left;
+}
+
+
+#cssmenu .active > a {
+	
+  border-top-left-radius:4px;
+  border-top-right-radius:4px;
+  background: #ffffff;
+  color: #007d9a;
+  padding-bottom:5px;
+}
+#cssmenu .active > a:hover {
+  color: gray;
+}
+
+.menuwhite {
+	background:white;
+	padding:20px;
+}
+.postarticle{
+	border-radius:4px;
+	border:1px;
+	border-color:#B6B6B6;
+	border-style:solid;
+	padding:15px;
+}
+
+}
+@media only screen
+and (max-width : 959px) {
+#cssmenu .active > a {
+  background: #ffffff;
+  color: red;
+}
+#cssmenu .active > a:hover {
+  color: gray;
+}	
+#cssmenu {
+	font-weight:bold;
+	text-align:center;
+	padding-bottom:20px;
+
+}
+#cssmenu ul {
+	list-style:none;
+}
+
+}
+ 

@@ -1,0 +1,41 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load journals_tags %}
+
+{% load url from future %}
+
+
+{% block banner %}
+<hgroup>
+           <h1>Update Your Profile</h1>
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+{{ error }}
+<form action="{{request.path}}" method="post">{% csrf_token %}
+{{ form.as_p }}
+<input type="submit" id="submitbutton" value="Submit" />
+</form>
+
+</div>
+<aside role="sidelinks">
+              <nav id="onside">
+              <ul>
+              <li>
+              <a href="{% url 'tracking:updatepassword' %}">Change Password</a>
+              </li>
+              {% if user|checkforprofile %}
+              <li>
+              <a href="{% url 'journal:updateprofile' pid=user.id %}">Update Profile Details</a>
+              </li>
+              {% endif %}
+               {% if not user|checkforprofile %}
+              <li>
+              <a href="{% url 'journal:createprofile' %}"> Create Profile Details</a>
+              </li>
+              {% endif %}
+              </ul>
+              </nav>
+           </aside>
+</article>
+
+{% endblock %}

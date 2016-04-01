@@ -1,0 +1,45 @@
+<head>
+<script src="{{ STATIC_URL }}assets/js/libs/jquery-1.10.2.min.js"></script>
+</head>
+
+{% load url from future %}
+<p><a href="{{ MEDIA_URL}}HsR6WE71a8error.txt">Errors</a> | <a href="{{ MEDIA_URL}}HsR6WE71a8error2.txt">Duplicates</a>  </p>
+<form id="emaillist" action="{% url 'mailing:success2' %}" method="post">
+{% csrf_token %}
+<input type="checkbox" name= "all" value= "">Select All <br/>
+{% for contact in contacts.object_list %}
+    <input type="checkbox" name="Email" value="{{ contact.id }}">
+    {{ contact.name }} &nbsp;&nbsp;&nbsp;&nbsp; {{ contact.email }} &nbsp;&nbsp;&nbsp;&nbsp; {{ contact.affiliation }} <br/><br/>
+
+{% endfor %}
+
+
+<select name="templatename">    
+{% for temp in template %}
+<option value="{{ temp.id }}">{{ temp.name }} </option>
+
+{% endfor %}
+</select>
+
+<input type="submit" value="Go" >
+</form>
+
+<div class="pagination">
+    <span class="step-links">
+        {% if contacts.has_previous %}
+            <a href="?page={{ contacts.previous_page_number }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ contacts.number }} of {{ contacts.paginator.num_pages }}.
+        </span>
+
+        {% if contacts.has_next %}
+            <a href="?page={{ contacts.next_page_number }}">next</a>
+        {% endif %}
+    </span>
+</div>
+
+<script>$(':checkbox[name=all]').click (function () {
+  $(':checkbox[name=Email]').prop('checked', this.checked);
+});</script>

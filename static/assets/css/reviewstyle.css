@@ -1,0 +1,100 @@
+.eachcomment{
+	border-top-style:dotted;
+
+	padding:1px;
+	margin:1px;
+	padding-left:100px;
+	border-width:2px;
+}
+ .username {
+ color: blue;
+	
+}
+.time {
+	color:gray;
+}
+.comment_button {
+	float:right;
+}
+.review_button{
+margin-top:6px;
+margin-bottom:6px;
+padding: 10px 10px;
+box-shadow: 0 2px 1px rgba(0, 0, 0, 0.3),0 1px 0 rgba(255, 255, 255, 0.4) inset;
+background-color: #333;
+color: #fff;
+border: 1px solid #000!important;
+border-radius: 3px;
+text-decoration: none;
+}
+.buttons{
+	padding:3px;
+}
+.submit_form , .review_submit , .button_style{
+	margin-top:6px;
+margin-bottom:6px;
+	padding: 6px 6px;
+box-shadow: 0 2px 1px rgba(0, 0, 0, 0.3),0 1px 0 rgba(255, 255, 255, 0.4) inset;
+background-color: #333;
+color: #fff;
+border: 1px solid #000!important;
+border-radius: 3px;
+text-decoration: none;
+}
+
+label.error,.comment_error{
+	color:red;
+}
+
+dd{
+    margin:0;
+    
+    padding:2px;
+    padding-left:17px;
+}
+dt{
+    padding:2px;
+    font-weight:bold;
+   
+    background:#e3e3e3;
+    border-bottom:1px solid #c5c5c5;
+    border-top:1px solid white;
+    padding-left:10px;
+   
+}
+section[role=completemanuscriptdetails] {
+
+box-shadow: 10px 10px 5px #888888;
+padding:15px;
+}
+section[role=review]{
+margin-top:20px;
+box-shadow: 10px 10px 5px #888888;
+padding:15px;	
+}
+.reviewerdetails{
+float: right;
+margin: 0;
+clear: both;
+}
+
+.arrow-up {
+	width: 0; 
+	height: 0; 
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	cursor:pointer;
+	border-bottom: 15px solid gray;
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	cursor:pointer;
+	border-top: 15px solid gray;
+}
+#dialog, #dialog2, #dialog3, #dialog4{
+	display:none;
+}

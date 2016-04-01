@@ -1,0 +1,7 @@
+{{object.user.email}}
+{{object.user.get_full_name}}
+{{object.address}}
+{{object.research_interest}}
+{{object.education}}
+{{object.experience}}
+{{object.publications}}

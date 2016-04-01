@@ -1,0 +1,20 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<script src="{{ STATIC_URL }}assets/js/libs/jquery-1.10.2.min.js"></script>
+  <script>window.jQuery || document.write('<script src="{{ STATIC_URL }}assets/js/libs/jquery-1.10.2.min.js"><\/script>')</script>
+  <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/manuscriptlist-table.css">
+
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Search for Access Code</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+<p> You do not have permission to search for the access codes. Please mail us to get access codes by journal.</p>
+</div>
+{% endblock %}

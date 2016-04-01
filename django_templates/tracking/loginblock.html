@@ -1,0 +1,87 @@
+{% load url from future %}
+{% load journals_tags %}
+{% if user.is_authenticated %}
+<div class="topbar">
+<span class="topbar-username">hi, {{ user.username }}    (<a href = "{% url 'tracking:logout' %}" >Logout </a>) </span>
+<span class="topbar-score">Score : {{ user|myscore}} <br> Wallet: {{user|mywallet}}</span>
+<span class="topbar-notification"><img id = "image-notification" src="{{ STATIC_URL }}assets/images/mailbox.svg" height="30px"/> <strong id="notification-number">{{ user|inboxnumber}}</strong></span>
+<span class="journal-left"><a href="{% url 'journal:journallist' %}">Subjects</a></span>
+<span>
+<form id="homesearch" action="{% url 'searcharticle' %}" method="GET">
+Search 
+<input type="text" name="q">
+</form>
+</span>
+<table class="socialtable">
+
+<tr>
+
+<td>
+<a class="twitter-share-button" href="https://twitter.com/share"
+  data-related="twitterdev"
+  data-size="medium"
+  data-count="none">
+Tweet
+</a>
+</td>
+<td>
+<div class="fb-share-button" data-href="{{ request.build_absolute_uri }}" data-layout="button"></div></td>
+<td><div class="g-plus" data-action="share" data-annotation="bubble"></div></td></tr>
+</table>
+</div>
+<div class="dialog-notification dnd">
+<h3>Inbox</h3>
+<div class="fetch-ajax-notification">
+
+</div>
+</div>
+
+{% else %}
+
+
+
+<!--[if gt IE 8]><!-->
+<a href="#openModal" class="home_button1">login</a>
+<!--<![endif]-->
+<a href="{% url 'tracking:register' %}" class="home_button2">don't have an account, register</a>
+<a href="{% url 'journal:journallist' %}" class="home_button1">Subjects</a>
+<table class="socialtable">
+<tr>
+
+<td>
+<a class="twitter-share-button" href="https://twitter.com/share"
+  data-related="twitterdev"
+  data-size="medium"
+  data-count="none">
+Tweet
+</a>
+</td>
+<td>
+<div class="fb-share-button" data-href="{{ request.build_absolute_uri }}" data-layout="button"></div></td>
+<td><div class="g-plus" data-action="share" data-annotation="bubble"></div></td>
+<td>
+<form id="homesearchany" action="{% url 'searcharticle' %}" method="GET">
+<input type="text" name="q" placeholder="search">
+</form>
+</td>
+</tr>
+</table>
+<!--[if gt IE 8]><!-->
+<div id="openModal" class="modalDialog">
+	<div>
+		<a href="#close" title="Close" class="close">X</a>
+		{% include "registration/login.html" %}
+	</div>
+</div>
+<!--<![endif]-->
+<!--[if lt IE 7]>
+<a href="{% url 'tracking:login2' %}" class="home_button1">login</a>
+ <![endif]-->
+<!--[if IE 7]>    
+<a href="{% url 'tracking:login2' %}" class="home_button1">login</a>
+ <![endif]-->
+<!--[if IE 8]> 
+<a href="{% url 'tracking:login2' %}" class="home_button1">login</a>	
+ <![endif]-->
+
+{% endif %}

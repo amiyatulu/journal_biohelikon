@@ -1,0 +1,32 @@
+{% extends extendname %} 
+{% load url from future %}
+
+{% block banner %}
+<hgroup>
+	<h1>{{ article.title }}</h1>
+
+</hgroup>
+{% endblock %}
+{% block container %}
+<aside role="complementary" class="class_top">
+
+	<p><a href="{{article.link}}">Download Pdf</a></p>
+	<p>Volume: {{article.volume}}</p>
+	<p>E locator: {{article.e_locator}} </p>
+	<p>Size : {{article.size}} </p>
+	<p>Journal: {{ article.journal }} </p>
+	{% if article.manuscript %}
+	<p>Access code: {{article.manuscript.manuscriptaccesscode.accesscode}} </p>
+	{% endif %}
+	
+	
+	
+	</aside>
+<article class="post content">
+	<div class="class_justify">
+	{{ article.article | safe }}
+	</div>
+
+</article>
+{% endblock %}
+

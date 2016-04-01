@@ -1,0 +1,5 @@
+{% for qu in notif %}
+{{ qu.message|safe }} 
+<div style= "text-align:right">{{ qu.create_time }}</div><br>
+
+{% endfor %}

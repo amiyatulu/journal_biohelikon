@@ -1,0 +1,76 @@
+{% extends "journal/journalextend.html" %} 
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+{% if  user.is_anonymous %}
+ <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/jquery-ui.min.css">
+<script src="{{ STATIC_URL }}assets/js/jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(function() {
+	setTimeout(function(){
+	    $("#dialog").dialog();
+	}, 10000);
+	});
+});
+
+</script>
+
+{% endif %}
+{% if article.metatag %}
+{{article.metatag|safe}}
+{% endif %}
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>{{ article.title }}</h1>
+
+</hgroup>
+{% endblock %}
+{% block container %}
+<aside role="complementary" class="class_top">
+
+	<p><a href="{{article.link}}">Download Pdf</a></p>
+	<p>Volume: {{article.volume}}</p>
+	<p>Issue: {{article.issue}}</p>
+	<p>E-locator: {{article.e_locator}} </p>
+	<!--
+	<p>Cite this as: <b>Biohelikon {{article.year}};{{article.volume}}:{{article.e_locator}}</b></p> 
+	-->
+	<p>Size : {{article.size}} </p>
+	<p>Subjects: {{ article.journal }} </p>
+	{% if article.manuscript %}
+	<p>Access code: {{article.manuscript.manuscriptaccesscode.accesscode}} </p>
+	<p>Date Submitted: {{article.manuscript.create_time}}</p>
+	{% endif %}
+	<p>Date Published:{{article.create_time}}</p> 
+	{% if article.supp_link %}
+	<p>Supplementary Links:<br>
+	{{ article.supp_link | safe }}
+	</p>
+	{% endif %}
+	{% if user.is_superuser %}
+	<h4>Article Admin</h4>
+	<p><a href="{% url 'journal:updatemanuscriptadmin' pid=article.id %}">Update</a> | <a href="{% url 'journal:createpubmanuscriptadmin' %}">Create</a></p>
+	{% endif %}
+	
+	
+	
+	</aside>
+<article class="post content">
+	<div class="class_leftalignment">
+	{{ article.article | safe }}
+	</div>
+
+</article>
+{% if  user.is_anonymous %}
+<div id="dialog" title="Subscribe" style="display:none">
+Please subscribe to receive updates, review invitations and more... <br> <br><br> 
+
+<span class="underline"><b><a href="{% url 'tracking:register' %}">Register</a></b></span>     
+
+</div>
+
+{% endif %}
+{% endblock %}
+

@@ -1,0 +1,28 @@
+{% load url from future %}			
+			<li>
+              <a href="{% url 'journal:journalhome' %}"><i class="fa fa-home fa-lg"> </i>&nbsp;&nbsp;Home</a>
+            </li>
+            <li>
+              <a href="{% url 'faqspage' %}"><i class="fa fa-question-circle fa-lg"> </i>&nbsp;&nbsp;Faqs</a>
+            </li>
+            {% if not user.is_authenticated %}
+            <li>
+              <a href="{% url 'totalebmembers'  %}"><i class="fa fa-user fa-lg"> </i>&nbsp;&nbsp;Editorial Board</a>
+            </li>
+            {% endif %}
+            {% if user.is_authenticated %}
+            <li>
+              <a href="{% url 'tracking:mymanuscriptlist' %}"><i class="fa fa-file fa-lg"> </i>&nbsp;&nbsp;Manuscripts</a>
+            </li>
+            <li>
+              <a href="{% url 'tracking:reviewtab' %}"><i class="fa fa-check-circle fa-lg"> </i>&nbsp;&nbsp;Review</a>
+            </li>
+            <li>
+              <a href="{% url 'tracking:updateprofile' pid=request.user.id %}"><i class="fa fa-user fa-lg"> </i>&nbsp;&nbsp;Update Profile</a>
+            </li>
+            {% endif %}
+            {% if user.is_superuser %}
+            <li>
+              <a href="{% url 'tracking:adminmanuscriptlist' %}"><i class="fa fa-shield fa-lg"> </i>&nbsp;&nbsp;Admin List</a>
+            </li>
+            {% endif %}

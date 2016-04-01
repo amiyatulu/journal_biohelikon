@@ -1,0 +1,26 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>You have no manuscript to review</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+Please enter access code of manuscript for reviewing.
+ <nav id="onside">
+              <ul>
+             <li>
+<a href="{% url 'tracking:accesscode' %}"><i class="fa fa-unlock-alt"> </i>&nbsp;&nbsp;Enter Access Code</a>
+</li>
+<li>
+<a href="{% url 'tracking:searchaccesscode' %}"><i class="fa fa-search"> </i>&nbsp;&nbsp;Search Access Code</a>
+</li>
+             
+              </ul>
+              </nav>
+</article>
+{% endblock %}

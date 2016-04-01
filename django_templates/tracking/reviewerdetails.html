@@ -1,0 +1,21 @@
+{% extends "tracking/htmlarcana.html" %}
+
+{% block banner %}
+
+<hgroup>
+           <h1>Reviewer Details</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="post">
+<table border="1">
+<tr><th>Name</th><th>Email</th><th>Username</th></tr>
+{% for rev in reviewers %}
+<tr><td>{{rev.user.get_full_name}}</td><td>{{rev.user.email}}</td><td>{{rev.user.username}}</td></tr>
+
+{% endfor %}
+
+</table>
+</div>
+</article>
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load url from future %}
+{% block header %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'tracking:home' %}">Biohelikon Tracking</a>
+        <ul class="social-icons">
+          {% include "tracking/socialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            
+            <li>
+              <a href="{% url 'tracking:createjournal' %}"><i class="fa fa-pencil fa-lg"> </i>&nbsp;&nbsp;Create Journal</a>
+            </li>
+            {% include "tracking/commonlinks.html" %}
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+           <h1>Create your Journal</h1>
+       </hgroup>
+    <article role="main" class="clearfix">
+<form action="{{request.path}}" method="post">{% csrf_token %}
+{{ form.as_p }}
+<input type="submit" id="submitbutton" value="Submit" />
+</form>
+</article>
+{% endblock %}

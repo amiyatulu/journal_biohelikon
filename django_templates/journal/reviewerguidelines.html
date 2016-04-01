@@ -1,0 +1,52 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %} 
+{% block script %} 
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/tabmenu.css">
+{% endblock %} 
+{% block header %} 
+{% include "journal/journalheaderarcana.html" %} 
+{% endblock %} 
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Open Access</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="postarticle">
+		<div id='cssmenu'>
+			<ul>
+				<li><a href="{% url 'journal:journalhome' %}"><span>Recent
+							Articles</span></a></li>
+				<li><a href="{% url 'journal:journallist' %}"><span>Subjects</span></a></li>
+				<li><a href="{% url 'journal:submissioninstructions' %}"><span>Instructions
+							for Submission</span></a></li>
+				<li class='active'><a href='#'><span>Reviewer Guidelines</span></a></li>
+				<li><a href="{% url 'journal:contact' %}"><span>Contact</span></a></li>
+			</ul>
+		</div>
+		<div class="menuwhite">
+<p>A good peer review assures the manuscript to be properly verified before it is published. We allow reviewers to examine articles even after publication. By this way, authors can improve their article at any time, even after publication.</p>
+
+<h4>How do I get access to the article for reviewing?</h4>
+<p>You can use the access code provided to view the article, after login. If you want to review or comment on the article after it is published, access code is available publicly in the manuscript. </p> 
+
+
+
+<p>Reviewers are asked to evaluate the article based upon following criteria:</p>
+
+<h4>Title:</h4>
+<p>Is the title best describes about the article? If not, reviewer may suggest some other title. </p>
+<h4>Originality:</h4>
+<p>Is the content original? Reviewers are requested to provide detailed information of the article that contains similar contents, if the article is not original.</p>
+<h4>Typo Errors:</h4>
+<p>Does the article contain any typo or grammatical errors? Reviewer should provide details of the errors.</p>
+<h4>Deepness:</h4>
+<p>Does the article provide enough details regarding the topic? What are the other parts that are not covered?</p>
+<h4>Comprehensible:</h4>
+<p>Is the article easy to understand and precise? Reviewer should provide the areas of the article that are difficult to understand. </p>
+
+		</div>
+	</div>
+</article>
+{% endblock %}

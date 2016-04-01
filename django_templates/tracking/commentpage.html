@@ -1,0 +1,371 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load tracking_reviewupload %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/reviewstyle.css">
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/jquery-ui-dialog/jquery-ui.min.css">
+<script src="{{ STATIC_URL }}assets/jquery-ui-dialog/jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+$(".review_button").click(function(){
+
+var element = $(this);
+var I = element.data("keyid");
+if(element.attr('data-firstreview')){
+	$('#errorfirstreview'+I).html("Please submit your review first than upload");
+}else {
+	$('#errorfirstreview'+I).html("");
+}
+
+$("#reviewpanel"+I).slideToggle(300);
+$(this).toggleClass("active"); 
+
+return false;});
+
+$(".comment_button").click(function(){
+	var element2 = $(this);
+	var I2 = element2.data("keyid");
+	$(".comment_error").text("");
+	$("#commentpanel"+I2).slideToggle(300);
+	$(this).toggleClass("active");
+	return false; 
+	
+});
+
+
+$('#form{{manuscript.id}}').validate({
+	
+	rules:{
+		title: "required",
+		originality: "required",
+		typo_errors:"required",
+		deepness:"required",
+		comprehensible:"required",
+		overall_comments:"required",
+	},
+
+    submitHandler: function(form) {  
+
+    	
+    	var spinner = $("<img src='{{ STATIC_URL }}assets/images/ajax-loader.gif' />").insertAfter('#submit{{manuscript.id}}');
+  		submitbutton1 = $('#form{{manuscript.id}} :submit');
+  		submitbutton1.attr('disabled',true);
+        $.ajax({
+            url: "{% url 'tracking:ajaxcreatereview' mid=manuscript.id %}",
+            type: "POST",
+            data: $(form).serialize(),
+            success: function(response) {
+            	spinner.remove();
+            	$('#completereviewpanel{{manuscript.id}}').html(response);
+            },          
+        });
+    }
+});
+$('.submit_form').click(function(){
+var myform = $(this).closest("form");	
+var area = $(this).prev().prev();
+var error = $(this).prev();
+
+if (area.val()==''){
+	error.text("The value is required");
+}else {
+	var spinner2 = $("<img src='{{ STATIC_URL }}assets/images/ajax-loader.gif' />").insertAfter(this);
+		$.ajax({
+			url:$(myform).data('url'),
+			type:"POST",
+			data:$(myform).serialize(),
+			success: function(response){
+				spinner2.remove();
+				var r = $(myform).data('replace');
+				$('#myid'+r).before(response);
+				area.val('');
+				$(".comment_panel").css('display','none');
+			}
+		});
+}
+return false;
+});
+
+
+
+
+$('.vote').click(function(){
+	reviewid = $(this).data("reviewid");
+	reviewvoteurl = "{% url 'tracking:reviewvote' rid=999 %}".replace (999, reviewid);
+	$.ajax({
+		type:"POST",
+		url:reviewvoteurl,
+		data:{'vote': $(this).data('value'), 'csrfmiddlewaretoken': '{{csrf_token}}'},
+		dataType:"text",
+		
+	}).done(function(score){
+	    if(score == "X"){
+	    	$('#dialog').dialog({ 
+	    		open: function() {
+	                var foo = $(this);
+	                setTimeout(function() {
+	                   foo.dialog('close');
+	                }, 2000);
+	                }
+	    	});
+	    		
+	    } 
+	    else if (score == "Z"){
+	    	$('#dialog2').dialog({ 
+	    		open: function() {
+	                var foo = $(this);
+	                setTimeout(function() {
+	                   foo.dialog('close');
+	                }, 2000);
+	                }
+	    	});
+	    		
+	    } 
+	    
+	    else {
+	    	$("#score"+reviewid).text(score);	
+	    }
+		
+		
+	})
+	
+});
+
+
+
+$('.mvote').click(function(){
+	manuscriptid = $(this).data("manuscriptid");
+	manuscriptvoteurl = "{% url 'tracking:manuscriptvote' mid=999 %}".replace (999, manuscriptid);
+	$.ajax({
+		type:"POST",
+		url:manuscriptvoteurl,
+		data:{'vote': $(this).data('value'), 'csrfmiddlewaretoken': '{{csrf_token}}'},
+		dataType:"text",
+		
+	}).done(function(score){
+	    if(score == "X"){
+	    	$('#dialog3').dialog({ 
+	    		open: function() {
+	                var foo = $(this);
+	                setTimeout(function() {
+	                   foo.dialog('close');
+	                }, 2000);
+	                }
+	    	});
+	    		
+	    } 
+	    else if (score == "Z"){
+	    	$('#dialog4').dialog({ 
+	    		open: function() {
+	                var foo = $(this);
+	                setTimeout(function() {
+	                   foo.dialog('close');
+	                }, 2000);
+	                }
+	    	});
+	    		
+	    } 
+	    
+	    else {
+	    	$("#mscore"+manuscriptid).text(score);	
+	    }
+		
+		
+	})
+	
+});
+}); 
+ 
+
+	
+
+</script>
+<style type="text/css">
+.panel , .comment_panel{
+display:none;
+}
+</style>
+{% endblock %}
+{% block header %}
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'tracking:home' %}">Biohelikon Tracking</a>
+        <ul class="social-icons">
+          <li>
+          {% include "tracking/socialicons.html" %}
+          </li>
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            
+            <li>
+              <a href="{{ request.path }}"><i class="fa fa-comments fa-lg"> </i>&nbsp;&nbsp;Review Comments</a>
+            </li>
+            {% include "tracking/commonlinks.html" %}
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+{% block banner %}
+<hgroup>
+           <h1>Review Comments</h1>
+           <h2>{{ manuscript.title }}</h2>
+       </hgroup>
+       <article role="main" class="clearfix">
+<div id="loadimage" style="display: none;"><img src='{{ STATIC_URL }}assets/images/ajax-loader.gif' /></div>
+<section role="completemanuscriptdetails">
+<div class="manuscriptdetails">
+<div id="dialog3">
+  <p>You have already voted</p>
+</div>
+<div id="dialog4">
+  <p>You can't vote your own manuscript</p>
+</div>
+<table>
+<tr><td><div class="arrow-up mvote" data-value="1" data-manuscriptid = {{manuscript.id}}></div></td></tr>
+<tr><td><div class="score" id = "mscore{{manuscript.id}}" style="text-align:center">{% if manuscript.manuscriptpoints.score %}{{manuscript.manuscriptpoints.score}} {% else %} 0 {% endif %}</div></td></tr>
+<tr><td><div class="arrow-down mvote" data-value="0" data-manuscriptid = {{manuscript.id}}></div></td></tr>
+</table>
+<dl>
+<dt>Manuscript Id </dt>
+<dd>{{ manuscript.id }}</dd> 
+<dt>Title</dt>
+<dd>{{ manuscript.title }} </dd>
+<dt>Abstract</dt>
+<dd>{{ manuscript.abstract }}</dd>
+<dt>Manuscript Uploads</dt>
+<dd>
+{% for upload in uploads %}
+<ul>
+<li>
+<a href="{{ MEDIA_URL }}{{upload.files}}">{{ upload.filename }}</a> {{ upload.create_time }} UTC<br/>
+</li>
+</ul>
+
+{% endfor %}
+</dd>
+</dl>
+{% if manuscript.user_id == request.user.id %}
+<p>
+<a href="{% url 'tracking:manuscriptupdate' mid=manuscript.id %}" class="button_style">update manuscript</a>
+<a href="{% url 'tracking:uploadfile' mid=manuscript.id %}" class="button_style">upload manuscript</a></p>
+{% endif %} 
+<p class="reviewerdetails"><span class="time">Create Time: {{ manuscript.create_time }} UTC <br/> Update Time: {{ manuscript.update_time }} UTC <br/></span> -<span class="username">{{ manuscript.user.username}}</span></p><br/><br/><br/><br/>
+</div>
+
+{% for manucomment in manuscriptcomment %}
+<p class="eachcomment"> {{ manucomment.comment|linebreaksbr }} -  <span class="username">{{ manucomment.user.username }}</span> <span class="time">{{ manucomment.create_time}} UTC </span></p>
+{% endfor %}
+
+<a href="#" class="comment_button" id ="myid{{manuscript.id}}" data-keyid="{{manuscript.id}}">add comment</a> <p class="buttons"></p>
+<div class="comment_panel" id="commentpanel{{manuscript.id}}">
+<div class="class_textarea">
+<form  class= "comment_submit" action="#" name="commentform{{manuscript.id}}" data-replace="{{manuscript.id}}" data-url="{% url 'tracking:ajaxaddmanuscriptcomment' mid=manuscript.id %}">
+{% csrf_token %}
+Comment:<textarea name="comment"></textarea>
+<div class="comment_error"></div>
+<input type="submit" value="add comment" class="submit_form" />
+</form>
+</div>
+</div>
+</section>
+<div id="dialog">
+  <p>You have already voted</p>
+</div>
+<div id="dialog2">
+  <p>You can't vote your own review</p>
+</div>
+
+{% for rev in review %}
+<section role="review">
+<table>
+<tr><td><div class="arrow-up vote" data-value="1" data-reviewid = {{rev.id}}></div></td></tr>
+<tr><td><div class="score" id = "score{{rev.id}}" style="text-align:center">{% if rev.reviewpoints.score %}{{rev.reviewpoints.score}} {% else %} 0 {% endif %}</div></td></tr>
+<tr><td><div class="arrow-down vote" data-value="0" data-reviewid = {{rev.id}}></div></td></tr>
+</table>
+
+<p><b>Title:</b><br/>Is the article title is catchy and thought-provoking? If not, please suggest any other title that you have in mind.</p> 
+{{ rev.title|linebreaks }}
+<p><b>Originality:</b><br/>Is the content of article original? Please give the information of article that contains similar contents, if the article is not original.</p>
+{{ rev.originality|linebreaks }}
+<p><b>Typo Errors:</b><br/>Does the article contain any typo or grammatical errors? Please provide details of the errors.</p>
+{{ rev.typo_errors|linebreaks }}
+<p><b>Deepness:</b><br/>Does the article provide details regarding the topic? Please provide any suggestions of improvement of the article.</p> 
+{{ rev.deepness|linebreaks }}
+<p><b>Comprehensible:</b><br/>Is the article easy to understand and precise? Please mention the parts that are difficult to understand.</p>
+{{ rev.comprehensible|linebreaks }}
+<p><b>Overall Comments:</b></p> 
+{{ rev.overall_comments|linebreaks}} 
+<p>
+<b>Uploaded Files:</b><br/>
+{% for reviewupl in reviewupload|in_uploadreview:rev.user_id %}
+<ul>
+<li>
+<a href="{{ MEDIA_URL }}{{reviewupl.reviewfile}}">{{ reviewupl.filename }}</a> {{ reviewupl.create_time }} UTC<br/>
+</li>
+</ul>
+{% endfor %}
+</p>
+<p class="reviewerdetails"><span class="time">Create Time: {{ rev.create_time }} UTC <br/> Update Time: {{ rev.update_time }} UTC <br/></span> -<span class="username">{{ rev.user.username}}</span></p><br/><br/><br/><br/>
+{% if rev.user == request.user %}
+<p class="buttons"><a href="{% url 'tracking:updatereview' rid=rev.id %}" class="button_style">update</a> or 
+
+<a href="{% url 'tracking:reviewupload' mid=manuscript.id %}" class="button_style">upload</a> </p>
+{% endif %}
+
+{% for comm in rev.reviewcomment_set.all %}
+<p class="eachcomment">{{ comm.comment|linebreaksbr }} -  <span class="username">{{ comm.user.username }}</span> <span class="time">{{ comm.create_time}} UTC </span></p>
+
+{% endfor %}
+
+<a href="#" class="comment_button" id = "myid{{rev.id}}_{{manuscript.id}}" data-keyid="{{rev.id}}_{{manuscript.id}}">add comment</a> <p class="buttons"></p>
+<div class="comment_panel" id="commentpanel{{rev.id}}_{{manuscript.id}}">
+<div class="class_textarea">
+<form  class= "comment_submit" action="#" name="commentform{{rev.id}}_{{manuscript.id}}" data-replace="{{rev.id}}_{{manuscript.id}}" data-url="{% url 'tracking:ajaxaddcomment' mid=manuscript.id rid=rev.id %}">
+{% csrf_token %}
+Comment:<textarea name="comment"></textarea>
+
+<div class="comment_error"></div>
+
+
+<input type="submit" value="add comment" class="submit_form" />
+</form>
+</div>
+</div>
+
+
+</section>
+{% endfor %}
+
+{% if not reviewpresent  and manuscript.user_id != request.user.id %}
+<br/>
+<br/>
+<br/>
+<div id="completereviewpanel{{manuscript.id}}">
+<p class="buttons"><a href="#" class="review_button" data-keyid="{{ manuscript.id }}">Review</a> &nbsp; or &nbsp;<a href="#" class="review_button" data-firstreview="1" data-keyid="{{ manuscript.id }}">Upload Review</a></p>
+<div class='panel' id="reviewpanel{{manuscript.id}}">
+<div id="errorfirstreview{{manuscript.id}}"></div>
+<div class="class_textarea">
+<form id="form{{manuscript.id}}" action="#" >
+ {% csrf_token %} 
+ 
+<p><b>Title:</b><br/>Is the article title is catchy and thought-provoking? If not, please suggest any other title that you have in mind.</p> <textarea name="title"></textarea><br/>
+<p><b>Originality:</b><br/>Is the content of article original? Please give the information of article that contains similar contents, if the article is not original.</p> <textarea name="originality"></textarea><br/>
+<p><b>Typo Errors:</b><br/>Does the article contain any typo or grammatical errors? Please provide details of the errors.</p> <textarea name="typo_errors" ></textarea><br/>
+<p><b>Deepness:</b><br/>Does the article provide details regarding the topic? Please provide any suggestions of improvement of the article.</p>  <textarea name="deepness" ></textarea><br/>
+<p><b>Comprehensible:</b><br/>Is the article easy to understand and precise? Please mention the parts that are difficult to understand.</p><textarea name="comprehensible"></textarea><br/>
+<p><b>Overall Comments:</b></p>  <textarea name="overall_comments"></textarea><br/>
+<br/>
+<input type="submit" value = "add review" class="review_submit" id="submit{{manuscript.id}}"/>
+
+</form>
+</div>
+</div>
+</div>
+{% endif %}
+</article>
+{% endblock %}
+

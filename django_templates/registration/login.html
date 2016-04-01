@@ -1,0 +1,17 @@
+{% load url from future %}
+{% if form.errors %}
+<p>Your username and password didn't match. Please try again.</p>
+{% endif %}
+<h2>Login Form</h2>
+{{ state }}
+<form method="post" action="{% url 'tracking:newlogin'  %}"> 
+{% csrf_token %}
+		username/email:
+		<input type="text" name="username" class="loginf" value="{{ username}}" /><br />
+		password:
+		<input type="password" name="password" class="loginf" value="" /><br />
+
+		<input type="submit"  name= "mylogin" value="Log In" />
+
+</form>
+<p><a href="{% url 'tracking:password_reset' %}">Forgot Password</a></p>

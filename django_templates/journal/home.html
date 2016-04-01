@@ -1,0 +1,37 @@
+{% extends "tracking/htmlarcana.html" %}
+{% load journals_tags %}
+{% load url from future %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+<link rel="stylesheet" href="{{ STATIC_URL }}assets/css/tabmenu.css">
+{% endblock %}
+{% block header %}
+{% include "journal/journalheaderarcana.html" %}
+{% endblock %}
+{% block banner %}
+<hgroup>
+           <h1>Biohelikon: Open Access</h1>
+ 
+       </hgroup>
+<article role="main" class="clearfix">
+<div class="postarticle">
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='#'><span>Recent Articles</span></a></li>
+   <li><a href="{% url 'journal:journallist' %}"><span>Subjects</span></a></li>
+   <li><a href="{% url 'journal:submissioninstructions' %}"><span>Instructions for Submission</span></a></li>
+   <li><a href="{% url 'journal:reviewerguide' %}"><span>Reviewer Guidelines</span></a></li>
+   <li><a href="{% url 'journal:contact' %}"><span>Contact</span></a></li>
+</ul>
+</div>
+<div class="menuwhite">
+{%  pubmanuscriptall as manuscriptquery%}
+{% for manu in manuscriptquery %}
+<div class="articlelist"><p><b>Title: </b><a href="{{ manu.get_absolute_url }}">{{ manu.title }}</a></p>
+	<p><b>Abstract: </b>{{ manu.abstract | safe}}</p>
+	</div>
+{% endfor %}
+</div>
+</div>
+</article>
+{% endblock %}

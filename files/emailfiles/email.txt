@@ -1,0 +1,923 @@
+mliu-hncq@hotmail.com	Manran Liu	Cancer-associated fibroblasts: A multifaceted driver of breast cancer progression
+steliarova@iarc.fr	Eva Steliarova-Foucher	The European Cancer Observatory: A new data resource
+ferlay@iarc.fr	Jacques Ferlay	The European Cancer Observatory: A new data resource
+masuyer@iarc.fr	Eric Masuyer	The European Cancer Observatory: A new data resource
+stefano.rosso@cpo.it	Stefano Rosso	The European Cancer Observatory: A new data resource
+formand@iarc.fr	David Forman	The European Cancer Observatory: A new data resource
+brayf@iarc.fr	Freddie Bray	The European Cancer Observatory: A new data resource
+h.comber@ncri.ie	Harry Comber	The European Cancer Observatory: A new data resource
+steliarova@iarc.fr	Eva Steliarova-Foucher	Registration of childhood cancer: Moving towards pan-European coverage?
+arnoldm@fellows.iarc.fr	Melina Arnold	Recent trends in incidence of five common cancers in 26 European countries since 1988: Analysis of the European Cancer Observatory
+gmountzios@gmail.com	Giannis Mountzios	Beyond EGFR and ALK inhibition: Unravelling and exploiting novel genetic alterations in advanced non small-cell lung cancer
+roberto.zanetti@cpo.it	R. Zanetti	Completeness and timeliness: Cancer registries could/should improve their performance
+sboccia@rm.unicatt.it	Stefania Boccia	Clinical features and prognostic factors in patients with head and neck cancer: Results from a multicentric study
+h.j.m.groen@umcg.nl	Harry J.M. Groen	Genomic aberrations guiding treatment of non-small cell lung cancer patients
+dr.sgw@189.cn	Guowei Shi	17-DMCHAG, a new geldanamycin derivative, inhibits prostate cancer cells through Hsp90 inhibition and survivin downregulation
+yshen@sdu.edu.cn	Yuemao Shen	17-DMCHAG, a new geldanamycin derivative, inhibits prostate cancer cells through Hsp90 inhibition and survivin downregulation
+Hongquan.Zhang@bjmu.edu.cn	Hongquan Zhang	Kindlin-2 interacts with and stabilizes EGFR and is required for EGF-induced breast cancer cell migration
+dimitrova.nadia@gmail.com	Nadya Dimitrova	Data quality at the Bulgarian National Cancer Registry: An overview of comparability, completeness, validity and timeliness
+d.m.parkin@qmul.ac.uk	Donald Maxwell Parkin	Data quality at the Bulgarian National Cancer Registry: An overview of comparability, completeness, validity and timeliness
+13364308696@163.com	Ai-Ping Shi	Aldehyde dehydrogenase 1 (ALDH1) expression is associated with a poor prognosis of bladder cancer
+aamin9@emory.edu	A.R.M. Ruhul Amin	FLLL12 induces apoptosis in lung cancer cells through a p53/p73-independent but death receptor 5-dependent pathway
+wolf-i@inter.net.il	Ido Wolf	Reduced expression and growth inhibitory activity of the aging suppressor klotho in epithelial ovarian cancer
+mettera@cancer.dk	Mette Rye Andersen	Cancer registration, public health and the reform of the European data protection framework: Abandoning or improving European public health research?
+joakim.dillner@ki.se	Joakim Dillner	Cervical cancer screening in Europe: Quality assurance and organisation of programmes
+b.davis.zhu@gmail.com	Bo Zhu	Nelfinavir, an HIV protease inhibitor, induces apoptosis and cell cycle arrest in human cervical cancer cells via the ROS-dependent mitochondrial pathway
+sjiang@nybloodcenter.org	Shibo Jiang	Nelfinavir, an HIV protease inhibitor, induces apoptosis and cell cycle arrest in human cervical cancer cells via the ROS-dependent mitochondrial pathway
+haddad@umn.edu	B.J.S. al-Haddad	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+elima.jedyagba@gmail.com	Elima Jedy-Agba	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+imanueloga@gmail.com	Emmanuel Oga	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+ezeome95@gmail.com	E.R. Ezeome	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+christopherobiorah@yahoo.com	Christopher C. Obiorah	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+michaelokobia@yahoo.com	Michael Okobia	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+f_ogunbiyi@yahoo.com	J. Olufemi Ogunbiyi	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+ukahcornelius@yahoo.com	Cornelius Ozobia Ukah	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+abidemi.omonisi@gmail.com	Abidemi Omonisi	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+xnwofor@yahoo.com	A.M.E. Nwofor	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+figbinoba@gmail.com	Festus Igbinoba	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+cadebamowo@yahoo.com	Clement Adebamowo	Comparability, diagnostic validity and completeness of Nigerian cancer registries
+stefano.rosso@cpo.it	Stefano Rosso	Power analysis to detect time trends on population-based cancer registries data: When size really matters
+sgill@bccancer.bc.ca	Sharlene Gill	Prognostic Value of Molecular Detection of Lymph Node Metastases After Curative Resection of Stage II Colon Cancer: A Systematic Pooled Data Analysis
+xabi@post.harvard.edu	X. Garcia-Albeniz	Immediate versus deferred initiation of androgen deprivation therapy in prostate cancer patients with PSA-only relapse. An observational follow-up study
+noa.rivlin@weizmann.ac.il	Noa Rivlin	p53 orchestrates between normal differentiation and cancer
+abalmain@cc.ucsf.edu	Allan Balmain	Cellular reprogramming in skin cancer
+hiro@fmu.ac.jp	Hiroyuki Suzuki	Prognostic impact of the combination of glucose transporter 1 and ATP citrate lyase in node-negative patients with non-small lung cancer
+divyasingh28sep@gmail.com	Divya Singh	Recent advances in pancreatic cancer: biology, treatment, and prevention
+upadhyayiitr@gmail.com	Ghanshyam Upadhyay	Recent advances in pancreatic cancer: biology, treatment, and prevention
+rsrivastava.lab@gmail.com	Rakesh K. Srivastava	Recent advances in pancreatic cancer: biology, treatment, and prevention
+sharmila.shankar@va.gov	Sharmila Shankar	Recent advances in pancreatic cancer: biology, treatment, and prevention
+svetlana.komarova@mcgill.ca	Svetlana V. Komarova	Peroxiredoxin 4: A novel secreted mediator of cancer induced osteoclastogenesis
+g.ploussard@gmail.com	Guillaume Ploussard	Prognostic effect of neuroendocrine differentiation in prostate cancer: A critical review
+Jalid.Sehouli@charite.de	Jalid Sehouli	Alopecia as surrogate marker for chemotherapy response in patients with primary epithelial ovarian cancer: A metaanalysis of four prospective randomised phase III trials with 5114 patients
+gangliu11@gdmc.edu.cn	Gang Liu	miR-5100 promotes tumor growth in lung cancer by targeting Rab6
+hezhy@sysucc.org.cn	Z. He	Dosimetric comparison of moderate deep inspiration breath-hold and free-breathing intensity-modulated radiotherapy for left-sided breast cancer
+Maryam.lustberg@osumc.edu	Maryam B. Lustberg	Stabilization of bone marrow infiltration by metastatic breast cancer with continuous doxorubicin
+ujch@stanford.edu	John Hornberger	Outcome and economic implications of proteomic test-guided second- or third-line treatment for advanced non-small cell lung cancer: Extended analysis of the PROSE trial
+fred.hirsch@ucdenver.edu	Fred R. Hirsch	Outcome and economic implications of proteomic test-guided second- or third-line treatment for advanced non-small cell lung cancer: Extended analysis of the PROSE trial
+qli@cedarecon.com	Qianyi Li	Outcome and economic implications of proteomic test-guided second- or third-line treatment for advanced non-small cell lung cancer: Extended analysis of the PROSE trial
+rpage@txcc.com	Ray D. Page	Outcome and economic implications of proteomic test-guided second- or third-line treatment for advanced non-small cell lung cancer: Extended analysis of the PROSE trial
+m.vanderheiden@iknl.nl	M. van der Heiden-van der Loo	Population based study on sentinel node biopsy before or after neoadjuvant chemotherapy in clinically node negative breast cancer patients: Identification rate and influence on axillary treatment
+elizabeth.vaneycken@kankerregister.org	E. Van Eycken	Completeness and registration bias in PROCARE, a Belgian multidisciplinary project on cancer of the rectum with participation on a voluntary basis
+p.morgagni@ausl.fo.it	Paolo Morgagni	Gastric stump carcinoma after distal subtotal gastrectomy for early gastric cancer: experience of 541 patients with long-term follow-up
+Nils.Cordes@OncoRay.de	Nils Cordes	LIM-only protein FHL2 critically determines survival and radioresistance of pancreatic cancer cells
+lih@fhcrc.org	Li Hsu	A Model to Determine Colorectal Cancer Risk Using Common Genetic Susceptibility Loci
+upeters@fhcrc.org	Ulrike Peters	A Model to Determine Colorectal Cancer Risk Using Common Genetic Susceptibility Loci
+mgingras@bcm.edu	Marie-Claude Gingras	Genomic profiling guides the choice of molecular targeted therapy of pancreatic cancer
+min-li@ouhsc.edu	Min Li	Genomic profiling guides the choice of molecular targeted therapy of pancreatic cancer
+keithd@progen-pharma.com	Keith Dredge	PG545 enhances anti-cancer activity of chemotherapy in ovarian models and increases surrogate biomarkers such as VEGF in preclinical and clinical plasma samples
+shridhar.vijayalakshmi@mayo.edu	Viji Shridhar	PG545 enhances anti-cancer activity of chemotherapy in ovarian models and increases surrogate biomarkers such as VEGF in preclinical and clinical plasma samples
+gbzhou@ioz.ac.cn	Guang-Biao Zhou	Tobacco smoke induces production of chemokine CCL20 to promote lung cancer
+tanweishen@hotmail.com	Wei Shen Tan	Management of Node-Positive Bladder Cancer After Neoadjuvant Chemotherapy and Radical Cystectomy: A Survey of Current UK Practice
+mfalzon@utmb.edu	Miriam Falzon	Restoration of the anti-proliferative and anti-migratory effects of 1,25-dihydroxyvitamin D by silibinin in vitamin D-resistant colon cancer cells
+robin.schaffar@unige.ch	Robin Schaffar	Cause-specific or relative survival setting to estimate population-based net survival from cancer? An empirical evaluation using women diagnosed with breast cancer in Geneva between 1981 and 1991 and followed for 20 years after diagnosis
+saroner@hsph.harvard.edu	Sarah A. Aroner	Plasma matrix metalloproteinase 2 levels and breast cancer risk
+ahmed.khair@yahoo.com	Ahmed K. Ibrahim	Breast cancer correlates in a cohort of breast screening program participants in Riyadh, KSA
+paulortrodrigues@uol.com.br	Paulo Rodrigues	Safety of I.V. Nonnitrogen Bisphosphonates on the Occurrence of Osteonecrosis of the Jaw: Long-Term Follow-Up on Prostate Cancer Patients
+nitu86mishra@gmail.com	Nitu Kumari	Exosomal protein interactors as emerging therapeutic targets in urothelial bladder cancer
+uburra@yahoo.com	Usha Agrawal	Exosomal protein interactors as emerging therapeutic targets in urothelial bladder cancer
+yjtan@hnu.edu.cn	Yongjun Tan	FOXA2 attenuates the epithelial to mesenchymal transition by regulating the transcription of E-cadherin and ZEB2 in human breast cancer
+marta.rossi@marionegri.it	Marta Rossi	Non-enzymatic antioxidant capacity and risk of gastric cancer
+susannacramb@cancerqld.org.au	Susanna M. Cramb	Inferring lung cancer risk factor patterns through joint Bayesian spatio-temporal analysis
+ymiyoshi@hyo-med.ac.jp	Yasuo Miyoshi	High Ki-67 Expression and Low Progesterone Receptor Expression Could Independently Lead to a Worse Prognosis for Postmenopausal Patients With Estrogen Receptor-Positive and HER2-Negative Breast Cancer
+yakao@gifu-u.ac.jp	Yukihiro Akao	MicroRNA-124 inhibits cancer cell growth through PTB1/PKM1/PKM2 feedback cascade in colorectal cancer
+dan.cacsire-castillo@meduniwien.ac.at	Dan Cacsire Castillo-Tong	Molecular characterization of 7 new established cell lines from high grade serous ovarian cancer
+vares@nirs.go.jp	Guillaume Vares	Progesterone generates cancer stem cells through membrane progesterone receptor-triggered signaling in basal-like human mammary cells
+abdularifkhan@gmail.com	Abdul Arif Khan	Computational prediction of Escherichia coli proteins host subcellular targeting and their implications in colorectal cancer etiology
+paul.lorigan@christie.nhs.uk	Paul Lorigan	Optimal management of immune-related toxicities associated with checkpoint inhibitors in lung cancer
+pizzuti8@hotmail.com	Laura Pizzuti	Metformin and breast cancer: Basic knowledge in clinical context
+pvici@ifo.it	Patrizia Vici	Metformin and breast cancer: Basic knowledge in clinical context
+dilauro@ifo.it	Luigi Di Lauro	Metformin and breast cancer: Basic knowledge in clinical context
+sergidome@libero.it	Domenico Sergi	Metformin and breast cancer: Basic knowledge in clinical context
+maddalena.barba@gmail.com	Maddalena Barba	Metformin and breast cancer: Basic knowledge in clinical context
+sanoa-tky@umin.ac.jp	Atsushi Sano	Spontaneous regression of small cell lung cancer
+ssun@emory.edu	Shi-Yong Sun	Enhancing therapeutic efficacy of the MEK inhibitor, MEK162, by blocking autophagy or inhibiting PI3K/Akt signaling in human lung cancer cells
+DMoro-Sibilot@chu-grenoble.fr	Denis Moro-Sibilot	Outcomes and resource use of non-small cell lung cancer (NSCLC) patients treated with first-line platinum-based chemotherapy across Europe: FRAME prospective observational study
+yong_song6310@gmail.com	Yong Song	Can EGFR mutations in plasma or serum be predictive markers of non-small-cell lung cancer? A meta-analysis
+cbc1971@yuhs.ac	Byoung Chul Cho	The frequency and impact of FGFR1 amplification on clinical outcomes in Korean patients with small cell lung cancer
+shimhs@yuhs.ac	Hyo Sup Shim	The frequency and impact of FGFR1 amplification on clinical outcomes in Korean patients with small cell lung cancer
+zhaoyingjun@fudan.edu.cn	Yingjun Zhao	MicroRNA-30d-5p inhibits tumour cell proliferation and motility by directly targeting CCNE2 in non-small cell lung cancer
+xhhe@fudan.edu.cn	Xianghuo He	MicroRNA-30d-5p inhibits tumour cell proliferation and motility by directly targeting CCNE2 in non-small cell lung cancer
+mark.saunders@christie.nhs.uk	Mark P. Saunders	Circulating Tumor Cell Enumeration in a Phase II Trial of a Four-Drug Regimen in Advanced Colorectal Cancer
+hmotakyun@ncc.re.kr	Tak Yun	A nomogram to predict brain metastasis as the first relapse in curatively resected non-small cell lung cancer patients
+sebabuti@libero.it	Sebastiano Buti	Predictive role of erythrocyte macrocytosis during treatment with pemetrexed in advanced non-small cell lung cancer patients
+ctc004@poh.osaka-med.ac.jp	M. Yoshida	Combination chemotherapy with bevacizumab and S-1 for elderly patients with metastatic colorectal cancer (BASIC trial)
+jrhecht@mednet.ucla.edu	J. Randolph Hecht	SPIRITT: A Randomized, Multicenter, Phase II Study of Panitumumab with FOLFIRI and Bevacizumab with FOLFIRI as Second-Line Treatment in Patients with Unresectable Wild Type KRAS Metastatic Colorectal Cancer
+Ern_Yu_Tan@ttsh.com.sg	Ern Yu Tan	Extent of Margin Involvement, Lymphovascular Invasion, and Extensive Intraductal Component Predict for Residual Disease After Wide Local Excision for Breast Cancer
+Fred.witjes@radboudumc.nl	J. Alfred Witjes	Pharmacokinetic, Pharmacodynamic, and Activity Evaluation of TMX-101 in a Multicenter Phase 1 Study in Patients With Papillary Non-Muscle-Invasive Bladder Cancer
+streweek@mac.com	Shaun Treweek	Do participants in adjuvant breast cancer trials reflect the breast cancer patient population?
+ruth.dryden@iriss.org.uk	Ruth Dryden	Do participants in adjuvant breast cancer trials reflect the breast cancer patient population?
+Colin.McCowan@glasgow.ac.uk	Colin McCowan	Do participants in adjuvant breast cancer trials reflect the breast cancer patient population?
+A.Harrow@dundee.ac.uk	Alison Harrow	Do participants in adjuvant breast cancer trials reflect the breast cancer patient population?
+AThompson1@mdanderson.org	Alastair M. Thompson	Do participants in adjuvant breast cancer trials reflect the breast cancer patient population?
+lola@unavarra.es	M.D. Ugarte	Analyzing the evolution of young people's brain cancer mortality in Spanish provinces
+ogar@servidor.unam.mx	Oscar Arrieta	Randomized, open-label trial evaluating the preventive effect of tetracycline on afatinib induced-skin toxicities in non-small cell lung cancer patients
+wellerm2@ccf.org	Michael A. Weller	Adjuvant Versus Neoadjuvant Androgen Deprivation With Radiotherapy for Prostate Cancer: Does Sequencing Matter?
+w.onstenk@erasmusmc.nl	Wendy Onstenk	Gene expression profiles of circulating tumor cells versus primary tumors in metastatic breast cancer
+mw.mourad@umontreal.ca	Walid Mourad	Role of CD154 in cancer pathogenesis and immunotherapy
+davidtougeron@hotmail.fr	D. Tougeron	Predictors of disease-free survival in colorectal cancer with microsatellite instability: An AGEO multicentre study
+Arndt.Borkhardt@med.uni-duesseldorf.de	Arndt Borkhardt	Tumoral stem cell reprogramming as a driver of cancer: Theory, biological models, implications in cancer therapy
+evgeny@imyanitov.spb.ru	Evgeny N. Imyanitov	Novel ALK fusion partners in lung cancer
+faupe@libero.it	Fausto Petrelli	Enzalutamide After Docetaxel and Abiraterone Acetate Treatment in Prostate Cancer: A Pooled Analysis of 10 Case Series
+yz37@georgetown.edu	Yun-Ling Zheng	Telomere length variation: A potential new telomere biomarker for lung cancer risk
+mattymo@alice.it	Matteo Santoni	Conditional Survival of Patients Treated With First-Line Chemotherapy for Metastatic Urothelial Cancer
+brian.jonas@ucdmc.ucdavis.edu	Brian A. Jonas	Paraneoplastic leukemoid reaction as a marker of tumor progression in non-small cell lung cancer
+faupe@libero.it	Fausto Petrelli	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+filippo.pietrantonio@istitutotumori.mi.it	Filippo Pietrantonio	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+chiaracremolini@gmail.com	Chiara Cremolini	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+maria.dibartolomeo@istitutotumori.mi.it	Maria Di Bartolomeo	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+artefice2003@hotmail.com	Andrea Coinu	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+lo.ve@tiscali.it	Veronica Lonati	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+filippo.debraud@istitutotumori.mi.it	Filippo de Braud	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+lsandro.barni@ospedale.treviglio.bg.it	Sandro Barni	Early tumour shrinkage as a prognostic factor and surrogate end-point in colorectal cancer: A systematic review and pooled-analysis
+berthold.streubel@meduniwien.ac.at	Berthold Streubel	FOLFOX4 Plus Cetuximab for Patients With Previously Untreated Metastatic Colorectal Cancer According to Tumor RAS and BRAF Mutation Status: Updated Analysis of the CECOG/CORE 1.2.002 Study
+jianghui.meng@ucd.ie	Jianghui Meng	Role of SNARE proteins in tumourigenesis and their potential as targets for novel anti-cancer therapeutics
+jiafu.wang@dcu.ie	Jiafu Wang	Role of SNARE proteins in tumourigenesis and their potential as targets for novel anti-cancer therapeutics
+ltycqfs@126.com	Tian-You Luo	Tree-in-bud pattern in central lung cancer: CT findings and pathologic correlation
+nicholas.barker@imb.a-star.edu.sg	Nick Barker	Epithelial stem cells and intestinal cancer
+jklemp@kumc.edu	Jennifer R. Klemp	Breast Cancer Prevention Across the Cancer Care Continuum
+julie.lynch@va.gov	Julie A. Lynch	Molecular Diagnostic Testing in Breast Cancer
+achan@mgh.harvard.edu	Andrew T. Chan	Nutrients, Foods, and Colorectal Cancer Prevention
+zm3p@virginia.edu	Zaw W. Myint	Tumor lysis syndrome in a patient with metastatic non-small cell lung cancer: Case report and literature review
+jelmore@u.washington.edu	Joann G. Elmore	Breast Cancer Screening : An Evidence-Based Update
+pjabbarzadeh@gmail.com	Parham Jabbarzadeh Kaboli	MicroRNA-based therapy and breast cancer: A comprehensive review of novel therapeutic strategies from diagnosis to treatment
+asmah@upm.edu.my	Asmah Rahmat	MicroRNA-based therapy and breast cancer: A comprehensive review of novel therapeutic strategies from diagnosis to treatment
+patimah@upm.edu.my	Patimah Ismail	MicroRNA-based therapy and breast cancer: A comprehensive review of novel therapeutic strategies from diagnosis to treatment
+lkh@upm.edu.my	King-Hwa Ling	MicroRNA-based therapy and breast cancer: A comprehensive review of novel therapeutic strategies from diagnosis to treatment
+mluz.valero@uv.es	Ma Luz Valero Rustarazo	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+azu_car2000@yahoo.com.mx	Maria Luisa Labra-Barrios	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+taveratapia@hotmail.com	Alejandra Tavera-Tapia	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+maestherha2@yahoo.com.mx	Maria Esther Herrera-Aguirre	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+fguisa@fucam.org.mx	Fernando Guisa-Hohenstein	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+jpluna@cell.cinvestav.mx	Juan Pedro Luna-Arias	Determination of the protein expression profiles of breast cancer cell lines by quantitative proteomics using iTRAQ labelling and tandem mass spectrometry
+negoiionut@gmail.com	Ionut Negoi	The epithelial to mesenchymal transition in pancreatic cancer: A systematic review
+kreeder@med.unc.edu	Katherine E. Reeder-Hayes	Health Disparities Across the Breast Cancer Continuum
+Kirsten.moysich@roswellpark.org	Kirsten B. Moysich	Epithelial ovarian cancer and recreational physical activity: A review of the epidemiological literature and implications for exercise prescription
+rbristow@uci.edu	Robert E. Bristow	Impact of National Cancer Institute Comprehensive Cancer Centers on Ovarian Cancer Treatment and Survival
+nkaltork@med.cornell.edu	Nasser Altorki	Computed Tomography Screening : The International Early Lung Cancer Action Program Experience
+maurizio.muscaritoli@uniroma1.it	Maurizio Muscaritoli	Cachexia: A preventable comorbidity of cancer. A T.A.R.G.E.T. approach
+Stanleyson.Hato@radboudumc.nl	Stanleyson V. Hato	Cellular immunotherapy in ovarian cancer: Targeting the stem of recurrence
+anne.butler@unc.edu	Anne M. Butler	Cancer Incidence Among US Medicare ESRD Patients Receiving Hemodialysis, 1996-2009
+raquel.reinbolt@osumc.edu	Raquel E. Reinbolt	Endocrine Therapy in Breast Cancer: The Neoadjuvant, Adjuvant, and Metastatic Approach
+tamarperri@gmail.com	Tamar Perri	Fertility treatments and invasive epithelial ovarian cancer risk in Jewish Israeli BRCA1 or BRCA2 mutation carriers
+Sanjeewa.Seneviratne@waikatodhb.health.nz	S.A. Seneviratne	Risk factors associated with mortality from breast cancer in Waikato, New Zealand: a case-control study
+sean.grondin@albertahealthservices.ca	Sean C. Grondin	Surgeons and Lung Cancer Screening : Rules of Engagement
+zucchetto.epi@cro.it	Antonella Zucchetto	Changes in cervical cancer incidence following the introduction of organized screening in Italy
+tanya@jcbose.ac.in	Tanya Das	Mithramycin A sensitizes therapy-resistant breast cancer stem cells toward genotoxic drug doxorubicin
+cd422@georgetown.edu	Chiranjeev Dash	An exercise trial targeting African-American women with metabolic syndrome and at high risk for breast cancer: Rationale, design, and methods
+awaxman@salud.unm.edu	Alan G. Waxman	Cervical Cancer Prevention: Immunization and Screening 2015
+Emilia.Simeonova@gmail.com	Emilia Simeonova	Does women's education affect breast cancer risk and survival? Evidence from a population based social experiment in education
+scelog@iarc.fr	Ghislaine Scelo	Regional Geographic Variations in Kidney Cancer Incidence Rates in European Countries
+boorjian.stephen@mayo.edu	Stephen A. Boorjian	Radical prostatectomy in high-risk and locally advanced prostate cancer: Mayo Clinic perspective
+ivanafrid@gmail.com	Ivana Fridrichova	CXCL12 and ADAM23 hypermethylation are associated with advanced breast cancers
+ugo.pastorino@istitutotumori.mi.it	Ugo Pastorino	Refining Strategies to Identify Populations to Be Screened for Lung Cancer
+alessandro.santin@yale.edu	Alessandro D. Santin	Weekly ixabepilone with or without biweekly bevacizumab in the treatment of recurrent or persistent uterine and ovarian/primary peritoneal/fallopian tube cancers: A retrospective review
+jonesd2@mskcc.org	David R. Jones	Results of the National Lung Cancer Screening Trial : Where Are We Now?
+shankinson@schoolph.umass.edu	Susan E Hankinson	Endogenous estrogens and the risk of breast, endometrial, and ovarian cancers
+menesesk@uab.edu	Karen Meneses	Multimorbidity and Breast Cancer
+svatek@uthscsa.edu	Robert S. Svatek	Novel Therapeutic Approaches for Recurrent Nonmuscle Invasive Bladder Cancer
+t.krech@uke.de	Till Krech	HDAC1 overexpression independently predicts biochemical recurrence and is associated with rapid tumor cell proliferation and genomic instability in prostate cancer
+lilinghenan@126.com	Ling Li	Increased expression of LncRNA BANCR is associated with clinical progression and poor prognosis in gastric cancer
+jliao@stanford.edu	Joseph C. Liao	Advances in Imaging Technologies in the Evaluation of High-Grade Bladder Cancer
+dewood@u.washington.edu	Douglas E. Wood	National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines for Lung Cancer Screening
+jwang699@ustc.edu.cn	Jun Wang	Delivery of bortezomib with nanoparticles for basal-like triple-negative breast cancer therapy
+arjun.balar@nyumc.org	Arjun V. Balar	Neoadjuvant Therapy in Muscle-Invasive Bladder Cancer : A Model for Rational Accelerated Drug Development
+jesper.holst.pedersen@rh.regionh.dk	Jesper Holst Pedersen	Long-term Oncologic and Financial Implications of Lung Cancer Screening
+bridget.koontz@duke.edu	Bridget F. Koontz	Radiotherapy before and after radical prostatectomy for high-risk and locally advanced prostate cancer
+clevin@uw.edu	Carol E. Levin	An extended cost-effectiveness analysis of publicly financed HPV vaccination to prevent cervical cancer in China
+mdelcarmen@partners.org	Marcela Guadalupe del Carmen	Clinical characteristics and outcomes of patients with stage I epithelial ovarian cancer compared with fallopian tube cancer
+claudia.marchetti@gmail.com	Claudia Marchetti	Advances in anti-angiogenic agents for ovarian cancer treatment: The role of trebananib (AMG 386)
+christie.jeon@cshs.org	Christie Y. Jeon	Statin use and survival in elderly patients with endometrial cancer
+takeuchi_daichan@yahoo.co.jp	Daisuke Takeuchi	Prevalence and management of colorectal neoplasia in surgically treated esophageal cancer patients
+sophie.lewis@sydney.edu.au	Sophie Lewis	A qualitative study of women's experiences of healthcare, treatment and support for metastatic breast cancer
+jasmine.yee@sydney.edu.au	Jasmine Yee	A qualitative study of women's experiences of healthcare, treatment and support for metastatic breast cancer
+sharon.kilbreath@sydney.edu.au	Sharon Kilbreath	A qualitative study of women's experiences of healthcare, treatment and support for metastatic breast cancer
+karen.willis@acu.edu.au	Karen Willis	A qualitative study of women's experiences of healthcare, treatment and support for metastatic breast cancer
+ruonanliuhenan@163.com	Ruonan Liu	MiR-498 regulated FOXO3 expression and inhibited the proliferation of human ovarian cancer cells
+muwonger@iarc.fr	Richard Muwonge	Risk of invasive cancer among women visually screened and colposcopy triaged by trained nurses in rural south India
+vickersa@mskcc.org	Andrew J. Vickers	A Systematic Literature Review of Life Expectancy Prediction Tools for Patients with Localized Prostate Cancer
+samirp@nitrkl.ac.in	Samir Kumar Patra	Clusterin gene is predominantly regulated by histone modifications in human colon cancer and ectopic expression of the nuclear isoform induces cell death
+tish.knobf@yale.edu	M. Tish Knobf	The Transition Experience to Breast Cancer Survivorship
+smwiseman@providencehealth.bc.ca	Sam M. Wiseman	Prognostic significance of autocrine motility factor receptor expression by colorectal cancer and lymph node metastases
+13514212975@163.com	Y. Wang	Regular aspirin use and stomach cancer risk in China
+chunjianshen@sina.com	C. Shen	Regular aspirin use and stomach cancer risk in China
+jianniange@126.com	J. Ge	Regular aspirin use and stomach cancer risk in China
+hongduan@126.com	H. Duan	Regular aspirin use and stomach cancer risk in China
+giulia.veronesi@ieo.it	Giulia Veronesi	Lung Cancer Screening : The European Perspective
+xschen@ciac.ac.cn	Xuesi Chen	Targeted delivery of cisplatin by LHRH-peptide conjugated dextran nanoparticles suppresses breast cancer growth and metastasis
+katsutoshi-tky@umin.ac.jp	Katsutoshi Oda	The anti-malarial chloroquine suppresses proliferation and overcomes cisplatin resistance of endometrial cancer cells via autophagy inhibition
+farley.david@mayo.edu	David R. Farley	Forequarter amputation for recurrent breast cancer
+sheebamall@yahoo.com	Sheeba Murad	Prevalence of High risk Human Papillomavirus in cervical dysplasia and cancer samples from twin cities in Pakistan
+ylyu@jlu.edu.cn	Yongli Yu	Antitumor activity of mHSP65-TTL enhanced by administration of low dose cyclophosphamide in pancreatic cancer-bearing mice
+zxw515@sohu.com	Xuewen Zhang	Antitumor activity of mHSP65-TTL enhanced by administration of low dose cyclophosphamide in pancreatic cancer-bearing mice
+schen@coh.org	Shiuan Chen	Cross-talk between ER and HER2 regulates c-MYC-mediated glutamine metabolism in aromatase inhibitor resistant breast cancer cells
+liu.tianshu@zs-hospital.sh.cn	Tianshu Liu	Low percentage of CD24hiCD27+CD19+ B cells decelerates gastric cancer progression in XELOX-treated patients
+yiwei_chu@126.com	Yiwei Chu	Low percentage of CD24hiCD27+CD19+ B cells decelerates gastric cancer progression in XELOX-treated patients
+john.mitchell@ucdenver.edu	John D. Mitchell	Current Estimate of Costs of Lung Cancer Screening in the United States
+pbouvet@ens-lyon.fr	Philippe Bouvet	The roles of nucleolin subcellular localization in cancer
+cuiheng20@163.com	Heng Cui	PRSS3 expression is associated with tumor progression and poor prognosis in epithelial ovarian cancer
+changxiaohong@pkuph.edu.cn	Xiaohong Chang	PRSS3 expression is associated with tumor progression and poor prognosis in epithelial ovarian cancer
+zelefskm@mskcc.org	Michael J. Zelefsky	The Natural History and Predictors of Outcome Following Biochemical Relapse in the Dose Escalation Era for Prostate Cancer Patients Undergoing Definitive External Beam Radiotherapy
+jw2459@columbia.edu	Jason D. Wright	Use and duration of chemotherapy and its impact on survival in early-stage ovarian cancer
+chwu@tmu.edu.tw	Chih-Hsiung Wu	Pterostilbene inhibits triple-negative breast cancer metastasis via inducing microRNA-205 expression and negatively modulates epithelial-to-mesenchymal transition
+ctyeh@s.tmu.edu.tw	Chi-Tai Yeh	Pterostilbene inhibits triple-negative breast cancer metastasis via inducing microRNA-205 expression and negatively modulates epithelial-to-mesenchymal transition
+rafahlem@yahoo.fr	Ahlem Rafrafi	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+Kaabachi.safa@yahoo.com	Safa Kaabachi	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+Kaabachi.wajih@gmail.com	Wajih Kaabachi	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+chahedbesma@yahoo.fr	Besma Chahed	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+emyra-benamor@yahoo.fr	Amira Ben Amor	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+marwambarik@yahoo.fr	Marwa Mbarik	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+charradrihab@hotmail.fr	Rihab Charrad	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+ouledsalahmarwa@yahoo.fr	Marwa Ouled Salah	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+kamel.hamzaoui@gmail.com	Kamel Hamzaoui	CCR2-64I polymorphism is associated with Non-Small Cell Lung Cancer in Tunisian patients
+guoj_zhang@yahoo.com	G.J. Zhang	Environmental and DNA repair risk factors for breast cancer in South China
+wau@stu.edu.cn	W.W. Au	Environmental and DNA repair risk factors for breast cancer in South China
+David.Johnson3@unchealth.unc.edu	David C. Johnson	Surgical Advances in Bladder Cancer: At What Cost?
+patels1@mskcc.org	Snehal G. Patel	Cancer of the Oral Cavity
+karin.westberg@ds.se	K. Westberg	Time to local recurrence as a prognostic factor in patients with rectal cancer
+tanja.langsenlehner@medunigraz.at	Tanja Langsenlehner	Evaluation of the platelet-to-lymphocyte ratio as a prognostic indicator in a European cohort of patients with prostate cancer treated with radiotherapy
+sainzrosa@uniovi.es	Rosa M. Sainz	Manganese superoxide dismutase (SOD2/MnSOD)/catalase and SOD2/GPx1 ratios as biomarkers for tumor progression and metastasis in prostate, colon, and lung cancer
+mayojuan@uniovi.es	Juan C. Mayo	Manganese superoxide dismutase (SOD2/MnSOD)/catalase and SOD2/GPx1 ratios as biomarkers for tumor progression and metastasis in prostate, colon, and lung cancer
+may3md@naver.com	Hye Won Chung	Serum ENA78/CXCL5, SDF-1/CXCL12, and their combinations as potential biomarkers for prediction of the presence and distant metastasis of primary gastric cancer
+bayasi8@gmail.com	Bayasi Guleng	miR218-5p regulates the proliferation of gastric cancer cells by targeting TFF1 in an Erk1/2-dependent manner
+renjianl@xmu.edu.cn	Jian-Lin Ren	miR218-5p regulates the proliferation of gastric cancer cells by targeting TFF1 in an Erk1/2-dependent manner
+jkuechle@gmail.com	Joseph B. Kuechle	A case of long term survival with skeletal only metastatic breast cancer
+bmcg112960@aol.com	Brian E. McGrath	A case of long term survival with skeletal only metastatic breast cancer
+khoury@roswellpark.org	Thaer Khoury	A case of long term survival with skeletal only metastatic breast cancer
+ermindell@gmail.com	Eugene R. Mindell	A case of long term survival with skeletal only metastatic breast cancer
+arpsatsangi@gmail.com	Arpan Satsangi	Synthesis of a novel, sequentially active-targeted drug delivery nanoplatform for breast cancer therapy
+yfong@coh.org	Yuman Fong	Simultaneous resection for rectal cancer with synchronous liver metastasis is a safe procedure
+tamgches@sina.com	Cheng Wu Tang	Prolonged adjuvant capecitabine chemotherapy improved survival of stage IIIA gastric cancer after D2 gastrectomy
+kevin.ksjeng@gmail.com	Kuo-Shyang Jeng	Heterogeneity of hepatocellular carcinoma contributes to cancer progression
+bunjira_m@hotmail.com	Bunjira Makond	Probabilistic modeling of short survivability in patients with brain metastasis from lung cancer
+kjwang@mail.ntust.edu.tw	Kung-Jeng Wang	Probabilistic modeling of short survivability in patients with brain metastasis from lung cancer
+albert.hua@msa.hinet.net	Kung-Min Wang	Probabilistic modeling of short survivability in patients with brain metastasis from lung cancer
+blang@hku.hk	B.H.-H. Lang	Initial attributable cost and economic burden of clinically-relevant differentiated thyroid cancer: A health care service provider perspective
+chiehyu@ntunhs.edu.tw	Chieh-Yu Liu	Adjuvant treatments of breast cancer increase the risk of depressive disorders: A population-based study
+Steven.Nurkin@Roswellpark.org	Steven Nurkin	Pre-operative unintentional weight loss as a risk factor for surgical outcomes after elective surgery in patients with disseminated cancer
+ewa.langner@gmail.com	Ewa Langner	Quinaldic acid inhibits proliferation of colon cancer HT-29 cells in vitro: Effects on signaling pathways
+kareny@ms10.hinet.net	Jung-Nien Lai	Detection of a negative correlation between prescription of Chinese herbal products containing coumestrol, genistein or daidzein and risk of subsequent endometrial cancer among tamoxifen-treated female breast cancer survivors in Taiwan between 1998 and 2008: A population-based study
+sandra.tuyaerts@uzleuven.be	S. Tuyaerts	The immune system in the normal endometrium and implications for endometrial cancer development
+rjs5y@virginia.edu	Richard J. Santen	Estrogen metabolites and breast cancer
+david.candon@ucd.ie	David Candon	The effects of cancer on older workers in the English labour market
+p.murchie@abdn.ac.uk	P. Murchie	Effect of longer health service provider delays on stage at diagnosis and mortality in symptomatic breast cancer
+medhand@ajou.ac.kr	Tae Hee Kim	Tumor metabolism and perfusion ratio assessed by 18F-FDG PET/CT and DCE-MRI in breast cancer patients: Correlation with tumor subtype and histologic prognostic factors
+sineadhmcevoy@gmail.com	S.H. McEvoy	Should abdominal sequences be included in prostate cancer MR staging studies?
+guptaarjun90@gmail.com	Arjun Gupta	Gastric cancer and the microbiome
+goovaerts@biomedware.com	Pierre Goovaerts	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+hxiao18@ufl.edu	Hong Xiao	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+george.adunlin@gmail.com	Georges Adunlin	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+askalaali@gmail.com	Askal Ali	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+ftan@math.iupui.edu	Fei Tan	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+clement.gwede@moffitt.org	Clement K. Gwede	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+YH2010FL@gmail.com	Youjie Huang	Geographically-weighted regression analysis of percentage of late-stage prostate cancer diagnosis in Florida
+skbharti.ggu@gmail.com	Sanjay Kumar Bharti	Anti-cancer chalcones: Structural and molecular target perspectives
+c.harlow@ed.ac.uk	Christopher R. Harlow	Local estrogen metabolism in epithelial ovarian cancer suggests novel targets for therapy
+h16yang@students.latrobe.edu.au	Haofan Yang	Data mining in lung cancer pathologic staging diagnosis: Correlation between clinical and pathology information
+phoebe.chen@latrobe.edu.au	Yi-Ping Phoebe Chen	Data mining in lung cancer pathologic staging diagnosis: Correlation between clinical and pathology information
+jibingchen398@163.com	Jibing Chen	Safety and efficacy study of nasopharyngeal cancer stem cell vaccine
+qiaoli@umich.edu	Qiao Li	Safety and efficacy study of nasopharyngeal cancer stem cell vaccine
+mbouvet@ucsd.edu	Michael Bouvet	Fluorescence-guided surgery, but not bright-light surgery, prevents local recurrence in a pancreatic cancer patient derived orthotopic xenograft (PDOX) model resistant to neoadjuvant chemotherapy (NAC)
+Nicholas.vanAs@rmh.nhs.uk	N.J. van As	Stereotactic Body Radiotherapy for Prostate Cancer
+martha.hoffmann@meduniwien.ac.at	M. Hoffmann	Quality of life aspects in the management of thyroid cancer
+xuzhongfa2691@163.com	Zhongfa Xu	P21-activated kinase 1 and 4 were associated with colorectal cancer metastasis and infiltration
+grwillia@unch.unc.edu	Grant R. Williams	Self-directed physical activity intervention in older adults undergoing adjuvant chemotherapy for colorectal cancer: Design of a randomized controlled trial
+tokare@niehs.nih.gov	Erik J. Tokar	Chronic inorganic arsenic exposure in vitro induces a cancer cell phenotype in human peripheral lung epithelial cells
+Samshap@mweb.co.za	Samuel Shapiro	Misrepresentation of the risk of ovarian cancer among women using menopausal hormones. Spurious findings in a meta-analysis
+Regina.Ziegler@nih.gov	Regina G. Ziegler	Epidemiologic studies of estrogen metabolism and breast cancer
+spetanid@auth.gr	Savvas Petanidis	MiR-205 and miR-218 expression is associated with carboplatin chemoresistance and regulation of apoptosis via Mcl-1 and Survivin in lung cancer cells
+mario.coccia@ircres.cnr.it	Mario Coccia	The Nexus between technological performances of countries and incidence of cancers in society
+chenyc@ab.edu	Yi Charlie Chen	Dietary compounds galangin and myricetin suppress ovarian cancer cell angiogenesis
+matthew.galsky@mssm.edu	Matthew D. Galsky	Neoadjuvant Chemotherapy in the Management of Muscle-Invasive Bladder Cancer : Bridging the Gap Between Evidence and Practice
+schauha1@uthsc.edu	Subhash C. Chauhan	Nanoparticle formulation of ormeloxifene for pancreatic cancer
+nnbm.editor@gmail.com	Lajos P. Balogh	Caging cancer
+bbonavida@mednet.ucla.edu	Benjamin Bonavida	Prognostic significance of YY1 protein expression and mRNA levels by bioinformatics analysis in human cancers: A therapeutic target
+jiecaodoctor@163.com	Jie Cao	miR-892a regulated PPP2R2A expression and promoted cell proliferation of human colorectal cancer cells
+reyhaneh.houshyar@gmail.com	Reyhane Hoshyar	Antitumor activity of aqueous extract of Ziziphus jujube fruit in breast cancer: An in vitro and in vivo study
+Allen.mark@mayo.edu	Mark S. Allen	Computed Tomographic Screening for Lung Cancer : The Mayo Clinic Experience
+r.k.cramer@reading.ac.uk	Rainer Cramer	Distribution analysis of the putative cancer marker S100A4 across invasive squamous cell carcinoma penile tissue
+wentien@vitatex.com	Wen-Tien Chen	Treatment monitoring of patients with epithelial ovarian cancer using invasive circulating tumor cells (iCTCs)
+russop@mskcc.org	Paul Russo	Long-Term Survival Rates after Resection for Locally Advanced Kidney Cancer: Memorial Sloan Kettering Cancer Center 1989 to 2012 Experience
+targ@her.forthnet.gr	Michael I. Koukourakis	Intensified autophagy compromises the efficacy of radiotherapy against prostate cancer
+H17lee@stduents.latrobe.edu.au	Howard Lee	Image based computer aided diagnosis system for cancer detection
+phoebe.chen@latrobe.edu.au	Yi-Ping Phoebe Chen	Image based computer aided diagnosis system for cancer detection
+Susan.Randall@uhn.ca	S. Randall Armel	The sooner the better: Genetic testing following ovarian cancer diagnosis
+r.marques@erasmusmc.nl	Rute B. Marques	High Efficacy of Combination Therapy Using PI3K/AKT Inhibitors with Androgen Deprivation in Prostate Cancer Preclinical Models
+hjyu@simm.ac.cn	Haijun Yu	Highly efficient ablation of metastatic breast cancer using ammonium-tungsten-bronze nanocube as a novel 1064 nm-laser-driven photothermal agent
+ypli@simm.ac.cn	Yaping Li	Highly efficient ablation of metastatic breast cancer using ammonium-tungsten-bronze nanocube as a novel 1064 nm-laser-driven photothermal agent
+shaoqinliu@hit.edu.cn	Shaoqin Liu	Highly efficient ablation of metastatic breast cancer using ammonium-tungsten-bronze nanocube as a novel 1064 nm-laser-driven photothermal agent
+andrew.jones@york.ac.uk	Andrew M. Jones	A discrete latent factor model for smoking, cancer and mortality
+konstadina.kourou@googlemail.com	Konstantina Kourou	Machine learning applications in cancer prognosis and prediction
+themis.exarchos@gmail.com	Themis P. Exarchos	Machine learning applications in cancer prognosis and prediction
+kexarcho@gmail.com	Konstantinos P. Exarchos	Machine learning applications in cancer prognosis and prediction
+mkaramouz@med.uoa.gr	Michalis V. Karamouzis	Machine learning applications in cancer prognosis and prediction
+fotiadis@cc.uoi.gr	Dimitrios I. Fotiadis	Machine learning applications in cancer prognosis and prediction
+hatem.azim@bordet.be	Hatem A. Azim Jr.	Tumour infiltrating lymphocytes (TILs) in breast cancer during pregnancy
+m.coccia@ceris.cnr.it	Mario Coccia	Path-breaking directions of nanotechnology-based chemotherapy and molecular cancer therapy
+cj992118@yahoo.com	Jianrong Yang	The Hippo transducer TAZ promotes epithelial to mesenchymal transition and cancer stem cell maintenance in oral cancer
+leonardo_cheng@163.com	Jie Cheng	The Hippo transducer TAZ promotes epithelial to mesenchymal transition and cancer stem cell maintenance in oral cancer
+angelo.p@yahoo.com.tw	Chien-Feng Li	Overexpression of DNAJC12 predicts poor response to neoadjuvant concurrent chemoradiotherapy in patients with rectal cancer
+zhangxuankj@163.com	Xuan Zhang	Study of circulating IgG antibodies to peptide antigens derived from BIRC5 and MYC in cervical cancer
+ybchend@163.com	Yubing Chen	Study of circulating IgG antibodies to peptide antigens derived from BIRC5 and MYC in cervical cancer
+carolpanis@sercomtel.com.br	C. Panis	Trastuzumab-based chemotherapy modulates systemic redox homeostasis in women with HER2-positive breast cancer
+yair.lotan@utsouthwestern.edu	Yair Lotan	Decision analysis model comparing cost of multiparametric magnetic resonance imaging vs. repeat biopsy for detection of prostate cancer in men with prior negative findings on biopsy
+wpiekosz@tlen.pl	Wojciech Piekoszewski	Essential metals profile of the hair and nails of patients with laryngeal cancer
+dauguste@ccny.cuny.edu	Debra T. Auguste	Mapping the CXCR4 receptor on breast cancer cells
+zengxiantao1128@163.com	Xian-Tao Zeng	Meta-analysis on the association between toothbrushing and head and neck cancer
+cfvogel@ucdavis.edu	Christoph F.A. Vogel	The aryl hydrocarbon receptor (AhR) mediates resistance to apoptosis induced in breast cancer cells
+minafedele@hotmail.com	Palma Fedele	Recent advances in the treatment of hormone receptor positive HER2 negative metastatic breast cancer
+cchiles@wakehealth.edu	Caroline Chiles	Low-Dose Computed Tomographic Screening for Lung Cancer
+minami@med.kindai.ac.jp	Takafumi Minami	New polycomb group protein enhancer of zeste homolog (EZH) 2-derived peptide with the potential to induce cancer-reactive cytotoxic T lymphocytes in prostate cancer patients with HLA-A3 supertype alleles
+huemura@med.kindai.ac.jp	Hirotsugu Uemura	New polycomb group protein enhancer of zeste homolog (EZH) 2-derived peptide with the potential to induce cancer-reactive cytotoxic T lymphocytes in prostate cancer patients with HLA-A3 supertype alleles
+ekenne@mcmaster.ca	Erin B. Kennedy	Sentinel lymph node biopsy in vulvar cancer: Systematic review, meta-analysis and guideline recommendations
+p.j.k.kuppen@lumc.nl	Peter J.K. Kuppen	Age-dependent clinical prognostic value of histone modifications in colorectal cancer
+marielle@crosbie.com	Marielle Scherrer-Crosbie	Time Trends of Left Ventricular Ejection Fraction and Myocardial Deformation Indices in a Cohort of Women with Breast Cancer Treated with Anthracyclines, Taxanes, and Trastuzumab
+josavaleria@gmail.com	Valeria Josa	Relationship of postoperative thrombocytosis and survival of patients with colorectal cancer
+marcin@cbs.dtu.dk	Marcin Krzystanek	Relationship of postoperative thrombocytosis and survival of patients with colorectal cancer
+eklund@cbs.dtu.dk	Aron Charles Eklund	Relationship of postoperative thrombocytosis and survival of patients with colorectal cancer
+Zoltan.Szallasi@childrens.harvard.edu	Zoltan Szallasi	Relationship of postoperative thrombocytosis and survival of patients with colorectal cancer
+sfshariat@gmail.com	Shahrokh F. Shariat	Novel Biomarkers to Predict Response and Prognosis in Localized Bladder Cancer
+pdegroot@mdanderson.org	Patricia M. de Groot	Staging of Lung Cancer
+jmgoo@plaza.snu.ac.kr	Jin Mo Goo	PET/MR Imaging for Chest Diseases : Review of Initial Studies on Pulmonary Nodules and Lung Cancers
+mizutomo@gifu-u.ac.jp	T. Mizuno	Cancer stem-like cells of ovarian clear cell carcinoma are enriched in the ALDH-high population associated with an accelerated scavenging system in reactive oxygen species
+jamesmencius@163.com	Zhaowei Meng	Evaluation of serum midkine as a biomarker in differentiated thyroid cancer
+tanposta@163.com	Jian Tan	Evaluation of serum midkine as a biomarker in differentiated thyroid cancer
+faloraifi@rcsi.ie	F. Aloraifi	Phenotypic analysis of familial breast cancer: Comparison of BRCAx tumors with BRCA1-, BRCA2-carriers and non-familial breast cancer
+sonja.grill@tum.de	Sonja Grill	A simple-to-use method incorporating genomic markers into prostate cancer risk prediction tools facilitated future validation
+Ojinnaka@sph.tamhsc.edu	Chinedum O. Ojinnaka	The role of health literacy and communication habits on previous colorectal cancer screening among low-income and uninsured patients
+hemr@263.net	Meirong He	Significance of FBX8 in progression of gastric cancer
+redsnow007@hotmail.com	Li Liang	Significance of FBX8 in progression of gastric cancer
+anika.bundscherer@ukr.de	A. Bundscherer	Effects of ropivacaine, bupivacaine and sufentanil in colon and pancreatic cancer cells in vitro
+rsmith@montefiore.org	Richard V. Smith	Treatment/Comparative Therapeutics : Cancer of the Larynx and Hypopharynx
+dongms@njau.edu.cn	Mingsheng Dong	Characterization of a novel polysaccharide with anti-colon cancer activity from Lactobacillus helveticus MB2-1
+giuseppe.curigliano@ieo.it	Giuseppe Curigliano	Antiangiogenic therapy in recurrent breast cancer with lymphangitic spread to the chest wall: A randomized phase II trial of bevacizumab with sequential or concurrent oral vinorelbine and capecitabine
+penning@upenn.edu	Trevor M. Penning	The DHEA-sulfate depot following P450c17 inhibition supports the case for AKR1C3 inhibition in high risk localized and advanced castration resistant prostate cancer
+lincc@dragon.nchu.edu.tw	Chi-Chen Lin	5-Demethylnobiletin promotes the formation of polymerized tubulin, leads to G2/M phase arrest and induces autophagy via JNK activation in human lung cancer cells
+njoseph11@partners.org	Naima Joseph	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+rmclark@mgh.harvard.edu	Rachel M. Clark	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+ddizon@mgh.harvard.edu	Don S. Dizon	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+mlee33@partners.org	Malinda S. Lee	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+agoodman@mgh.harvard.edu	Annekathryn Goodman	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+dboruta@mgh.harvard.edu	David Boruta Jr.	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+jschorge@partners.org	John O. Schorge	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+mdelcarmen@mgh.harvard.edu	Marcela G. del Carmen	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+wgrowdon@partners.org	Whitfield B. Growdon	Delay in chemotherapy administration impacts survival in elderly patients with epithelial ovarian cancer
+e.m.williamson@reading.ac.uk	Elizabeth M Williamson	Traditional medicine use by cancer patients in Thailand
+david.r.lairson@uth.tmc.edu	David R. Lairson	Estimating development cost of an interactive website based cancer screening promotion program
+hadizadehf@mums.ac.ir	Farzin Hadizadeh	In vitro and in vivo evaluation of therapy targeting epithelial-cell adhesion-molecule aptamers for non-small cell lung cancer
+agyang@fmmu.edu.cn	Angang Yang	Targeted delivery of CXCR4-siRNA by scFv for HER2+ breast cancer therapy
+qiuxiuchun2009@live.cn	Xiuchun Qiu	Targeted delivery of CXCR4-siRNA by scFv for HER2+ breast cancer therapy
+gukemba@fmmu.edu.cn	Baoan Ma	Targeted delivery of CXCR4-siRNA by scFv for HER2+ breast cancer therapy
+yosirad@kobe-u.ac.jp	Yoshiharu Ohno	Lung Cancer Assessment Using MR Imaging : An Update
+bimal.bhindi@mail.utoronto.ca	Bimal Bhindi	Impact of the U.S. Preventive Services Task Force Recommendations against Prostate Specific Antigen Screening on Prostate Biopsy and Cancer Detection Rates
+easthamj@mskcc.org	James A. Eastham	Chemotherapy and novel therapeutics before radical prostatectomy for high-risk clinically localized prostate cancer
+agnes.dumas@gustaveroussy.fr	A. Dumas	Educational trajectories after childhood cancer: When illness experience matters
+Isabelle.CAILBAULT@gustaveroussy.fr	I. Cailbault	Educational trajectories after childhood cancer: When illness experience matters
+c.perrey@invs.sante.fr	C. Perrey	Educational trajectories after childhood cancer: When illness experience matters
+Odile.OBERLIN@gustaveroussy.fr	O. Oberlin	Educational trajectories after childhood cancer: When illness experience matters
+Florent.DEVATHAIRE@gustaveroussy.fr	F. De Vathaire	Educational trajectories after childhood cancer: When illness experience matters
+philippe.amiel@gustaveroussy.fr	P. Amiel	Educational trajectories after childhood cancer: When illness experience matters
+csigman@ccsainc.com	Caroline C. Sigman	Biomarker development in the context of urologic cancers
+Sue.Yom@ucsf.edu	Sue S. Yom	Radiation Treatment of Head and Neck Cancer
+ht92@georgetown.edu	Huei-Ting Tsai	Risk of Diabetes among Patients Receiving Primary Androgen Deprivation Therapy for Clinically Localized Prostate Cancer
+mike.rabow@ucsf.edu	Michael W. Rabow	Concurrent urologic and palliative care after cystectomy for treatment of muscle-invasive bladder cancer
+Hess56@Marshall.Edu	Joshua A. Hess	Cancer metabolism and oxidative stress: Insights into carcinogenesis and chemotherapy via the non-dihydrofolate reductase effects of methotrexate
+leejh@mail.cmu.edu.tw	Jang-Chang Lee	Pculin02H, a curcumin derivative, inhibits proliferation and clinical drug resistance of HER2-overexpressing cancer cells
+tdway@mail.cmu.edu.tw	Tzong-Der Way	Pculin02H, a curcumin derivative, inhibits proliferation and clinical drug resistance of HER2-overexpressing cancer cells
+xiangmingli2018@163.com	MingLi Xiang	Improving the anti-ovarian cancer activity of docetaxel with biodegradable self-assembly micelles through various evaluations
+guogang@scu.edu.cn	Gang Guo	Improving the anti-ovarian cancer activity of docetaxel with biodegradable self-assembly micelles through various evaluations
+mabunassar@toh.on.ca	M. Abunassar	Review of anal cancer patients at the Ottawa hospital
+jhampson@med.umich.edu	Johnson P. Hampson	Altered resting brain connectivity in persistent cancer related fatigue
+amit.oza@uhn.ca	Amit M. Oza	A phase II study of single-agent RO4929097, a gamma-secretase inhibitor of Notch signaling, in patients with recurrent platinum-resistant epithelial ovarian cancer: A study of the Princess Margaret, Chicago and California phase II consortia
+phillip.evans2@wales.nhs.uk	P.A. Evans	Application of ROTEM to assess hypercoagulability in patients with lung cancer
+shrikantmali@gmail.com	Shrikant Balasaheb Mali	Review of STAT3 (Signal Transducers and Activators of Transcription) in head and neck cancer
+peramire@mdanderson.org	Pedro T. Ramirez	Immediate radical trachelectomy versus neoadjuvant chemotherapy followed by conservative surgery for patients with stage IB1 cervical cancer with tumors 2 cm or larger: A literature review and analysis of oncological and obstetrical outcomes
+kai.5391@hotmail.com	Kai Lu	MicroRNA-19a regulates proliferation and apoptosis of castration-resistant prostate cancer cells by targeting BTG1
+ishreddy4@gmail.com	Eshvendar Reddy Kasala	Chrysin and its emerging role in cancer drug resistance
+jpetros@emory.edu	John A. Petros	Bone metastasis in prostate cancer: Recurring mitochondrial DNA mutation reveals selective pressure exerted by the bone microenvironment
+manal2_khashana@ymail.com	Manal S. Fawzy	Thrombin-activatable fibrinolysis inhibitor Thr325Ile polymorphism and plasma level in breast cancer: A pilot study
+Ilse.Beck@UGent.be	Ilse M. Beck	Glucocorticoids and the non-steroidal selective glucocorticoid receptor modulator, compound A, differentially affect colon cancer-derived myofibroblasts
+wz620226@hotmail.com	Zhou Wang	Efficacy and safety of dendritic cells co-cultured with cytokine-induced killer cells immunotherapy for non-small-cell lung cancer
+camilla.zimmermann@uhn.ca	Camilla Zimmermann	Modified Edmonton Symptom Assessment System Including Constipation and Sleep: Validation in Outpatients With Cancer
+maiwa217@kumamoto-u.ac.jp	Masaaki Iwatsuki	Simultaneous total laparoscopic curative resection for synchronous gastric, cecal and rectal cancer: Report of a case
+yduan@scu.edu.cn	Yixiang Duan	Investigation of salivary free amino acid profile for early diagnosis of breast cancer with ultra performance liquid chromatography-mass spectrometry
+wxd65112@163.com	Xiaodong Wang	Investigation of salivary free amino acid profile for early diagnosis of breast cancer with ultra performance liquid chromatography-mass spectrometry
+kamlesh.yadav@mountsinai.org	Kamlesh K. Yadav	Next-generation sequencing technology in prostate cancer diagnosis, prognosis, and personalized treatment
+ash.tewari@mountsinai.org	Ashutosh K. Tewari	Next-generation sequencing technology in prostate cancer diagnosis, prognosis, and personalized treatment
+nosazuwa@slu.edu	Nosayaba Osazuwa-Peters	Sexual behavior, HPV knowledge, and association with head and neck cancer among a high-risk group
+doctorgao0771@hotmail.com	Feng Gao	Antiproliferative effects of formononetin on human colorectal cancer via suppressing cell growth in vitro and in vivo
+tangweizhong234@163.com	Weizhong Tang	Antiproliferative effects of formononetin on human colorectal cancer via suppressing cell growth in vitro and in vivo
+sriamornsak_p@su.ac.th	Pornsak Sriamornsak	Enhanced anti-tumor effect of pH-responsive dextrin nanogels delivering doxorubicin on colorectal cancer
+qhd1h_fzz@126.com	Zhan-Zhao Fu	Value of apparent diffusion coefficient (ADC) in assessing radiotherapy and chemotherapy success in cervical cancer
+gforde@uci.edu	G.K. Forde	Costs of treatment for elderly women with advanced ovarian cancer in a Medicare population
+hfkwok@umac.mo	Hang Fai Kwok	Recent advances in the field of anti-cancer immunotherapy
+temkinsm@mail.nih.gov	Sarah M. Temkin	Geographic disparities amongst patients with gynecologic malignancies at an urban NCI-designated cancer center
+elizabeth.buckley@unisa.edu.au	Elizabeth Buckley	Risk profile of breast cancer following atypical hyperplasia detected through organized screening
+ymhuh@yuhs.ac	Yong-Min Huh	Co-delivery of paclitaxel and gemcitabine via CD44-targeting nanocarriers as a prodrug with synergistic antitumor activity against human biliary cancer
+haam@yonsei.ac.kr	Seungjoo Haam	Co-delivery of paclitaxel and gemcitabine via CD44-targeting nanocarriers as a prodrug with synergistic antitumor activity against human biliary cancer
+cllo@ym.edu.tw	Chun-Liang Lo	Reactive oxygen species and glutathione dual redox-responsive micelles for selective cytotoxicity of cancer
+berardino.de-bari@chuv.ch	Berardino De Bari	Is high dose rate brachytherapy reliable and effective treatment for prostate cancer patients? A review of the literature
+beriwals@upmc.edu	Sushil Beriwal	Primary radiotherapy for nonsurgically managed Stage I endometrial cancer: Utilization and impact of brachytherapy
+halshamlan@ksu.edu.sa	Hala M. Alshamlan	Genetic Bee Colony (GBC) algorithm: A new gene selection method for microarray cancer classification
+gbadr@ksu.edu.sa	Ghada H. Badr	Genetic Bee Colony (GBC) algorithm: A new gene selection method for microarray cancer classification
+yousef@ksu.edu.sa	Yousef A. Alohali	Genetic Bee Colony (GBC) algorithm: A new gene selection method for microarray cancer classification
+tsutomun@kochi-u.ac.jp	T. Namikawa	Clinical efficacy of protein-bound polysaccharide K in patients with gastric cancer undergoing chemotherapy with an oral fluoropyrimidine (S-1)
+peramire@mdanderson.org	Pedro T. Ramirez	Predictors of optimal cytoreduction in patients with newly diagnosed advanced-stage epithelial ovarian cancer: Time to incorporate laparoscopic assessment into the standard of care
+khussein528@gmail.com	Hussein Khaled	A mini review on cancer of unknown primary site: A clinical puzzle for the oncologists
+David.Kaplan@tufts.edu	David L. Kaplan	Tissue engineering a surrogate niche for metastatic cancer cells
+pintop@mail.nih.gov	Peter A. Pinto	Clinical Implications of a Multiparametric Magnetic Resonance Imaging Based Nomogram Applied to Prostate Cancer Active Surveillance
+lthuler@inca.gov.br	Luiz C.S. Thuler	Incidence, associated factors, and survival in metastatic spinal cord compression secondary to lung cancer
+kallel.mouna@yahoo.fr	Mouna Kallel	Breast cancer in young women in southern Tunisia: Anatomical study and clinical prognostic factors: About a series of 83 patients
+jhhsst@postech.ac.kr	Hunho Jo	Dual aptamer-functionalized silica nanoparticles for the highly sensitive detection of breast cancer
+jinh0902@postech.ac.kr	Jin Her	Dual aptamer-functionalized silica nanoparticles for the highly sensitive detection of breast cancer
+ciban@postech.ac.kr	Changill Ban	Dual aptamer-functionalized silica nanoparticles for the highly sensitive detection of breast cancer
+kmcvary@siumed.edu	Kevin T. McVary	Impact of County Rurality and Urologist Density on Urological Cancer Mortality in Illinois
+fli@mail.cmu.edu.cn	Feng Li	CREB is a key negative regulator of carbonic anhydrase IX (CA9) in gastric cancer
+joelleir@u.washington.edu	Joelle I. Rosser	Changing knowledge, attitudes, and behaviors regarding cervical cancer screening: The effects of an educational intervention in rural Kenya
+sxlin@crchul.ulaval.ca	Sheng-Xiang Lin	Reductive 17beta-hydroxysteroid dehydrogenases which synthesize estradiol and inactivate dihydrotestosterone constitute major and concerted players in ER+ breast cancer cells
+xpliu1228@fudan.edu.cn	Xiu-Ping Liu	Neurokinin-1 activation affects EGFR related signal transduction in triple negative breast cancer
+Ahmedsamyagwany@gmail.com	Ahmed Samy El-agwany	Claudin-4 in ovarian cancer and its relation to platinum compounds resistance
+houda.bahig@umontreal.ca	Houda Bahig	Predictive factors of survival and treatment tolerance in older patients treated with chemotherapy and radiotherapy for locally advanced head and neck cancer
+meha24m@gmail.com	M.N. Motiwala	Combined effect of paclitaxel and piperine on a MCF-7 breast cancer cell line in vitro: Evidence of a synergistic interaction
+Vinodrangari@gmail.com	V.D. Rangari	Combined effect of paclitaxel and piperine on a MCF-7 breast cancer cell line in vitro: Evidence of a synergistic interaction
+li_li@scu.edu.cn	Li Li	Overcoming drug-resistant lung cancer by paclitaxel loaded dual-functional liposomes with mitochondria targeting and pH-response
+zwgu@scu.edu.cn	Zhongwei Gu	Overcoming drug-resistant lung cancer by paclitaxel loaded dual-functional liposomes with mitochondria targeting and pH-response
+roconnell@doctors.org.uk	Rachel L. O'Connell	A case-control study of treatment choices made by doctors diagnosed with early breast cancer
+kabir.mohammed@rmh.nhs.uk	Kabir Mohammed	A case-control study of treatment choices made by doctors diagnosed with early breast cancer
+gerald.gui@rmh.nhs.uk	Gerald P.H. Gui	A case-control study of treatment choices made by doctors diagnosed with early breast cancer
+jennifer.rusby@rmh.nhs.uk	Jennifer E. Rusby	A case-control study of treatment choices made by doctors diagnosed with early breast cancer
+Dr_sanaa_eissa@yahoo.com	Sanaa Eissa	Evaluation of urinary microRNA panel in bladder cancer diagnosis: relation to bilharziasis
+ktewari@uci.edu	Krishnansu S. Tewari	A Markov model to evaluate cost-effectiveness of antiangiogenesis therapy using bevacizumab in advanced cervical cancer
+s1004jh@gmail.com	Jung-Hyun Shim	Multifunctional effects of honokiol as an anti-inflammatory and anti-cancer drug in human oral squamous cancer cells and xenograft
+jichae@jbnu.ac.kr	Jung-Il Chae	Multifunctional effects of honokiol as an anti-inflammatory and anti-cancer drug in human oral squamous cancer cells and xenograft
+dberger@mgh.harvard.edu	David L. Berger	The fate of unscreened women in colon cancer: impact on staging and prognosis
+claudia_ordeanu@yahoo.com	Claudia Ordeanu	Local experience in cervical cancer imaging: Comparison in tumour assessment between TRUS and MRI
+13770771661@163.com	Xiaoping Zou	Gemcitabine sensitizes pancreatic cancer cells to the CTLs antitumor response induced by BCG-stimulated dendritic cells via a Fas-dependent pathway
+13770755008@126.com	Ying Lv	Gemcitabine sensitizes pancreatic cancer cells to the CTLs antitumor response induced by BCG-stimulated dendritic cells via a Fas-dependent pathway
+yukio@nagalabo.jp	Yukio Nagasaki	Redox nanoparticles inhibit curcumin oxidative degradation and enhance its therapeutic effect on prostate cancer
+ashley.felix@nih.gov	Ashley S. Felix	Menopausal hormone therapy and mortality among women diagnosed with ovarian cancer in the NIH-AARP Diet and Health Study
+anne.ridley@kcl.ac.uk	Anne J. Ridley	RhoC and ROCKs regulate cancer cell interactions with endothelial cells
+Joanne.lester@osumc.edu	Joanne Lester	Local Treatment of Breast Cancer
+lee.310@nd.edu	Shaun W. Lee	Design and evaluation of a peptide-based immunotoxin for breast cancer therapeutics
+cynthiavg@gmail.com	Cynthia Villarreal-Garza	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+enriquesotopc@yahoo.com	Enrique Soto-Perez-de-Celis	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+erikasifuentes@gmail.com	Erika Sifuentes	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+ruanosantiago@gmail.com	Santiago Ruano	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+fberenice@gmail.com	Berenice Baez-Revueltas	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+fuliseslara@yahoo.com.mx	Fernando Lara-Medina	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+claudia.arces@hotmail.ca	Claudia Arce-Salinas	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+albertooncologia@yahoo.com.mx	Alberto Alvarado-Miranda	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+yaninchg@gmail.com	Yanin Chavarri-Guerra	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+bluevox99@hotmail.com	Claudia Caro-Sanchez	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+ebargallo@yahoo.com	Enrique Bargallo-Rocha	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+amohar@incan.edu.mx	Alejandro Mohar	Outcomes of Hispanic women with lymph-node positive, HER2 positive breast cancer treated with neoadjuvant chemotherapy and trastuzumab in Mexico
+yeqing1998@gmail.com	Qing Ye	Comparison of the 2007 and 2013 ASCO/CAP evaluation systems for HER2 amplification in breast cancer
+Tate.Nice@childrensal.org	Tate Nice	Pediatric papillary thyroid cancer > 1 cm: is total thyroidectomy necessary?
+npavlid@uoi.gr	Nicholas Pavlidis	An unusual presentation of a patient with advanced prostate cancer, massive ascites and peritoneal metastasis: Case report and literature review
+qhuang@aesop.rutgers.edu	Qingrong Huang	In vitro and in vivo anti-cancer activity of tangeretin against colorectal cancer was enhanced by emulsion-based delivery system
+enasabdelgawad5@gmail.com	Enas A. Abdel-Gawad	Local staging of rectal cancer: Diagnostic potential of endorectal contrast agent and MPRs with 64-MDCT compared with the pathologic staging
+moustafa18_1970@yahoo.com	Moustafa A. Kader A. Wahab	Local staging of rectal cancer: Diagnostic potential of endorectal contrast agent and MPRs with 64-MDCT compared with the pathologic staging
+hafifi16@hotmail.com	Hassan Afifi	Local staging of rectal cancer: Diagnostic potential of endorectal contrast agent and MPRs with 64-MDCT compared with the pathologic staging
+tahamohran@hotmail.com	Taha Zaky M. Mohran	Local staging of rectal cancer: Diagnostic potential of endorectal contrast agent and MPRs with 64-MDCT compared with the pathologic staging
+tchentf@jnu.edu.cn	Tianfeng Chen	Rational design of cancer-targeted selenium nanoparticles to antagonize multidrug resistance in cancer cells
+ARaben@Christianacare.org	Adam Raben	Freedom from local and regional failure of contralateral neck with ipsilateral neck radiotherapy for node-positive tonsil cancer: Updated results of an institutional clinical management approach
+yuhuichuan819@gmail.com	H.C. Yu	Avoiding perioperative dexamethasone may improve the outcome of patients with rectal cancer
+luoyx25@mail.sysu.edu.cn	Y.X. Luo	Avoiding perioperative dexamethasone may improve the outcome of patients with rectal cancer
+wjp@mail.sysu.edu.cn	J.P. Wang	Avoiding perioperative dexamethasone may improve the outcome of patients with rectal cancer
+silvio.danese@humanitas.it	Silvio Danese	Vascular Endothelial Growth Factor C Disrupts the Endothelial Lymphatic Barrier to Promote Colorectal Cancer Invasion
+nicolas.fakhry@ap-hm.fr	N. Fakhry	A videofluoroscopic study comparing severe swallowing disorders in patients treated surgically or with radiation for oropharyngeal cancer
+amahmo4@uic.edu	Abeer M. Mahmoud	Genistein increases estrogen receptor beta expression in prostate cancer via reducing its promoter methylation
+atoker@bidmc.harvard.edu	Alex Toker	NFAT1 promotes intratumoral neutrophil infiltration by regulating IL8 expression in breast cancer
+cheng.dengfeng@zs-hospital.sh.cn	Dengfeng Cheng	Investigations of 99mTc-labeled glucarate as a SPECT radiotracer for non-small cell lung cancer (NSCLC) and potential tumor uptake mechanism
+yying119@126.com	Ying Yue	The use of cisplatin-loaded mucoadhesive nanofibers for local chemotherapy of cervical cancers in mice
+liushi@ciac.ac.cn	Shi Liu	The use of cisplatin-loaded mucoadhesive nanofibers for local chemotherapy of cervical cancers in mice
+schreibe@ipk-gatersleben.de	Falk Schreiber	Alterations in cancer cell metabolism: The Warburg effect and metabolic adaptation
+amasoudin@ibb.ut.ac.ir	Ali Masoudi-Nejad	Alterations in cancer cell metabolism: The Warburg effect and metabolic adaptation
+Cardonick-elyce@cooperhealth.edu	Elyce H. Cardonick	Development of children born to mothers with cancer during pregnancy: comparing in utero chemotherapy-exposed children with nonexposed controls
+c.j.h.van_de_velde@lumc.nl	C.J.H. van de Velde	Long term effects of extended adjuvant endocrine therapy on quality of life in breast cancer patients
+rereman@marincounty.org	Rochelle Ereman	First pregnancy characteristics, postmenopausal breast density, and salivary sex hormone levels in a population at high risk for breast cancer
+citrind@mail.nih.gov	Deborah E. Citrin	Trimodality Therapy in Bladder Cancer : Who, What, and When?
+nemtipi@aol.com	Nathalie Johnson	Axillary reverse lymphatic mapping reduces patient perceived incidence of lymphedema after axillary dissection in breast cancer
+geyer.siegfried@mh-hannover.de	Siegfried Geyer	Coping with breast cancer and relapse: Stability of coping and long-term outcomes in an observational study over 10 years
+m.p.h.m.jansen@erasmusmc.nl	Maurice P.H.M. Jansen	Decreased expression of ABAT and STC2 hallmarks ER-positive inflammatory breast cancer and endocrine therapy resistance in advanced disease
+block.matthew@mayo.edu	Matthew S. Block	Plasma immune analytes in patients with epithelial ovarian cancer
+imyh00@skku.edu	Young-Hyuck Im	Prevalence and clinical outcomes of young breast cancer (YBC) patients according to intrinsic breast cancer subtypes: Single institutional experience in Korea
+tmdrake1@shef.ac.uk	T.M. Drake	Targeting the endoplasmic reticulum mediates radiation sensitivity in colorectal cancer
+l.wyld@shef.ac.uk	L. Wyld	Targeting the endoplasmic reticulum mediates radiation sensitivity in colorectal cancer
+m.abdolahad@ut.ac.ir	Mohammad Abdolahad	Monitoring the spreading stage of lung cells by silicon nanowire electrical cell impedance sensor for cancer detection purposes
+sdyamada@uchicago.edu	S. Diane Yamada	Patterns and utility of routine surveillance in high grade endometrial cancer
+jiangyiguo@vip.163.com	Yiguo Jiang	A novel long noncoding RNA AK001796 acts as an oncogene and is involved in cell growth inhibition by resveratrol in lung cancer
+tomascortadellas@hotmail.com	T. Cortadellas	Surgery improves survival in elderly with breast cancer. A study of 465 patients in a single institution
+clemens.tempfer@marienhospital-herne.de	Clemens B. Tempfer	Pressurized intraperitoneal aerosol chemotherapy in women with recurrent ovarian cancer: A phase 2 study
+carol.shields@shieldsoncology.com	Carol L. Shields	American Joint Committee on Cancer Classification of Uveal Melanoma (Anatomic Stage) Predicts Prognosis in 7731 Patients : The 2013 Zimmerman Lecture
+francesca.solmi@ucl.ac.uk	Francesca Solmi	Decomposing socio-economic inequality in colorectal cancer screening uptake in England
+SLeadbetter@cdc.gov	Steven Leadbetter	Cancer screening among a population-based sample of insured women
+marktknox@gmail.com	Mark Knox	Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers
+csmith@mater.ie	Clare S. Smith	Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers
+helen.fenlon@cancerscreening.ie	Helen M. Fenlon	Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers
+michelle.mcnicholas@cancerscreening.ie	Michelle M. McNicholas	Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers
+fidelma.flanagan@cancerscreening.ie	Fidelma L. Flanagan	Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers
+tim.svenstrup.poulsen@regionh.dk	Tim Svenstrup Poulsen	Topoisomerase-1 and -2A gene copy numbers are elevated in mismatch repair-proficient colorectal cancers
+dorte.linnemann@regionh.dk	Dorte Linnemann	Topoisomerase-1 and -2A gene copy numbers are elevated in mismatch repair-proficient colorectal cancers
+stenvang@sund.ku.dk	Jan Stenvang	Topoisomerase-1 and -2A gene copy numbers are elevated in mismatch repair-proficient colorectal cancers
+jb@cancer.dk	Jiri Bartek	Topoisomerase-1 and -2A gene copy numbers are elevated in mismatch repair-proficient colorectal cancers
+lene.buhl.riis@regionh.dk	Lene Riis	Topoisomerase-1 and -2A gene copy numbers are elevated in mismatch repair-proficient colorectal cancers
+pauliuslizdenis@yahoo.com	Paulius Lizdenis	Short-term results of quality of life for curatively treated colorectal cancer patients in Lithuania
+raflivandelaar@hotmail.com	Rafli van de Laar	External validation of two prediction models of complete secondary cytoreductive surgery in patients with recurrent epithelial ovarian cancer
+violante.didonato@uniroma1.it	Violante Di Donato	Predictors of postoperative morbidity after cytoreduction for advanced ovarian cancer: Analysis and management of complications in upper abdominal surgery
+ffennessy@partners.org	Fiona M. Fennessy	The Role of Pathology Correlation Approach in Prostate Cancer Index Lesion Detection and Quantitative Analysis with Multiparametric MRI
+erdal066@yahoo.com	Erdal Polat	The impact of PET/CT on the management of hepatic and extra hepatic metastases from gastrointestinal cancers
+magnstou@rm.dk	Magnus Stougaard	Correlation between topoisomerase I and tyrosyl-DNA phosphodiesterase 1 activities in non-small cell lung cancer tissue
+danila.coradini@gmail.com	Danila Coradini	p53 status identifies triple-negative breast cancer patients who do not respond to adjuvant chemotherapy
+dxcui@sjtu.edu.cn	Daxiang Cui	Allogenic dendritic cell and tumor cell fused vaccine for targeted imaging and enhanced immunotherapeutic efficacy of gastric cancer
+az.abbasi@utoronto.ca	Azhar Z. Abbasi	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+preethy.prasad@utoronto.ca	Preethy Prasad	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+ping.cai@utoronto.ca	Ping Cai	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+chanson.he@utoronto.ca	Chunsheng He	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+warren.foltz@rmp.uhn.on.ca	Warren D. Foltz	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+ma.amini@utoronto.ca	Mohammad Ali Amini	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+claudia.gordijo@utoronto.ca	Claudia R. Gordijo	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+rauth@uhnres.utoronto.ca	Andrew M. Rauth	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+xywu@phm.utoronto.ca	Xiao Yu Wu	Manganese oxide and docetaxel co-loaded fluorescent polymer nanoparticles for dual modal imaging and chemotherapy of breast cancer
+byliu@sjtu.edu.cn	Bingya Liu	CEACAM6 promotes tumor angiogenesis and vasculogenic mimicry in gastric cancer via FAK signaling
+ym10299@163.com	Min Yan	CEACAM6 promotes tumor angiogenesis and vasculogenic mimicry in gastric cancer via FAK signaling
+fcassinello@fjd.es	Fernando Cassinello	Cancer surgery: how may anesthesia influence outcome?
+iprieto@fjd.es	Isabel Prieto	Cancer surgery: how may anesthesia influence outcome?
+olivia.pagani@ibcsg.org	Olivia Pagani	Pregnancy after breast cancer: Are young patients willing to participate in clinical studies?
+burk0001@yahoo.com	Larry Burk	Warning Dreams Preceding the Diagnosis of Breast Cancer: A Survey of the Most Important Characteristics
+patrick.dumont@uclouvain.be	Patrick Dumont	Resveratrol induces DNA damage in colon cancer cells by poisoning topoisomerase II and activates the ATM kinase to trigger p53-dependent apoptosis
+Jonathan.T.Elliott@dartmouth.edu	Jonathan T. Elliott	Perfusion CT Estimates Photosensitizer Uptake and Biodistribution in a Rabbit Orthotopic Pancreatic Cancer Model : A Pilot Study
+carmen.bedia@idaea.csic.es	Carmen Bedia	Phenotypic malignant changes and untargeted lipidomic analysis of long-term exposed prostate cancer cells to endocrine disruptors
+joaquim.jaumot@idaea.csic.es	Joaquim Jaumot	Phenotypic malignant changes and untargeted lipidomic analysis of long-term exposed prostate cancer cells to endocrine disruptors
+sfhuang@nhri.org.tw	Shiu-Feng Huang	EGFR over-expression in non-small cell lung cancers harboring EGFR mutations is associated with marked down-regulation of CD82
+yrchen@nhri.org.tw	Yi-Rong Chen	EGFR over-expression in non-small cell lung cancers harboring EGFR mutations is associated with marked down-regulation of CD82
+hymin@cau.ac.kr	Hyeyoung Min	The association of CD28 polymorphism, rs3116496, with Cancer: A meta-analysis
+miyasita-tky@umin.net	Mitsunori Miyashita	Independent Validation of the Japanese Version of the EORTC QLQ-C15-PAL for Patients With Advanced Cancer
+balukoolokun@gmail.com	Bayo Aluko-Olokun	Skin cancer risk factor reduction in Africa: Assessment of use of antiretroviral therapy services by human immunodeficiency virus positive albinos
+ademolaolaitan@yahoo.co.uk	Ademola Abayomi Olaitan	Skin cancer risk factor reduction in Africa: Assessment of use of antiretroviral therapy services by human immunodeficiency virus positive albinos
+yuxianjun88@hotmail.com	Xianjun Yu	Lymph node status predicts the benefit of adjuvant chemoradiotherapy for patients with resected pancreatic cancer
+joness7@ccf.org	J. Stephen Jones	Transrectal Saturation Biopsy Improves Risk Stratification (Reclassification) of Patients with Prostate Cancer on Active Surveillance
+jwang699@ustc.edu.cn	Jun Wang	Targeting glucose uptake with siRNA-based nanomedicine for cancer therapy
+efiwdsc@chonbuk.ac.kr	Sung-Dae Cho	Induction of apoptosis by parthenolide in human oral cancer cell lines and tumor xenografts
+jslee11@jj.ac.kr	Jeong-Sang Lee	Induction of apoptosis by parthenolide in human oral cancer cell lines and tumor xenografts
+tnwu@sunrise.hk.edu.tw	Trong-Neng Wu	Long term antihypertensive drug use and prostate cancer risk: A 9-year population-based cohort analysis
+bairddm@cardiff.ac.uk	D.M. Baird	Telomere fusion threshold identifies a poor prognostic subset of breast cancer patients
+Eric.Horwitz@fccc.edu	E.M. Horwitz	Is it necessary to perform week three dosimetric analysis in low-dose-rate brachytherapy for prostate cancer when day 0 dosimetry is done? A quality assurance assessment
+srikumar.raja@northwestern.edu	Srikumar M. Raja	Polypeptide-based nanogels co-encapsulating a synergistic combination of doxorubicin with 17-AAG show potent anti-tumor activity in ErbB2-driven breast cancer models
+hband@unmc.edu	Hamid Band	Polypeptide-based nanogels co-encapsulating a synergistic combination of doxorubicin with 17-AAG show potent anti-tumor activity in ErbB2-driven breast cancer models
+tbronich@unmc.edu	Tatiana K. Bronich	Polypeptide-based nanogels co-encapsulating a synergistic combination of doxorubicin with 17-AAG show potent anti-tumor activity in ErbB2-driven breast cancer models
+biondi.alberto@tiscali.it	A. Biondi	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+ddugo@rm.unicatt.it	D. D'Ugo	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+fcm.cananzi@hotmail.it	F.C.M. Cananzi	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+valeriopapa@msn.com	V. Papa	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+borasi.andrea@gmail.com	A. Borasi	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+federico.sicoli@yahoo.it	F. Sicoli	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+mdegiuli@hotmail.com	M. Degiuli	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+gbdoglietto@rm.unicatt.it	G. Doglietto	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+rpersiani@rm.unicatt.it	R. Persiani	Does a minimum number of 16 retrieved nodes affect survival in curatively resected gastric cancer?
+joanne.shaw@sydney.edu.au	Phyllis Butow	Treatment decision making experiences of migrant cancer patients and their families in Australia
+breedlee@empal.com	Hak Kyo Lee	Sorghum polyphenol suppresses the growth as well as metastasis of colon cancer xenografts through co-targeting jak2/STAT3 and PI3K/Akt/mTOR pathways
+ymyang@kku.ac.kr	Young Mok Yang	Sorghum polyphenol suppresses the growth as well as metastasis of colon cancer xenografts through co-targeting jak2/STAT3 and PI3K/Akt/mTOR pathways
+andrew.simpkin@bristol.ac.uk	Andrew J. Simpkin	Systematic Review and Meta-analysis of Factors Determining Change to Radical Treatment in Active Surveillance for Localized Prostate Cancer
+Rleone2@jhmi.edu	Robert D. Leone	A2aR antagonists: Next generation checkpoint blockade for cancer immunotherapy
+Ylo2@jhmi.edu	Ying-Chun Lo	A2aR antagonists: Next generation checkpoint blockade for cancer immunotherapy
+PowelJo@jhmi.edu	Jonathan D. Powell	A2aR antagonists: Next generation checkpoint blockade for cancer immunotherapy
+F.A.Ossendorp@lumc.com	Ferry Ossendorp	Polymeric microparticles for sustained and local delivery of antiCD40 and antiCTLA-4 in immunotherapy of cancer
+W.E.Hennink@uu.nl	Wim E. Hennink	Polymeric microparticles for sustained and local delivery of antiCD40 and antiCTLA-4 in immunotherapy of cancer
+pippuclinickato@gold.ocn.ne.jp	Kazuya Kato	Primary colon cancer with a high serum PIVKA-II level
+liujuan@whu.edu.cn	Juan Liu	Integration of a prognostic gene module with a drug sensitivity module to identify drugs that could be repurposed for breast cancer therapy
+marcoscarpa73@yahoo.it	M. Scarpa	Postoperative outcome after oesophagectomy for cancer: Nutritional status is the missing ring in the current prognostic scores
+aharbin@gmail.com	Andrew C. Harbin	The role of extended pelvic lymphadenectomy with radical prostatectomy for high-risk prostate cancer
+zgdong@hi.umn.edu	Zigang Dong	Aspirin Prevents Colorectal Cancer by Normalizing EGFR Expression
+dyy1026@sina.com	Yue Dong	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+chouxiong@sohu.com	Shaowei Zheng	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+machira@dnh.twmu.ac.jp	Haruhiko Machida	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+wangbing19831003@163.com	Bing Wang	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+dmu_liuailian@126.com	Ailian Liu	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+yijunliu1965@126.com	Yijun Liu	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+zhhw2000@126.com	Xin Zhang	Differential diagnosis of osteoblastic metastases from bone islands in patients with lung cancer by single-source dual-energy CT: Advantages of spectral CT imaging
+dsamways@clarkson.edu	Damien S.K. Samways	Selective permeabilization of cervical cancer cells to an ionic DNA-binding cytotoxin by activation of P2Y receptors
+adriano.correia@trilliumhealthpartners.ca	Adriano Correia	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+Linda.Rabeneck@cancercare.on.ca	Linda Rabeneck	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+BaxterN@smh.toronto.on.ca	Nancy N. Baxter	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+lawrence.paszat@ices.on.ca	Lawrence F. Paszat	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+Rinku.Sutradhar@ices.on.ca	Rinku Sutradhar	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+Lingsong.Yun@ices.on.ca	Lingsong Yun	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+jill.tinmouth@sunnybrook.ca	Jill Tinmouth	Lack of follow-up colonoscopy after positive FOBT in an organized colorectal cancer screening program is associated with modifiable health care practices
+bom2008@cornell.med.edu	Bobak Mosadegh	A paper-based invasion assay: Assessing chemotaxis of cancer cells in gradients of oxygen
+brenda_eustace@vrtx.com	Brenda K. Eustace	A paper-based invasion assay: Assessing chemotaxis of cancer cells in gradients of oxygen
+gwhitesides@gmwgroup.harvard.edu	George M. Whitesides	A paper-based invasion assay: Assessing chemotaxis of cancer cells in gradients of oxygen
+David.Cohn@osumc.edu	David E. Cohn	Predicting Inpatient Stay Lasting 2 Midnights or Longer After Robotic Surgery for Endometrial Cancer
+anne-sophie.bats@egp.aphp.fr	Anne-Sophie Bats	Contribution of lymphoscintigraphy to intraoperative sentinel lymph node detection in early cervical cancer: Analysis of the prospective multicenter SENTICOL cohort
+hdobaba@kumamoto-u.ac.jp	Hideo Baba	Colon cancer metastasis mimicking intraductal papillary neoplasm of the extra-hepatic bile duct
+yoon924@chamc.co.kr	Yoon Kim	Cerebral venous thrombosis in a breast cancer patient taking tamoxifen: Report of a case
+okjun77@cha.ac.kr	Ok Joon Kim	Cerebral venous thrombosis in a breast cancer patient taking tamoxifen: Report of a case
+antithrombus@gmail.com	Jinkwon Kim	Cerebral venous thrombosis in a breast cancer patient taking tamoxifen: Report of a case
+fushen2014@sina.com	Shen Fu	Bevacizumab increases the risk of infections in cancer patients: A systematic review and pooled analysis of 41 randomized controlled trials
+m.manoochehri@shmu.ac.ir	Mehdi Manoochehri	Downregulation of external death receptor genes FAS and DR5 in colorectal cancer samples positive for human papillomavirus infection
+zhenyhwaner@aliyun.com	Yuhong Zhen	Highly sensitive detection of cancer antigen human epidermal growth factor receptor 2 using novel chicken egg yolk immunoglobulin
+katiaramos@uol.com.br	Katia R.M. Leite	The role of microRNAs 371 and 34a in androgen receptor control influencing prostate cancer behavior
+matteo.ferro@ieo.it	Matteo Ferro	Body mass index was associated with upstaging and upgrading in patients with low-risk prostate cancer who met the inclusion criteria for active surveillance
+carine.michiels@unamur.be	Carine Michiels	Taxol-induced unfolded protein response activation in breast cancer cells exposed to hypoxia: ATF4 activation regulates autophagy and inhibits apoptosis
+patrick.trojer@constellationpharma.com	Patrick Trojer	Targeting histone lysine methylation in cancer
+nsohler@med.cuny.edu	Nancy L. Sohler	Socio-psychological factors in the Expanded Health Belief Model and subsequent colorectal cancer screening
+afjerant@ucdavis.edu	Anthony Jerant	Socio-psychological factors in the Expanded Health Belief Model and subsequent colorectal cancer screening
+blackmon.shanda@mayo.edu	Shanda H. Blackmon	The United States Preventive Services Task Force Recommendations for Lung Cancer Screening
+Kai.Wermker@fachklinik-hornheide.de	Kai Wermker	Prediction model for lymph node metastasis and recommendations for elective neck dissection in lip cancer
+wuping@njnu.edu.cn	Ping Wu	Designing activatable aptamer probes for simultaneous detection of multiple tumor-related proteins in living cancer cells
+cxcai@njnu.edu.cn	Chenxin Cai	Designing activatable aptamer probes for simultaneous detection of multiple tumor-related proteins in living cancer cells
+andrzej.semczuk@am.lublin.pl	Andrzej Semczuk	Multiple recurrences of early-stage, endometrioid-type G2 endometrial cancer with a long-time follow-up: A case study
+parkmk@ime.a-star.edu.sg	Mi Kyoung Park	Rapid and label-free amplification and detection assay for genotyping of cancer biomarker
+wangjunqingmd@163.com	Junqing Wang	MicroRNA-126 inhibits cell proliferation in gastric cancer by targeting LAT-1
+yukio@nagalabo.jp	Yukio Nagasaki	Development of an oral nanotherapeutics using redox nanoparticles for treatment of colitis-associated colon cancer
+n.gooderham@imperial.ac.uk	Nigel J. Gooderham	Effects of treatment with androgen receptor ligands on microRNA expression of prostate cancer cells
+wgliu@tju.edu.cn	Wenguang Liu	Co-delivery of doxorubicin and tumor-suppressing p53 gene using a POSS-based star-shaped polymer for cancer therapy
+chern.oon@usm.my	Chern Ein Oon	SIRT1 inhibition in pancreatic cancer models: Contrasting effects in vitro and in vivo
+j.prakash@utwente.nl	Jai Prakash	SIRT1 inhibition in pancreatic cancer models: Contrasting effects in vitro and in vivo
+abba@yonsei.ac.kr	Kwang Hwa Park	Diagnostic performance of HPV E6/E7, hTERT, and Ki67 mRNA RT-qPCR assays on formalin-fixed paraffin-embedded cervical tissue specimens from women with cervical cancer
+hyelee@yonsei.ac.kr	Hyeyoung Lee	Diagnostic performance of HPV E6/E7, hTERT, and Ki67 mRNA RT-qPCR assays on formalin-fixed paraffin-embedded cervical tissue specimens from women with cervical cancer
+br.degeest@ugent.be	Bruno G. De Geest	Tumor-environment biomimetics delay peritoneal metastasis formation by deceiving and redirecting disseminated cancer cells
+olivier.dewever@ugent.be	Olivier De Wever	Tumor-environment biomimetics delay peritoneal metastasis formation by deceiving and redirecting disseminated cancer cells
+koudelka@vri.cz	Stepan Koudelka	Liposomal delivery systems for anti-cancer analogues of vitamin E
+turanek@vri.cz	Jaroslav Turanek	Liposomal delivery systems for anti-cancer analogues of vitamin E
+leesw@kitakyu-u.ac.jp	Seung-Woo Lee	In vitro detection of small molecule metabolites excreted from cancer cells using a Tenax TA thin-film microextraction device
+osakatets@waseda.jp	Tetsuya Osaka	Label-free detection of tumor markers using field effect transistor (FET)-based biosensors for lung cancer diagnosis
+azoubeidi@prostatecentre.com	Amina Zoubeidi	Combination AZD5363 with Enzalutamide Significantly Delays Enzalutamide-resistant Prostate Cancer in Preclinical Models
+lars.egevad@ki.se	Lars Egevad	Tracking the Origin of Metastatic Prostate Cancer
+daphnew@tx.technion.ac.il	D. Weihs	Effects of particle uptake, encapsulation, and localization in cancer cells on intracellular applications
+haitaomasoochow@163.com	Haitao Ma	Survivin over-expression is correlated with a poor prognosis in esophageal cancer patients
+pierre.bringuier@univ-lyon1.fr	Pierre-Paul Bringuier	Involvement of orphan nuclear receptor COUP-TFII in cadherin-6 and cadherin-11 regulation: Implications in development and cancer
+laurence.giroldi@inserm.fr	Laurence A. Giroldi	Involvement of orphan nuclear receptor COUP-TFII in cadherin-6 and cadherin-11 regulation: Implications in development and cancer
+luis.labrador@ucla.edu.ve	Luis Labrador	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+keilatorres@ucla.edu.ve	Keila Torres	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+mariaecamargo@ucla.edu.ve	Maria Camargo	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+laskhmikristal@gmail.com	Laskhmi Santiago	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+elvisvalderrama@hotmail.com	Elvis Valderrama	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+mchiurillo@ucla.edu.ve	Miguel Angel Chiurillo	Association of common variants on chromosome 8q24 with gastric cancer in Venezuelan patients
+d-minami@bj8.so-net.ne.jp	Daisuke Minami	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+ntakigaw@gmail.com	Nagio Takigawa	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+dai.k612@gmail.com	Daisuke Morichika	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+t-kubo@cc.okayama-u.ac.jp	Toshio Kubo	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+kadoaki@gmail.com	Kadoaki Ohashi	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+ahisamoto@md.okayama-u.ac.jp	Akiko Sato	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+khotta@md.okayama-u.ac.jp	Katsuyuki Hotta	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+tabata@md.okayama-u.ac.jp	Masahiro Tabata	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+tanimoto@md.okayama-u.ac.jp	Mitsune Tanimoto	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+kkiura@md.okayama-u.ac.jp	Katsuyuki Kiura	Endobronchial ultrasound-guided transbronchial biopsy with or without a guide sheath for diagnosis of lung Cancer
+susanta@iicb.res.in	Susanta Roychoudhury	Selective killing of G2 decatenation checkpoint defective colon cancer cells by catalytic topoisomerase II inhibitor
+hkmajumder@iicb.res.in	Hemanta Kumar Majumder	Selective killing of G2 decatenation checkpoint defective colon cancer cells by catalytic topoisomerase II inhibitor
+isabella.castiglioni@ibfm.cnr.it	Isabella Castiglioni	Prone 18F-FDG PET/CT changes diagnostic and surgical intervention in a breast cancer patient: some considerations about PET/CT imaging acquisition protocol
+pbenes@sci.muni.cz	Petr Benes	Wedelolactone induces growth of breast cancer cells by stimulation of estrogen receptor signalling
+jmorote@vhebron.net	Juan Morote	The Metabolic Syndrome and its Components in Patients with Prostate Cancer on Androgen Deprivation Therapy
+mgottesman@nih.gov	Michael M. Gottesman	Reduced accumulation of platinum drugs is not observed in drug-resistant ovarian cancer cell lines derived from cisplatin-treated patients
+unai.eletxigerra@tekniker.es	U. Eletxigerra	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+jmartinez@cicmicrogune.es	J. Martinez-Perdiguero	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+santos.merino@tekniker.es	S. Merino	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+rbarderas@quim.ucm.es	R. Barderas	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+rvillalonga@quim.ucm.es	R. Villalonga	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+susanacr@quim.ucm.es	S. Campuzano	Amperometric magnetoimmunosensor for ErbB2 breast cancer biomarker determination in human serum, cell lysates and intact breast cancer cells
+massimo.franchini@aopoma.it	Massimo Franchini	Cancer-associated thrombosis: investigating the role of new oral anticoagulants
+gpchen@mcw.edu	Guang-Pei Chen	A planning comparison of 7 irradiation options allowed in RTOG 1005 for early-stage breast cancer
+peter_howley@hms.harvard.edu	Peter M. Howley	Beta genus papillomaviruses and skin cancer
+nuchtern@bcm.edu	Jed G. Nuchtern	Primary malignant pulmonary tumors in children: a review of the national cancer data base
+vzgrdzel@uncc.edu	Valery Z. Grdzelishvili	An unexpected inhibition of antiviral signaling by virus-encoded tumor suppressor p53 in pancreatic cancer cells
+ybshim@pusan.ac.kr	Yoon-Bo Shim	Ultrasensitive detection of drug resistant cancer cells in biological matrixes using an amperometric nanobiosensor
+lunquansun@csu.edu.cn	Lun-Quan Sun	Identification and characterization of DNAzymes targeting DNA methyltransferase I for suppressing bladder cancer proliferation
+Irem.Guerbuez@fmi.ch	Irem Gurbuz	CCN4/WISP1 (WNT1 inducible signaling pathway protein 1): A focus on its role in cancer
+srizzgui@hotmail.com	Zhong-Zheng Gui	Cordyceps militaris polysaccharide triggers apoptosis and G0/G1 cell arrest in cancer cells
+simone.chevalier@mcgill.ca	Simone Chevalier	Electrochemical red-ox therapy of prostate cancer in nude mice
+kevin.franks@nhs.net	K.N. Franks	Stereotactic Ablative Body Radiotherapy for Lung Cancer
+yinzfk@aliyun.com	Zheng-Feng Yin	CXCL8, overexpressed in colorectal cancer, enhances the resistance of colorectal cancer cells to anoikis
+liyunfeng@medmail.com.cn	Yun-Feng Li	CXCL8, overexpressed in colorectal cancer, enhances the resistance of colorectal cancer cells to anoikis
+g.koning@erasmusmc.nl	Gerben Koning	Cetuximab-oxaliplatin-liposomes for epidermal growth factor receptor targeted chemotherapy of colorectal cancer
+dingxianting@sjtu.edu.cn	Xianting Ding	Electrochemical detection of lung cancer specific microRNAs using 3D DNA origami nanostructures
+liyuji1820@gmail.com	Yu-Ji Li	Folate-decorated anticancer drug and magnetic nanoparticles encapsulated polymeric carrier for liver cancer therapeutics
+j.i.kamstra@umcg.nl	J.I. Kamstra	Mouth opening in patients irradiated for head and neck cancer: A prospective repeated measures study
+hlchiou@csmu.edu.tw	Hui-Ling Chiou	Pterostilbene induce autophagy on human oral cancer cells through modulation of Akt and mitogen-activated protein kinase pathway
+170780@cch.org.tw	Ming-Ju Hsieh	Pterostilbene induce autophagy on human oral cancer cells through modulation of Akt and mitogen-activated protein kinase pathway
+thanh.nguyen@deakin.edu.au	Thanh Nguyen	Hidden Markov models for cancer classification using gene expression profiles
+m.boerrries@dkfz.de	Melanie Boerries	Global gene expression profiling analysis reveals reduction of stemness after B-RAF inhibition in colorectal cancer cell lines
+kozaburohayashi@gmail.com	Kozaburo Hayashi	Stiffness of cancer cells measured with an AFM indentation method
+pqqdg359@ybb.ne.jp	Mayumi Iwata	Stiffness of cancer cells measured with an AFM indentation method
+pam.moule@uwe.ac.uk	Pam Moule	Virtual patients: Development in cancer nursing education
+jorgen.ferguson@gmail.com	J. Ferguson	Long term results of RFA to lung metastases from colorectal cancer in 157 patients
+dr_nayefalzahrani@hotmail.com	N. Alzahrani	Long term results of RFA to lung metastases from colorectal cancer in 157 patients
+c.zihni@ucl.ac.uk	Ceniz Zihni	RhoGTPase signalling at epithelial tight junctions: Bridging the GAP between polarity and cancer
+stephen.terry@kcl.ac.uk	Stephen James Terry	RhoGTPase signalling at epithelial tight junctions: Bridging the GAP between polarity and cancer
+Julio.powsang@moffitt.org	Julio Pow-Sang	Salvage Therapies for Radiorecurrent Prostate Cancer
+charles.nwankire@dcu.ie	Charles E. Nwankire	Label-free impedance detection of cancer cells from whole blood on an integrated centrifugal microfluidic platform
+vince.russo@mcri.edu.au	V.C. Russo	IGFBP-2: The dark horse in metabolism and cancer
+mukeshd@iitm.ac.in	Mukesh Doble	Nanomaterials for early detection of cancer biomarker with special emphasis on gold nanoparticles in immunoassays/sensors
+vermars@iitm.ac.in	Rama S. Verma	Nanomaterials for early detection of cancer biomarker with special emphasis on gold nanoparticles in immunoassays/sensors
+crpatra@iict.res.in	Chitta Ranjan Patra	Green synthesis, characterization of gold and silver nanoparticles and their potential application for cancer therapeutics
+kejia_ding@yeah.net	Kejia Ding	Gene expression patterns combined with network analysis identify hub genes associated with bladder cancer
+Ghannadian@gmail.com	Mustafa Ghanadian	New jatrophane diterpenes from Euphorbia osyridea with proapoptotic effects on ovarian cancer cells
+r.vansoest@erasmusmc.nl	Robert J. van Soest	Targeting the Androgen Receptor Confers In Vivo Cross-resistance Between Enzalutamide and Docetaxel, But Not Cabazitaxel, in Castration-resistant Prostate Cancer
+shun_lu@126.com	Shun Lu	An interaction map of small-molecule kinase inhibitors with anaplastic lymphoma kinase (ALK) mutants in ALK-positive non-small cell lung cancer
+ffarjah@uw.edu	Farhood Farjah	Failure to rescue and pulmonary resection for lung cancer
+j.r.kroep@lumc.nl	J.R. Kroep	Disorganised stroma determined on pre-treatment breast cancer biopsies is associated with poor response to neoadjuvant chemotherapy: Results from the NEOZOTAC trial
+gaoxu_671227@163.com	Xu Gao	Long noncoding RNAs: Novel players in colorectal cancer
+aklopp@mdanderson.org	Ann H. Klopp	Optimizing packing contrast for MRI-based intracavitary brachytherapy planning for cervical cancer
+Rathmell@med.unc.edu	W. Kimryn Rathmell	Ror2 as a Therapeutic Target in Cancer
+cnyang@nuk.edu.tw	Chia-Ning Yang	Discovery of 3-phenylquinolinylchalcone derivatives as potent and selective anticancer agents against breast cancers
+yeloch@kmu.edu.tw	Yeh-Long Chen	Discovery of 3-phenylquinolinylchalcone derivatives as potent and selective anticancer agents against breast cancers
+kpienta1@jhmi.edu	Kenneth J. Pienta	Oligometastatic Prostate Cancer to the Navicular Bone: Case Report
+weizhou-zhang@uiowa.edu	Weizhou Zhang	Transcriptome analysis of basal and luminal tumor-initiating cells in ErbB2-driven breast cancer
+tomasz.jurkowski@ibc.uni-stuttgart.de	Tomasz P. Jurkowski	Somatic cancer mutations in the DNMT2 tRNA methyltransferase alter its catalytic properties
+albert.jeltsch@ibc.uni-stuttgart.de	Albert Jeltsch	Somatic cancer mutations in the DNMT2 tRNA methyltransferase alter its catalytic properties
+ark@fbmc.fcen.uba.ar	Alberto R. Kornblihtt	Effects of airborne particulate matter on alternative pre-mRNA splicing in colon cancer cells
+t.fenton@ucl.ac.uk	Tim Fenton	APOBEC3 genes: retroviral restriction factors to cancer drivers
+drpanhm@aliyun.com	Hongming Pan	MicroRNAs-mediated cell fate in triple negative breast cancers
+hcemonal@hotmail.com	Cem Onal	Isolated jejunal metastasis in a patient with cervical cancer: A case report
+bstanhatinh@gmail.com	Cao Tan Thai	Pelvic magnetic resonance imaging angioanatomy of the arterial blood supply to the penis in suspected prostate cancer patients
+shfch2005@163.com	Shufang Chang	Ultrasound-mediated destruction of paclitaxel and oxygen loaded lipid microbubbles for combination therapy in ovarian cancer xenografts
+wbding@shsmu.edu.cn	Wen-Bin Ding	Autophagy contributes to the enrichment and survival of colorectal cancer stem cells under oxaliplatin treatment
+coolice0917@163.com	Han-Bing Zou	Autophagy contributes to the enrichment and survival of colorectal cancer stem cells under oxaliplatin treatment
+Cattaneo.Roberto@mayo.edu	Roberto Cattaneo	Reverse genetics of Mononegavirales: How they work, new vaccines, and new cancer therapeutics
+Matthias.schnell@jefferson.edu	Matthias J. Schnell	Reverse genetics of Mononegavirales: How they work, new vaccines, and new cancer therapeutics
+a-matsu@nms.ac.jp	Akihisa Matsuda	Isoperistaltic versus antiperistaltic stapled side-to-side anastomosis for colon cancer surgery: a randomized controlled trial
+nunzio.cennamo@unipv.it	Nunzio Cennamo	An easy way to realize SPR aptasensor: A multimode plastic optical fiber platform for cancer biomarkers detection
+majid_malboubi@yahoo.com	Majid Malboubi	An open access microfluidic device for the study of the physical limits of cancer cell deformation during migration in confined environments
+g.charras@ucl.ac.uk	Guillaume Charras	An open access microfluidic device for the study of the physical limits of cancer cell deformation during migration in confined environments
+hkawasakiths@yahoo.co.jp	Hidenori Kawasaki	Endobronchial electrocautery wire snare prior to wedge bronchoplastic lobectomy for central-type lung cancer: A case report
+srihari@iict.res.in	P. Srihari	PMA-SiO2 catalyzed synthesis of indolo[2,3-c]quinolines as potent anti cancer agents
+ummanni@iict.res.in	R. Ummanni	PMA-SiO2 catalyzed synthesis of indolo[2,3-c]quinolines as potent anti cancer agents
+maria.fickova@savba.sk	Maria Fickova	A comparison of the effects of tributyltin chloride and triphenyltin chloride on cell proliferation, proapoptotic p53, Bax, and antiapoptotic Bcl-2 protein levels in human breast cancer MCF-7 cell line
+syhan@gnu.ac.kr	Sun-Young Han	Effects of KRC-108 on the Aurora A activity and growth of colorectal cancer cells
+bxu@brandeis.edu	Bing Xu	Ectoenzyme switches the surface of magnetic nanoparticles for selective binding of cancer cells
+joseph.haney@tceq.texas.gov	J. Haney Jr.	Implications of dose-dependent target tissue absorption for linear and non-linear/threshold approaches in development of a cancer-based oral toxicity factor for hexavalent chromium
+hubr@impcas.ac.cn	Burong Hu	A feedback regulation between miR-145 and DNA methyltransferase 3b in prostate cancer cell and their responses to irradiation
+ccy@csmu.edu.tw	Chien-Yi Chen	Radiation dose for normal organs by helical tomotherapy for lung cancer
+michael.h.johnson@jhmi.edu	Michael H. Johnson	Iatrogenic Extraprostatic Extension of Prostate Cancer From a Needle Biopsy
+gido.bittermann@uniklinik-freiburg.de	Gido Bittermann	Marking of tumor resection borders for improved radiation planning facilitates reduction of radiation dose to free flap reconstruction in head and neck cancer surgery
+bdchoi@skku.edu	Byoung-Deog Choi	Ultrafast laser microfabrication of a trapping device for colorectal cancer cells
+eddyzeng@gig.ac.cn	Eddy Y. Zeng	Size-dependent distribution and inhalation cancer risk of particle-bound polycyclic aromatic hydrocarbons at a typical e-waste recycling and an urban site
+rimnera@mskcc.org	Andreas Rimner	FDG-PET Maximum Standardized Uptake Value is Prognostic for Recurrence and Survival after Stereotactic Body Radiotherapy for Non-Small Cell Lung Cancer
+shun_lu14@163.com	Shun Lu	SEMA4B inhibits growth of non-small cell lung cancer in vitro and in vivo
+tianxinl@sina.com	Tianxin Lin	Gene expression profiling of WDR5 regulated genes in bladder cancer
+urolhj@sina.com	Jian Huang	Gene expression profiling of WDR5 regulated genes in bladder cancer
+harrisbm@musc.edu	Bonnie Martin-Harris	Respiratory-Swallow Training in Patients With Head and Neck Cancer
+aliu@coh.org	An Liu	Effect of CT contrast on volumetric arc therapy planning (RapidArc and helical tomotherapy) for head and neck cancer
+guoying.chen@ars.usda.gov	Guoying Chen	Inorganic arsenic in starchy roots, tubers, and plantain and assessment of cancer risk of sub-Saharan African populations
+lutterbeck@leuphana.de	Carlos Alexandre Lutterbeck	Evaluation of the toxic effects of four anti-cancer drugs in plant bioassays and its potency for screening in the context of waste water reuse for irrigation
+gyzhou@ciac.ac.cn	Guangyuan Zhou	Use of asymmetric multilayer polylactide nanofiber mats in controlled release of drugs and prevention of liver cancer recurrence after surgery in mice
+xiez@ciac.ac.cn	Zhigang Xie	Use of asymmetric multilayer polylactide nanofiber mats in controlled release of drugs and prevention of liver cancer recurrence after surgery in mice
+xls@zjnu.edu.cn	Lishan Xu	Structural characterization of a broccoli polysaccharide and evaluation of anti-cancer cell proliferation effects
+shuikeda@ncc.go.jp	Shun-ichi Ikeda	Spontaneous ureteral rupture during concurrent chemoradiotherapy in a woman with uterine cervical cancer
+tcui@me.umn.edu	Tianhong Cui	Towards intrinsic graphene biosensor: A label-free, suspended single crystalline graphene sensor for multiplex lung cancer tumor markers detection
+jason.davis@chem.ox.ac.uk	Jason J. Davis	Low fouling label-free DNA sensor based on polyethylene glycols decorated with gold nanoparticles for the detection of breast cancer biomarkers
+xiliangluo@hotmail.com	Xiliang Luo	Low fouling label-free DNA sensor based on polyethylene glycols decorated with gold nanoparticles for the detection of breast cancer biomarkers
+yongquan@mail.xjtu.edu.cn	Yongquan Qu	Highly sensitive and robust peroxidase-like activity of porous nanorods of ceria and their application for breast cancer detection
+ramyakanth3@gmail.com	K.T. Ramya Devi	Antioxidant studies of chitosan nanoparticles containing naringenin and their cytotoxicity effects in lung cancer cells
+elena.bogdanovic@utoronto.ca	Elena Bogdanovic	IDH1, lipid metabolism and cancer: Shedding new light on old ideas
+g.g.kuhnle@reading.ac.uk	Gunter G.C. Kuhnle	Associations between flavan-3-ol intake and CVD risk in the Norfolk cohort of the European Prospective Investigation into Cancer (EPIC-Norfolk)
+xinyanzhangzh@126.com	Xin-Yan Zhang	13,14-Dihydroxy groups are critical for the anti-cancer effects of garcinol
+xinchen@cczu.edu.cn	Xin Chen	13,14-Dihydroxy groups are critical for the anti-cancer effects of garcinol
+syang7@jhmi.edu	Stephen C. Yang	Why are patients being readmitted after surgery for esophageal cancer?
+jlyang@semi.ac.cn	Jinling Yang	A new device for liver cancer biomarker detection with high accuracy
+yunatswu@swu.edu.cn	Yun Xiang	RNA-regulated molecular tweezers for sensitive fluorescent detection of microRNA from cancer cells
+benvidi89@gmail.com	A. Benvidi	A highly sensitive and selective electrochemical DNA biosensor to diagnose breast cancer
+f97945017@ntu.edu.tw	Yi-Ju Tseng	A multiple measurements case-based reasoning method for predicting recurrent status of liver cancer patients
+tina@cpic.org	Christina A. Clarke	Indicators of microbial-rich environments and the development of papillary thyroid cancer in the California Teachers Study
+tina.dalianis@ki.se	Tina Dalianis	A model for predicting clinical outcome in patients with human papillomavirus-positive tonsillar and base of tongue cancer
+yoonjung.kang@nswcc.org.au	Yoon-Jung Kang	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+Jeff.Tan@thewomens.org.au	Jeffrey Tan	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+jiebin.lew@nswcc.org.au	Jie-Bin Lew	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+alain.demers@phac-aspc.gc.ca	Alain Demers	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+rlotocki@mymts.net	Robert Lotocki	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+Erich.Kliewer@cancercare.mb.ca	Erich V. Kliewer	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+neville.hacker@sesiahs.health.nsw.gov.au	Neville F. Hacker	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+Michael.Jackson@sesiahs.health.nsw.gov.au	Michael Jackson	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+Geoff.Delaney@sswahs.nsw.gov.au	Geoff P. Delaney	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+Michael.Barton@sswahs.nsw.gov.au	Michael Barton	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+karen.canfell@nswcc.org.au	Karen Canfell	Optimal uptake rates for initial treatments for cervical cancer in concordance with guidelines in Australia and Canada: Results from two large cancer facilities
+tongrensj163@163.com	Shen Jie	The novel HDAC inhibitor AR-42-induced anti-colon cancer cell activity is associated with ceramide production
+steven.narod@wchospital.ca	Steven A Narod	Clinical outcomes in women with breast cancer and a PALB2 mutation: a prospective cohort analysis
+arun.pokhrel@cancer.fi	Arun Pokhrel	Choosing the net survival method for cancer survival estimation
+ania.tokajuk@gmail.com	Anna Tokajuk	Antidiabetic drugs and risk of cancer
+daqiangli1974@fudan.edu.cn	Da-Qiang Li	Unravelling the Complexity and Functions of MTA Coregulators in Human Cancer
+bcmrxk@gwu.edu	Rakesh Kumar	Unravelling the Complexity and Functions of MTA Coregulators in Human Cancer
+jky1@psu.edu	Jong K. Yun	The regulatory roles of ROCK and MRCK kinases in the plasticity of cancer cell migration
+cmoreno@emory.edu	Carlos S. Moreno	RNA biomarkers to facilitate the identification of aggressive prostate cancer
+rmike@stanford.edu	Michael E. Rothenberg	KIT Signaling Promotes Growth of Colon Xenograft Tumors in Mice and is Upregulated in a Subset of Human Colon Cancers
+giorgan10@libero.it	Giorgio Gandaglia	Cardiovascular Mortality in Patients With Metastatic Prostate Cancer Exposed to Androgen Deprivation Therapy: A Population-Based Study
+suim@zju.edu.cn	Meihua Sui	Targeting arginine metabolism pathway to treat arginine-dependent cancers
+anwar71@oita-u.ac.jp	Anwar Tawfik Amin	Safety and feasibility of laparoscopic colo-rectal surgery for cancer at a tertiary center in a developing country: Egypt as an example
+gekaw@med.kitasato-u.ac.jp	Hiroshi Kawamata	Discrepancies between the K-ras mutational status of primary colorectal cancers and corresponding liver metastases is found in codon 13
+nicholaszaorsky@gmail.com	Nicholas G. Zaorsky	What is the ideal radiotherapy dose to treat prostate cancer? A meta-analysis of biologically equivalent dose escalation
+lmp@zju.edu.cn	Maode Lai	Epithelial-mesenchymal transition in colorectal cancer metastasis: A system review
+pnguyen@LROC.harvard.edu	Paul L. Nguyen	National Trends in the Recommendation of Radiotherapy After Prostatectomy for Prostate Cancer Before and After the Reporting of a Survival Benefit in March 2009
+dmorean@ricres.org	Diane F. Morean	Therapies for Cognitive Deficits Associated with Chemotherapy for Breast Cancer: A Systematic Review of Objective Outcomes
+c.j.h.van_de_velde@lumc.nl	Cornelis J.H. van de Velde	Bowel Function 14 Years After Preoperative Short-Course Radiotherapy and Total Mesorectal Excision for Rectal Cancer: Report of a Multicenter Randomized Trial
+sur112@poh.osaka-med.ac.jp	Satoru Tanaka	Phase II Study of Neoadjuvant Anthracycline-Based Regimens Combined With Nanoparticle Albumin-Bound Paclitaxel and Trastuzumab for Human Epidermal Growth Factor Receptor 2-Positive Operable Breast Cancer
+paul.beckett1@nhs.net	P. Beckett	Demographics, management and survival of patients with malignant pleural mesothelioma in the National Lung Cancer Audit in England and Wales
+anne-marie.bouvier@u-bourgogne.fr	Anne-Marie Bouvier	Factors influencing inclusion in digestive cancer clinical trials: a population-based study
+Punita.dhawan@unmc.edu	Punita Dhawan	Claudins and Cancer: Fall of the Soldiers Entrusted to Protect the Gate and Keep the Barrier Intact
+carmela.ricciardelli@adelaide.edu.au	C. Ricciardelli	The Role of ABC Transporters in Ovarian Cancer Progression and Chemoresistance
+david_sher@rush.edu	David J. Sher	Comparative effectiveness of neoadjuvant chemoradiotherapy versus chemotherapy alone followed by surgery for patients with stage IIIA non-small cell lung cancer
+jclee@amc.seoul.kr	Jae Cheol Lee	Multiple resistant factors in lung cancer with primary resistance to EGFR-TK inhibitors confer poor survival
+Rahul.Aggarwal@ucsf.edu	Rahul R. Aggarwal	Intermittent Chemotherapy as a Platform for Testing Novel Agents in Patients With Metastatic Castration-Resistant Prostate Cancer: A Department of Defense Prostate Cancer Clinical Trials Consortium Randomized Phase II Trial of Intermittent Docetaxel With Prednisone With or Without Maintenance GM-CSF
+sonia@upmc.edu	Amy Soni	Cost Effectiveness of Adjuvant Chemotherapy in the Treatment of Early-Stage Colon Cancer
+yinhsun.feng@gmail.com	Yin-Hsun Feng	The association between obesity and gynecological cancer
+goutamjnu@hotmail.com	Goutam Kumar Tanti	SG2NA enhances cancer cell survival by stabilizing DJ-1 and thus activating Akt
+hl@tmu.edu.tw	Huei Lee	Nickel may contribute to EGFR mutation and synergistically promotes tumor invasion in EGFR-mutated lung cancer via nickel-induced microRNA-21 expression
+rab@okstate.edu	Richard A. Bunce	Synthesis and evaluation of second generation Flex-Het scaffolds against the human ovarian cancer A2780 cell line
+jmlin@mail.tsinghua.edu.cn	Jin-Ming Lin	A non-invasive genomic diagnostic method for bladder Cancer using size-based filtration and microchip electrophoresis
+ldlw@hku.hk	Linda Dong-Ling Wang	Cervical cancer prevention practices through screening and vaccination: A cross-sectional study among Hong Kong Chinese women
+diane.severin@albertahealthservices.ca	Diane Severin	Three-Arm Randomized Phase III Trial: Quality Aloe and Placebo Cream Versus Powder as Skin Treatment During Breast Cancer Radiation Therapy
+dwwang@tjh.tjmu.edu.cn	Dao Wen Wang	Cytochrome P450-CYP2 Family-Epoxygenase Role in Inflammation and Cancer
+sadahiro@is.icc.u-tokai.ac.jp	Sotaro Sadahiro	Treatment rationale and study design for clinical trial on the efficacy of UFT/LV for stage II colorectal cancer with risk factors for recurrence (JFMC46-1201)
+drchriscao@gmail.com	Christopher Cao	Could less be more? - A systematic review and meta-analysis of sublobar resections versus lobectomy for non-small cell lung cancer according to patient selection
+m.babaei@dkfz.de	M. Babaei	Histological concordance in familial central nervous system tumors: Evidence from nationwide Swedish Family-Cancer Database
+kwebber1@nhs.net	Katherine Webber	Accuracy of a Diagnostic Algorithm to Diagnose Breakthrough Cancer Pain as Compared with Clinical Assessment
+engc@ccf.org	Charis Eng	Association of specific PTEN/10q haplotypes with endometrial cancer phenotypes in African-American and European American women
+sarah.kelleher@duke.edu	Sarah A. Kelleher	A Pilot Study of a Mobile Health Pain Coping Skills Training Protocol for Patients with Persistent Cancer Pain
+gabriele.martelli@istitutotumori.mi.it	Gabriele Martelli	Omission of radiotherapy in elderly patients with early breast cancer: 15-Year results of a prospective non-randomised trial
+David.Brewster@nhs.net	David H. Brewster	Risk of oesophageal cancer among patients previously hospitalised with eating disorder
+JRHecht@mednet.ucla.edu	J. Randolph Hecht	Extended RAS Analysis for Anti-Epidermal Growth Factor Therapy in Patients With Metastatic Colorectal Cancer
+bslomovitz@med.miami.edu	Brian M. Slomovitz	Update on sentinel lymph node biopsy for early-stage vulvar cancer
+csiwl@nus.edu.sg	Ling Zhi Wang	Garcinol: Current status of its anti-oxidative, anti-inflammatory and anti-cancer effects
+phcgbc@nus.edu.sg	Boon Cher Goh	Garcinol: Current status of its anti-oxidative, anti-inflammatory and anti-cancer effects
+slee@chosun.ac.kr	Shin-Young Lee	Cultural Factors Associated with Breast and Cervical Cancer Screening in Korean American Women in the US: An Integrative Literature Review
+jens.neumann@med.uni-muenchen.de	Jens Neumann	Expression of cancer stem cell markers in metastatic colorectal cancer correlates with liver metastasis, but not with metastasis to the central nervous system
+jvidal@mutuaterrassa.es	Joan Vidal-Jove	Ultrasound Guided High Intensity Focused Ultrasound For Malignant Tumors: the Spanish Experience of Survival Advantage in Stage III and IV Pancreatic Cancer
+hanwd@zju.edu.cn	Weidong Han	Nuclear factor of activated T cells in cancer development and treatment
+pulsy@korea.ac.kr	Sang Yeub Lee	Quercetin enhances chemosensitivity to gemcitabine in lung cancer cells by inhibiting heat shock protein 70 expression
+lhauerberg@hotmail.com	L. Hauerberg	Vaginal Radical Trachelectomy for early stage cervical cancer. Results of the Danish National Single Center Strategy
+mcolonna.registre@wanadoo.fr	M. Colonna	Recent trends in incidence, geographical distribution, and survival of papillary thyroid cancer in France
+Bihiyga.Salhi@UGent.be	Bihiyga Salhi	Rehabilitation in patients with radically treated respiratory cancer: a randomized controlled trial comparing two training modalities
+mprovenciop@gmail.com	M. Provencio	Prevalence of EGFR mutations in newly diagnosed locally advanced or metastatic non-small cell lung cancer Spanish patients and its association with histological subtypes and clinical features: The Spanish REASON study
+hotsong@yuhs.ac	Ho-Taek Song	18F-Fluoride PET Imaging in a Nude Rat Model of Bone Metastasis from Breast Cancer: Comparison with 18F-FDG and Bioluminescence Imaging
+Mkamrava@mednet.ucla.edu	Mitchell Kamrava	Early clinical outcomes of ultrasound-guided CT-planned high-dose-rate interstitial brachytherapy for primary locally advanced cervical cancer
+kshah@mgh.harvard.edu	Khalid Shah	Stem Cell-Based Therapies for Cancer
+kshah@mgh.harvard.edu	Khalid Shah	Stem Cell-Based Therapies for Cancer
+jovane.hamelin@outlook.com	Jovane Hamelin-Morrissette	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+Suzie.Cloutier@uqtr.ca	Suzie Cloutier	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+Julie.Girouard@uqtr.ca	Julie Girouard	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+d_belgo@hotmail.com	Denise Belgorosky	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+jean.legault@uqac.ca	Jean Legault	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+Carlos.Reyes-Moreno@uqtr.ca	Carlos Reyes-Moreno	Identification of an anti-inflammatory derivative with anti-cancer potential: The impact of each of its structural components on inflammatory responses in macrophages and bladder cancer cells
+jnzheng@xzmc.edu.cn	Junnian Zheng	p53-mediated autophagic regulation: A prospective strategy for cancer therapy
+Johan.vansteenkiste@uzleuven.be	Johan Vansteenkiste	Lung cancer at the intensive care unit: The era of targeted therapy
+suresh.ramalingam@emory.edu	Suresh S. Ramalingam	Targeting EGFR in lung cancer: Lessons learned and future perspectives
+jrlu@ufl.edu	Jianrong Lu	FBXO11 promotes ubiquitination of the Snail family of transcription factors in cancer progression and epidermal development
+pbfisher@vcu.edu	Paul B. Fisher	The Quest for an Effective Treatment for an Intractable Cancer: Established and Novel Therapies for Pancreatic Adenocarcinoma
+dr_amr722@hotmail.com	Amr Abd El Fattah Hassan Gadalla	Value of ultrasound elastography versus transrectal prostatic biopsy in prostatic cancer detection
+sfathy1977@hotmail.com	Sherif Fathy Abd El Rahman	Value of ultrasound elastography versus transrectal prostatic biopsy in prostatic cancer detection
+Shadyeliaanis76@yahoo.com	Shady Elia Anis	Value of ultrasound elastography versus transrectal prostatic biopsy in prostatic cancer detection
+dr_mohsenkhalil@yahoo.com	Mohsen El-Sayed khalil	Value of ultrasound elastography versus transrectal prostatic biopsy in prostatic cancer detection
+dr_ahitagni@yahoo.co.in	Ahitagni Biswas	Radiation induced depigmentation disorder in two patients with breast cancer: Exploring a rare accompaniment
+r_konwar@cdri.res.in	Rituraj Konwar	Synthesis of Targeted Dibenzo[b,f]thiepines and Dibenzo[b,f]oxepines as Potential Lead Molecules with Promising Anti-breast Cancer Activity
+kanchan_hajela@cdri.res.in	K. Hajela	Synthesis of Targeted Dibenzo[b,f]thiepines and Dibenzo[b,f]oxepines as Potential Lead Molecules with Promising Anti-breast Cancer Activity
+jaime.charris@ucv.ve	Jaime Charris	Synthesis, crystal structure and effect of indeno[1,2-b]indole derivatives on prostate cancer in vitro. Potential effect against MMP-9
+r.petrioli@ao-siena.toscana.it	Roberto Petrioli	Cisplatin, etoposide, and bevacizumab regimen followed by oral etoposide and bevacizumab maintenance treatment in patients with extensive-stage small cell lung cancer: a single-institution experience.
+poorna.anandavadivelan@ki.se	Poorna Anandavadivelan	Sarcopenic obesity: A probable risk factor for dose limiting toxicity during neo-adjuvant chemotherapy in oesophageal cancer patients
+lut@iupui.edu	Tao Lu	Role of post-translational modification of the Y box binding protein 1 in human cancers
+mwatanabe@hospital.chiba-u.jp	Miho Watanabe Nemoto	New approach to relieving pain and distress during high-dose-rate intracavitary irradiation for cervical cancer
+sjhong346@yuhs.ac	Sung Joon Hong	The prognostic effect of prostate-specific antigen half-life at the first follow-up visit in newly diagnosed metastatic prostate cancer
+HHzhou2003@163.com	Hong-Hao Zhou	Identification and validation of gene module associated with lung cancer through coexpression network analysis
+m.dahele@vumc.nl	Max Dahele	High-dose conventional thoracic re-irradiation for lung cancer: Updated results
+achan@mgh.harvard.edu	Andrew T. Chan	Association Between Plasma Levels of Macrophage Inhibitory Cytokine-1 Before Diagnosis of Colorectal Cancer and Mortality
+l.salerno@unict.it	Loredana Salerno	Novel imidazole derivatives as heme oxygenase-1 (HO-1) and heme oxygenase-2 (HO-2) inhibitors and their cytotoxic activity in human-derived cancer cell lines
+l.salerno@unict.it	Loredana Salerno	Novel imidazole derivatives as heme oxygenase-1 (HO-1) and heme oxygenase-2 (HO-2) inhibitors and their cytotoxic activity in human-derived cancer cell lines
+jboone@uabmc.edu	Jonathan D. Boone	Ovarian and cervical cancer patient derived xenografts: the past, present, and future
+hmoreira@fpce.uc.pt	Helena Moreira	Is the link between posttraumatic growth and anxious symptoms mediated by marital intimacy in breast cancer patients?
+olivier.dewever@ugent.be	Olivier De Wever	Impact of neoadjuvant therapy on cancer-associated fibroblasts in rectal cancer
+pieter.demetter@erasme.ulb.ac.be	Pieter Demetter	Impact of neoadjuvant therapy on cancer-associated fibroblasts in rectal cancer
+mkhera@bcm.edu	Mohit Khera	Testosterone Therapy after Radiation Therapy for Low, Intermediate, and High Risk Prostate Cancer
+bansi.malhotra@gmail.com	Bansi D. Malhotra	Reduced graphene oxide modified smart conducting paper for Cancer biosensor
+salothman@kdfshrc.edu.sa	Saleh Al-Othman	Tackling cancer control in the Gulf Cooperation Council Countries
+tianxia185@21cn.com	Xia Tian	Increased expression of MMP14 correlates with the poor prognosis of Chinese patients with gastric cancer
+heeobgy@naver.com	Tae-Hee Kim	Vitamin D receptor gene polymorphisms and the risk for female reproductive cancers: A meta-analysis
+jyhwang@korea.ac.kr	Ji-Young Hwang	Vitamin D receptor gene polymorphisms and the risk for female reproductive cancers: A meta-analysis
+slerner@bcm.edu	Seth P. Lerner	Potential Role for Targeted Therapy in Muscle-Invasive Bladder Cancer : Lessons from the Cancer Genome Atlas and Beyond
+gerhardt.attard@icr.ac.uk	Gerhardt Attard	Sequencing of agents in castration-resistant prostate cancer
+baumanje@upmc.edu	Julie E. Bauman	Chemoprevention targets for tobacco-related head and neck cancer: Past lessons and future directions
+julie.lynch@va.gov	Julie A. Lynch	Genetic Tests to Identify Risk for Breast Cancer
+guillaume.broc@u-bordeaux.fr	G. Broc	Impact of the telephone motivational interviewing on the colorectal cancer screening participation. A randomized controlled study
+zolban@okstate.edu	Hamed Majidi Zolbanin	Predicting overall survivability in comorbidity of cancers: A data mining approach
+karim.fizazi@gustaveroussy.fr	Karim Fizazi	Achievements and Perspectives in Prostate Cancer Phase 3 Trials from Genitourinary Research Groups in Europe: Introducing the Prostate Cancer Consortium in Europe
+minhueychen@ntu.edu.tw	Min-Huey Chen	Effects of radiotherapy on salivary gland function in patients with head and neck cancers
+guillaume.broc@u-bordeaux.fr	G. Broc	Impact of the telephone motivational interviewing on the colorectal cancer screening participation. A randomized controlled study
+zolban@okstate.edu	Hamed Majidi Zolbanin	Predicting overall survivability in comorbidity of cancers: A data mining approach
+karim.fizazi@gustaveroussy.fr	Karim Fizazi	Achievements and Perspectives in Prostate Cancer Phase 3 Trials from Genitourinary Research Groups in Europe: Introducing the Prostate Cancer Consortium in Europe
+minhueychen@ntu.edu.tw	Min-Huey Chen	Effects of radiotherapy on salivary gland function in patients with head and neck cancers
+samantha.vaishnavi@smvdu.ac.in	Samantha Vaishnavi	Combined effect of microRNA, nutraceuticals and drug on pancreatic cancer cell lines
+bamezai@hotmail.com	Rameshwar N.K. Bamezai	Combined effect of microRNA, nutraceuticals and drug on pancreatic cancer cell lines
+fernando.angarita@mail.utoronto.ca	F.A. Angarita	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+tyler.chesney@gmail.com	T. Chesney	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+Christine.Elser@uhn.ca	C. Elser	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+AnnaMarie.Mulligan@uhn.ca	A.M. Mulligan	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+David.McCready@uhn.ca	D.R. McCready	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+JEscallon@mtsinai.on.ca	J. Escallon	Treatment patterns of elderly breast cancer patients at two Canadian cancer centres
+jsunha@yuhs.ac	Sun Ha Jee	Screening Prostate-specific Antigen Concentration and Prostate Cancer Mortality: The Korean Heart Study
+dhyan.chandra@roswellpark.org	Dhyan Chandra	Restoration of mitochondria function as a target for cancer therapy
+zhangfghyi@gmail.com	Yi Zhang	LFC131 peptide-conjugated Polymeric Nanoparticles for the Effective Delivery of Docetaxel in CXCR4 Overexpressed Lung Cancer Cells
+eisenberg@stanford.edu	Michael L. Eisenberg	Increased Risk of Cancer in Infertile Men: Analysis of U.S. Claims Data
+yohann.loriot@gustaveroussy.fr	Yohann Loriot	Effect of enzalutamide on health-related quality of life, pain, and skeletal-related events in asymptomatic and minimally symptomatic, chemotherapy-naive patients with metastatic castration-resistant prostate cancer (PREVAIL): results from a randomised, phase 3 trial
+Swebb1@hfhs.org	Shawn Webb	Epidermoid cancers of the anal canal
+mwchen@umac.mo	Meiwan Chen	Gambogic acid sensitizes resistant breast cancer cells to doxorubicin through inhibiting P-glycoprotein and suppressing survivin expression
+ytwang@umac.mo	Yitao Wang	Gambogic acid sensitizes resistant breast cancer cells to doxorubicin through inhibiting P-glycoprotein and suppressing survivin expression
+chenkg@nus.edu.sg	Koon Gee Neoh	Mucoadhesive polyacrylamide nanogel as a potential hydrophobic drug carrier for intravesical bladder cancer therapy
+egeblad@cshl.edu	Mikala Egeblad	Presence of Insulin-Like Growth Factor Binding Proteins Correlates With Tumor-Promoting Effects of Matrix Metalloproteinase 9 in Breast Cancer 1 2
+gnarayan@bhu.ac.in	Gopeshwar Narayan	Anti-tumor activity of staurosporine in the tumor microenvironment of cervical cancer: An in vitro study
+haradah@kure-nh.go.jp	Hiroaki Harada	Methylated DLX4 Predicts Response to Pathologic Stage I Non-Small Cell Lung Cancer Resection

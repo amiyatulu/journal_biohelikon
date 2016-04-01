@@ -1,0 +1,69 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %}  
+{% block header %} 
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'journal:journalhome' %}">Biohelikon</a>
+        <ul class="social-icons">
+        {% include "journal/journalsocialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            {% include "journal/bccrhomecommonlinks.html" %}
+            
+            
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Cancer and Clinical Research</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post journalhome">
+	  <h3>Cancer and Clinical Research: Open Access</h3><p><b>Biohelikon: Cancer &amp; Clinical Research </b> is an Open Access peer reviewed journal publishes high quality research on all the aspects of basic and clinical research in the areas of Cancer Biology and Oncology.  The Journal aims to publish original papers, review, case reports, short reports, editorials and letter to the editor in the areas of cancer research including diagnosis, treatment and prevention of cancer.</p>
+    <p>The journal provides upto date information on cancer research and therapy. The journal mainly focuses on - Cancer cell biology, cancer epidemiology, Carcinogenesis, Biomarkers, Chemotherapy, Cell, Molecular, Stem cell biology, Hematology, Genomics, Cancer immunology, Drug discovery, Clinical trials, Tumor immunology, Radiation oncology, Surgical oncology, Palliative care,  and Rehabilitation Therapy.</p>
+    <h3>Salient Features</h3><p>Your article will be usually processed with in 45 days of submission with assignment of reviewer after two days of submission.</p>
+   <h3>Why Open Access?</h3><p>Biohelikon: Cancer &amp; Clinical Research publishes under Gold Open Access model, all the research article will be made available freely and immediately upon publication to read and reuse under the terms of Open Access. Open access gives a worldwide audience larger than that of any subscription-based journal and thus increases the visibility and impact of published works. It also enhances indexing, retrieval power and eliminates the need for permissions to reproduce and distribute content.</p>
+	<h3>Aims and scope</h3> 
+<p>The Biohelikon: Cancer & Clinical Research publishes original, peer reviewed cutting edge research work on basic and clinical aspects of cancer biology. It aims to publish the highest quality clinical research in human health to improve the quality of life worldwide.</p> 
+<p>We aim to bring important work to a wide range of audience and therefore publish articles that advance our understanding of cancer research and their treatment. It is specialized in clinical trials, translational studies that allow improved diagnosis, and therapy of cancer.</p><p> The journal scope include but not limited to following areas-
+
+<br/><br/><br/><b>Types of Cancer</b><br/><br/>Breast Cancer, Lung Cancer, Colorectal Cancer, Cervical Cancer, Prostate Cancer,
+                  Bladder Cancer, Stomach Cancer, Leukemia, Oesophagus Cancer,  Sarcoma,
+                             Ovarian Cancer, Pancreatic Cancer, Liver Cancer, Skin Cancer- Melanoma, Brain/CNS
+Tumors, Oral Cancer,  Ovarian Cancer, Thyroid Cancer and more.,</p>
+<ul>
+<li>Cancer cell biology
+</li><li>Cancer epidemiology
+</li><li>Cancer Biomarkers
+</li><li>Carcinogenesis 
+</li><li>Cancer genetics
+</li><li>Drug discovery
+</li><li>Chemotherapy 
+</li><li>Cell, Molecular and Stem cell biology
+</li><li>Clinical Trails
+</li><li>Cancer Immunology
+</li><li>Tumor immunology
+</li><li>Radiation Oncology 
+</li><li>Hematology/Oncology 
+</li><li>Geriatric Oncology 
+</li><li>Cancer Diagnosis 
+</li><li>Cancer Prevention
+</li><li>Cancer Treatment 
+</li><li>Radiation Therapy 
+</li><li>Palliative care
+</li><li>Rehabilitation Therapy 
+</li><li>Stem cells
+</li><li>Surgical oncology</li>
+</ul>
+	</div>
+    <aside role="sidelinks">
+    <img src="{{ STATIC_URL }}assets/images/cancer.jpg">
+    </aside>
+</article>
+
+{% endblock %}

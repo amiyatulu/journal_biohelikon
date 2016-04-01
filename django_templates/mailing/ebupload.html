@@ -1,0 +1,19 @@
+{% load url from future %}
+<div>
+{% if form.is_multipart %}
+<form action="{{ request.path }}" method="post" enctype="multipart/form-data">
+{% else %}
+<form method="post" action="{{ request.path }}">
+{% endif %}
+{% csrf_token %}
+<select name="journalid">
+<option>Select Journal </option>
+{% for journal in journaltemp %}
+<option value={{ journal.id }}>{{ journal.journal_name }} </option>
+
+{% endfor %}
+</select>
+{{ form.as_p }}
+<input type="submit" value="Submit" />
+</form>
+</div>

@@ -1,0 +1,38 @@
+{% extends "tracking/htmlarcana.html" %} 
+{% load url from future %}  
+{% block header %} 
+  <header class="clearfix">
+      <div class="container">
+        <a id="logo" href="{% url 'journal:journalhome' %}">Biohelikon</a>
+        <ul class="social-icons">
+        {% include "journal/journalsocialicons.html" %}
+        </ul>
+        <nav class="clearfix">
+          <ul role="navigation">
+            {% include "journal/bpphomecommonlinks.html" %}
+            
+            
+          </ul>
+        </nav>
+      </div>
+  </header>
+{% endblock %}
+{% block banner %}
+<hgroup>
+	<h1>Biohelikon: Plant Physiology</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post journalhome">
+	<h3>Aims &amp; Scope</h3><p>Biohelikon: Plant Physiology is an open access international journal that deals with physiology of plants.
+Scope of the journal includes study of all internal activities of plants including molecular and cell biology, genetics, hormones and environmental biology.
+    </p>
+    <h3>Salient Features</h3><p>Your article will be usually processed with in 45 days of submission with assignment of reviewer after two days of submission.</p>
+    <h3>Why Open Access?</h3><p>Open access gives a worldwide audience larger than that of any subscription-based journal and thus increases the visibility and impact of published works. It also enhances indexing, retrieval power and eliminates the need for permissions to reproduce and distribute content.</p>
+	</div>
+    <aside role="sidelinks">
+    <img src="{{ STATIC_URL }}assets/images/plant.jpg">
+    </aside>
+</article>
+
+{% endblock %}

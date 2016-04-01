@@ -1,0 +1,24 @@
+{% extends "journal/journalextend.html" %}
+{% block script %}
+{% include "tracking/scriptarcana.html" %}
+{% if homeblock.block2 %}
+{{ homeblock.block2|safe }}
+{% endif %}
+{% endblock %}
+
+{% block banner %}
+<hgroup>
+	<h1>{{ homeblock.h1 | safe }}</h1>
+
+</hgroup>
+<article role="main" class="clearfix">
+	<div class="post journalhome">
+	{{ homeblock.block1 | safe }}
+	</div>
+    <aside role="sidelinks">
+    <img src="{{ MEDIA_URL }}{{ homeblock.photo }}">
+    </aside>
+</article>
+
+{% endblock %}
+
