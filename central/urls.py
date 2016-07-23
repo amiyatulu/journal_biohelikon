@@ -20,7 +20,6 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^mailing/', include('mailing.urls',namespace="mailing")),
     url(r'^tracking/', include('tracking.urls', namespace="tracking")),
     url(r'^subjects/', include('journal.urls', namespace="journal")),
     url(r'^journal/article/(?P<aid>\d+)/(?P<slug2>[-\w\d]+)/(?P<slug>[-\w\d]+)/$', journal.views.articlefulldetails, name="fullarticle"),

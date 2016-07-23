@@ -1,22 +1,22 @@
 # Django settings for newproject project.
 
 
-DEBUG = False
+DEBUG = True
 TEMPLATE_DEBUG = DEBUG
-PREPEND_WWW = True
+PREPEND_WWW = False
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
 )
-ALLOWED_HOSTS = ['.biohelikon.org']
+ALLOWED_HOSTS = ['']
 MANAGERS = ADMINS
-
+BASE_URL = ""
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'biohelik_central',                      # Or path to database file if using sqlite3.
-        'USER': 'biohelik_biobio',                      # Not used with sqlite3.
-        'PASSWORD': '$3heuieo#@&',                  # Not used with sqlite3.
+        'NAME': '',                      # Or path to database file if using sqlite3.
+        'USER': '',                      # Not used with sqlite3.
+        'PASSWORD': '',                  # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '', 
 	
@@ -36,10 +36,10 @@ DATABASES = {
 # If running in a Windows environment this must be set to the same as your
 # system time zone.
 
-EMAIL_HOST = 'smtp.webfaction.com'
-EMAIL_HOST_USER = 'biohelikon'
-EMAIL_HOST_PASSWORD = 'p#ct$p&'
-DEFAULT_FROM_EMAIL = 'Biohelikon <contact@biohelikon.org>'
+EMAIL_HOST = ''
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+DEFAULT_FROM_EMAIL = ''
 
 TIME_ZONE = 'UTC'
 USE_TZ = True
@@ -60,32 +60,33 @@ USE_L10N = True
 
 # Absolute filesystem path to the directory that will hold user-uploaded files.
 # Example: "/home/media/media.lawrence.com/media/"
-MEDIA_ROOT = '/home/amiyatulu/webapps/staticbiohelik/djangocentralmediafiles/'
-HIDDEN_ROOT = '/home/amiyatulu/webapps/biohelik/djangocentral/files/'
+MEDIA_ROOT = '/media/staticbiohelik/djangocentralmediafiles/'
+HIDDEN_ROOT = '/media/djangocentral/files/'
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash.
 # Examples: "http://media.lawrence.com/media/", "http://example.com/media/"
-MEDIA_URL = 'http://biohelikon.org/static/djangocentralmediafiles/'
+
+MEDIA_URL = BASE_URL +  '/static/djangocentralmediafiles/'
 
 # Absolute path to the directory static files should be collected to.
 # Don't put anything in this directory yourself; store your static files
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/home/media/media.lawrence.com/static/"
-STATIC_ROOT = "/home/amiyatulu/webapps/staticbiohelik/djangocentralstaticfiles/"
+STATIC_ROOT = "/media/staticbiohelik/djangocentralstaticfiles/"
 
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
-STATIC_URL = "http://biohelikon.org/static/djangocentralstaticfiles/"
+STATIC_URL = BASE_URL +  "/static/djangocentralstaticfiles/"
 
 # URL prefix for admin static files -- CSS, JavaScript and images.
 # Make sure to use a trailing slash.
 # Examples: "http://foo.com/static/admin/", "/static/admin/".
-ADMIN_MEDIA_PREFIX = 'http://biohelikon.org/djangocentralstaticfiles/admin/'
+ADMIN_MEDIA_PREFIX = BASE_URL +  '/djangocentralstaticfiles/admin/'
 
 # Additional locations of static files
 STATICFILES_DIRS = (
-    "/home/amiyatulu/webapps/biohelik/djangocentral/static",
+    "/media/djangocentral/static",
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
@@ -123,7 +124,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/home/amiyatulu/webapps/biohelik/djangocentral/django_templates",
+    "/media/djangocentral/django_templates",
 )
 RECAPTCHA_PUBLIC_KEY = '6LfsbQkTAAAAABGXK3a86JLkodCeMgfr052u0VpW'
 RECAPTCHA_PRIVATE_KEY = '6LfsbQkTAAAAADDlPY-ssxF1Dlva0-9wrIL1OG6X'
@@ -142,7 +143,6 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
     'tracking',
     'journal',
-    'mailing',
     'haystack',
     'captcha',
 )
