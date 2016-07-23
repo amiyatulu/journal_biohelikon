@@ -1,7 +1,0 @@
-{% load url from future %}
-<input type="checkbox" name= "all" value= "">Select All <br/>
-{% for contacts in contacts_list %}
- <input type="checkbox" name="Email" value="{{ contacts.id }}">
-
-{{ contacts.get_full_name }} &nbsp;&nbsp;&nbsp;{{ contacts.email }} &nbsp;&nbsp;&nbsp; {{ contacts.userlastsent.lastsent }} <br/>
-{% endfor %}
